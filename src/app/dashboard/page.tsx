@@ -1,0 +1,275 @@
+"use client";
+
+import { useMemo } from "react";
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { Progress } from "@/components/ui/progress";
+import { Badge } from "@/components/ui/badge";
+import { useProgress } from "@/lib/storage/progress-context";
+import {
+  ListChecks,
+  Building2,
+  Trophy,
+  TrendingUp,
+} from "lucide-react";
+import type { Task, HideoutStation } from "@/types/tarkov";
+import taskData from "../../../data/task.json";
+import hideoutData from "../../../data/hideout.json";
+import {
+  PieChart,
+  Pie,
+  Cell,
+  ResponsiveContainer,
+  BarChart,
+  Bar,
+  XAxis,
+  YAxis,
+  Tooltip,
+} from "recharts";
+
+const tasks: Task[] = taskData.tasks as Task[];
+const stations: HideoutStation[] = hideoutData.hideoutStations as HideoutStation[];
+
+const CHART_COLORS = ["#d4a574", "#3a3a3a"];
+
+export default function DashboardPage() {
+  const { progress } = useProgress();
+
+  const taskStats = useMemo(() => {
+    const total = tasks.length;
+    const completed = Object.values(progress.tasks).filter(
+      (t) => t.completed
+    ).length;
+    const percent = total > 0 ? Math.round((completed / total) * 100) : 0;
+
+    // Per-trader stats
+    const traderMap = new Map<string, { total: number; completed: number }>();
+    for (const task of tasks) {
+      const name = task.trader.name;
+      if (!traderMap.has(name)) traderMap.set(name, { total: 0, completed: 0 });
+      const s = traderMap.get(name)!;
+      s.total++;
+      if (progress.tasks[task.id]?.completed) s.completed++;
+    }
+    const traderStats = Array.from(traderMap.entries())
+      .map(([name, s]) => ({ name, ...s }))
+      .sort((a, b) => b.total - a.total);
+
+    return { total, completed, percent, traderStats };
+  }, [progress]);
+
+  const hideoutStats = useMemo(() => {
+    let totalLevels = 0;
+    let completedLevels = 0;
+    for (const station of stations) {
+      for (const level of station.levels) {
+        totalLevels++;
+        if (progress.hideout[station.id]?.[level.level]?.completed) {
+          completedLevels++;
+        }
+      }
+    }
+    const percent =
+      totalLevels > 0
+        ? Math.round((completedLevels / totalLevels) * 100)
+        : 0;
+    return { totalLevels, completedLevels, percent };
+  }, [progress]);
+
+  const recentTasks = useMemo(() => {
+    return Object.entries(progress.tasks)
+      .filter(([, t]) => t.completed && t.completedAt)
+      .sort((a, b) => (b[1].completedAt! > a[1].completedAt! ? 1 : -1))
+      .slice(0, 5)
+      .map(([id]) => tasks.find((t) => t.id === id))
+      .filter(Boolean) as Task[];
+  }, [progress]);
+
+  const pieData = [
+    { name: "Completed", value: taskStats.completed },
+    { name: "Remaining", value: taskStats.total - taskStats.completed },
+  ];
+
+  return (
+    <div className="space-y-6">
+      <h1 className="text-2xl font-bold">Dashboard</h1>
+
+      {/* Stats cards */}
+      <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+        <Card>
+          <CardHeader className="flex flex-row items-center justify-between pb-2">
+            <CardTitle className="text-sm font-medium text-muted-foreground">
+              Tasks Completed
+            </CardTitle>
+            <ListChecks className="h-4 w-4 text-muted-foreground" />
+          </CardHeader>
+          <CardContent>
+            <div className="text-2xl font-bold">
+              {taskStats.completed}
+              <span className="text-sm font-normal text-muted-foreground">
+                {" "}/ {taskStats.total}
+              </span>
+            </div>
+            <Progress value={taskStats.percent} className="mt-2" />
+          </CardContent>
+        </Card>
+
+        <Card>
+          <CardHeader className="flex flex-row items-center justify-between pb-2">
+            <CardTitle className="text-sm font-medium text-muted-foreground">
+              Hideout Progress
+            </CardTitle>
+            <Building2 className="h-4 w-4 text-muted-foreground" />
+          </CardHeader>
+          <CardContent>
+            <div className="text-2xl font-bold">
+              {hideoutStats.completedLevels}
+              <span className="text-sm font-normal text-muted-foreground">
+                {" "}/ {hideoutStats.totalLevels}
+              </span>
+            </div>
+            <Progress value={hideoutStats.percent} className="mt-2" />
+          </CardContent>
+        </Card>
+
+        <Card>
+          <CardHeader className="flex flex-row items-center justify-between pb-2">
+            <CardTitle className="text-sm font-medium text-muted-foreground">
+              Task Completion
+            </CardTitle>
+            <Trophy className="h-4 w-4 text-muted-foreground" />
+          </CardHeader>
+          <CardContent>
+            <div className="text-2xl font-bold">{taskStats.percent}%</div>
+            <p className="text-xs text-muted-foreground mt-1">
+              Overall progress
+            </p>
+          </CardContent>
+        </Card>
+
+        <Card>
+          <CardHeader className="flex flex-row items-center justify-between pb-2">
+            <CardTitle className="text-sm font-medium text-muted-foreground">
+              Hideout Completion
+            </CardTitle>
+            <TrendingUp className="h-4 w-4 text-muted-foreground" />
+          </CardHeader>
+          <CardContent>
+            <div className="text-2xl font-bold">{hideoutStats.percent}%</div>
+            <p className="text-xs text-muted-foreground mt-1">
+              Overall progress
+            </p>
+          </CardContent>
+        </Card>
+      </div>
+
+      {/* Charts */}
+      <div className="grid gap-4 lg:grid-cols-2">
+        <Card>
+          <CardHeader>
+            <CardTitle className="text-base">Task Progress</CardTitle>
+          </CardHeader>
+          <CardContent>
+            <div className="h-[200px]">
+              <ResponsiveContainer width="100%" height="100%">
+                <PieChart>
+                  <Pie
+                    data={pieData}
+                    cx="50%"
+                    cy="50%"
+                    innerRadius={60}
+                    outerRadius={80}
+                    dataKey="value"
+                    strokeWidth={0}
+                  >
+                    {pieData.map((_, index) => (
+                      <Cell
+                        key={`cell-${index}`}
+                        fill={CHART_COLORS[index]}
+                      />
+                    ))}
+                  </Pie>
+                </PieChart>
+              </ResponsiveContainer>
+            </div>
+            <div className="flex justify-center gap-4 text-sm">
+              <div className="flex items-center gap-2">
+                <div className="h-3 w-3 rounded" style={{ background: CHART_COLORS[0] }} />
+                Completed ({taskStats.completed})
+              </div>
+              <div className="flex items-center gap-2">
+                <div className="h-3 w-3 rounded" style={{ background: CHART_COLORS[1] }} />
+                Remaining ({taskStats.total - taskStats.completed})
+              </div>
+            </div>
+          </CardContent>
+        </Card>
+
+        <Card>
+          <CardHeader>
+            <CardTitle className="text-base">Progress by Trader</CardTitle>
+          </CardHeader>
+          <CardContent>
+            <div className="h-[250px]">
+              <ResponsiveContainer width="100%" height="100%">
+                <BarChart
+                  data={taskStats.traderStats}
+                  layout="vertical"
+                  margin={{ left: 0, right: 20 }}
+                >
+                  <XAxis type="number" hide />
+                  <YAxis
+                    dataKey="name"
+                    type="category"
+                    width={100}
+                    tick={{ fill: "#a0a0a0", fontSize: 12 }}
+                  />
+                  <Tooltip
+                    contentStyle={{
+                      background: "#2a2a2a",
+                      border: "1px solid #3a3a3a",
+                      borderRadius: "8px",
+                      color: "#e0e0e0",
+                    }}
+                  />
+                  <Bar dataKey="completed" fill="#d4a574" radius={[0, 4, 4, 0]} name="Completed" />
+                  <Bar dataKey="total" fill="#3a3a3a" radius={[0, 4, 4, 0]} name="Total" />
+                </BarChart>
+              </ResponsiveContainer>
+            </div>
+          </CardContent>
+        </Card>
+      </div>
+
+      {/* Recent Tasks */}
+      <Card>
+        <CardHeader>
+          <CardTitle className="text-base">Recently Completed Tasks</CardTitle>
+        </CardHeader>
+        <CardContent>
+          {recentTasks.length === 0 ? (
+            <p className="text-sm text-muted-foreground">
+              No tasks completed yet. Head to the Tasks page to get started!
+            </p>
+          ) : (
+            <div className="space-y-2">
+              {recentTasks.map((task) => (
+                <div
+                  key={task.id}
+                  className="flex items-center justify-between rounded-lg bg-muted/50 p-3"
+                >
+                  <div>
+                    <p className="text-sm font-medium">{task.name}</p>
+                    <p className="text-xs text-muted-foreground">
+                      {task.trader.name}
+                    </p>
+                  </div>
+                  <Badge variant="secondary">+{task.experience} XP</Badge>
+                </div>
+              ))}
+            </div>
+          )}
+        </CardContent>
+      </Card>
+    </div>
+  );
+}

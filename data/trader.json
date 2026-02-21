@@ -1,0 +1,568 @@
+{
+  "traders": [
+    {
+      "id": "54cb50c76803fa8b248b4571",
+      "name": "Prapor",
+      "normalizedName": "prapor",
+      "description": "ノルヴィンスク地域を封鎖した国内軍の後方補給基地倉庫を管理するロシア連邦軍の准士官。契約戦争ではBEARのオペレーター達に武器、弾薬及び、その他の様々な物資をひそかに提供していた。",
+      "resetTime": "2026-02-20T15:23:11.000Z",
+      "discount": 0,
+      "levels": [
+        {
+          "level": 1,
+          "requiredPlayerLevel": 0,
+          "requiredReputation": 0,
+          "requiredCommerce": 0,
+          "insuranceRate": 0.16,
+          "repairCostMultiplier": 3.4,
+          "payRate": 0.5
+        },
+        {
+          "level": 2,
+          "requiredPlayerLevel": 15,
+          "requiredReputation": 0.2,
+          "requiredCommerce": 1120000,
+          "insuranceRate": 0.17,
+          "repairCostMultiplier": 3.7,
+          "payRate": 0.5
+        },
+        {
+          "level": 3,
+          "requiredPlayerLevel": 26,
+          "requiredReputation": 0.35,
+          "requiredCommerce": 2700000,
+          "insuranceRate": 0.18,
+          "repairCostMultiplier": 3.85,
+          "payRate": 0.5
+        },
+        {
+          "level": 4,
+          "requiredPlayerLevel": 36,
+          "requiredReputation": 0.5,
+          "requiredCommerce": 3400000,
+          "insuranceRate": 0.19,
+          "repairCostMultiplier": 4,
+          "payRate": 0.5
+        }
+      ],
+      "currency": {
+        "name": "ルーブル紙幣"
+      }
+    },
+    {
+      "id": "54cb57776803fa99248b456e",
+      "name": "Therapist",
+      "normalizedName": "therapist",
+      "description": "タルコフ市中央病院の外科医長を務めている。",
+      "resetTime": "2026-02-20T15:13:42.000Z",
+      "discount": 0,
+      "levels": [
+        {
+          "level": 1,
+          "requiredPlayerLevel": 0,
+          "requiredReputation": 0,
+          "requiredCommerce": 0,
+          "insuranceRate": 0.2,
+          "repairCostMultiplier": null,
+          "payRate": 0.63
+        },
+        {
+          "level": 2,
+          "requiredPlayerLevel": 14,
+          "requiredReputation": 0.15,
+          "requiredCommerce": 600000,
+          "insuranceRate": 0.21,
+          "repairCostMultiplier": null,
+          "payRate": 0.63
+        },
+        {
+          "level": 3,
+          "requiredPlayerLevel": 23,
+          "requiredReputation": 0.3,
+          "requiredCommerce": 1000000,
+          "insuranceRate": 0.22,
+          "repairCostMultiplier": null,
+          "payRate": 0.63
+        },
+        {
+          "level": 4,
+          "requiredPlayerLevel": 37,
+          "requiredReputation": 0.6,
+          "requiredCommerce": 1600000,
+          "insuranceRate": 0.23,
+          "repairCostMultiplier": null,
+          "payRate": 0.63
+        }
+      ],
+      "currency": {
+        "name": "ルーブル紙幣"
+      }
+    },
+    {
+      "id": "579dc571d53a0658a154fbec",
+      "name": "Fence",
+      "normalizedName": "fence",
+      "description": "Fenceは紛争が始まる以前から、既に匿名で盗品を売買するためのルートを確立し始めていた。その後も自らの匿名性は維持しつつも、今やノルヴィンスク全域で展開されている密輸業者ネットワークをまとめ上げている。",
+      "resetTime": "2026-02-20T14:26:19.000Z",
+      "discount": 0,
+      "levels": [
+        {
+          "level": 0,
+          "requiredPlayerLevel": 1,
+          "requiredReputation": 0,
+          "requiredCommerce": 0,
+          "insuranceRate": null,
+          "repairCostMultiplier": null,
+          "payRate": 0.3
+        },
+        {
+          "level": 1,
+          "requiredPlayerLevel": 1,
+          "requiredReputation": 0,
+          "requiredCommerce": 0,
+          "insuranceRate": null,
+          "repairCostMultiplier": null,
+          "payRate": 0.3
+        },
+        {
+          "level": 2,
+          "requiredPlayerLevel": 1,
+          "requiredReputation": 6,
+          "requiredCommerce": 0,
+          "insuranceRate": null,
+          "repairCostMultiplier": null,
+          "payRate": 0.3
+        }
+      ],
+      "currency": {
+        "name": "ルーブル紙幣"
+      }
+    },
+    {
+      "id": "58330581ace78e27b8b10cee",
+      "name": "Skier",
+      "normalizedName": "skier",
+      "description": "港湾地区にある税関ターミナルの従業員。当初は施設内の品物で商売をしていただけだったが、紛争が激しくなる中で周囲のごろつきたちをまとめ上げ、ターミナルと周辺一帯を手中に収めた。",
+      "resetTime": "2026-02-20T15:51:38.000Z",
+      "discount": 0,
+      "levels": [
+        {
+          "level": 1,
+          "requiredPlayerLevel": 1,
+          "requiredReputation": 0,
+          "requiredCommerce": 0,
+          "insuranceRate": null,
+          "repairCostMultiplier": 3.75,
+          "payRate": 0.49
+        },
+        {
+          "level": 2,
+          "requiredPlayerLevel": 15,
+          "requiredReputation": 0.2,
+          "requiredCommerce": 1200000,
+          "insuranceRate": null,
+          "repairCostMultiplier": 3.9,
+          "payRate": 0.49
+        },
+        {
+          "level": 3,
+          "requiredPlayerLevel": 28,
+          "requiredReputation": 0.4,
+          "requiredCommerce": 2400000,
+          "insuranceRate": null,
+          "repairCostMultiplier": 4.1,
+          "payRate": 0.49
+        },
+        {
+          "level": 4,
+          "requiredPlayerLevel": 38,
+          "requiredReputation": 0.75,
+          "requiredCommerce": 3900000,
+          "insuranceRate": null,
+          "repairCostMultiplier": 4.25,
+          "payRate": 0.49
+        }
+      ],
+      "currency": {
+        "name": "ルーブル紙幣"
+      }
+    },
+    {
+      "id": "5935c25fb3acc3127c3d8cd9",
+      "name": "Peacekeeper",
+      "normalizedName": "peacekeeper",
+      "description": "国連平和維持軍の補給担当士官。タルコフの港湾地域へと繋がる中央検問所の1つに拠点を築いている。青ヘルメット達は紛争の最初期から積極的な少額取引を行っており、西側の武器や弾薬、装備品と引き換えに値打ちのあるものは何でも買い取っている。",
+      "resetTime": "2026-02-20T16:04:48.000Z",
+      "discount": 0,
+      "levels": [
+        {
+          "level": 1,
+          "requiredPlayerLevel": 1,
+          "requiredReputation": 0,
+          "requiredCommerce": 0,
+          "insuranceRate": null,
+          "repairCostMultiplier": null,
+          "payRate": 0.45
+        },
+        {
+          "level": 2,
+          "requiredPlayerLevel": 14,
+          "requiredReputation": 0,
+          "requiredCommerce": 16000,
+          "insuranceRate": null,
+          "repairCostMultiplier": null,
+          "payRate": 0.45
+        },
+        {
+          "level": 3,
+          "requiredPlayerLevel": 23,
+          "requiredReputation": 0.3,
+          "requiredCommerce": 37000,
+          "insuranceRate": null,
+          "repairCostMultiplier": null,
+          "payRate": 0.45
+        },
+        {
+          "level": 4,
+          "requiredPlayerLevel": 37,
+          "requiredReputation": 0.6,
+          "requiredCommerce": 55000,
+          "insuranceRate": null,
+          "repairCostMultiplier": null,
+          "payRate": 0.45
+        }
+      ],
+      "currency": {
+        "name": "ドル紙幣"
+      }
+    },
+    {
+      "id": "5a7c2eca46aef81a7ca2145d",
+      "name": "Mechanic",
+      "normalizedName": "mechanic",
+      "description": "かつては化学プラントの現場主任を務めており、紛争の初期から複雑な機器の修理や改造、メンテナンスに携わっていた。彼は人目に付かない暮らしと慎重な行動を好む一方で、困難な仕事を何よりも優先する気質の持ち主だ。",
+      "resetTime": "2026-02-20T14:55:58.000Z",
+      "discount": 0,
+      "levels": [
+        {
+          "level": 1,
+          "requiredPlayerLevel": 1,
+          "requiredReputation": 0,
+          "requiredCommerce": 0,
+          "insuranceRate": null,
+          "repairCostMultiplier": 4.1,
+          "payRate": 0.56
+        },
+        {
+          "level": 2,
+          "requiredPlayerLevel": 20,
+          "requiredReputation": 0.15,
+          "requiredCommerce": 1120000,
+          "insuranceRate": null,
+          "repairCostMultiplier": 4.25,
+          "payRate": 0.56
+        },
+        {
+          "level": 3,
+          "requiredPlayerLevel": 30,
+          "requiredReputation": 0.3,
+          "requiredCommerce": 2400000,
+          "insuranceRate": null,
+          "repairCostMultiplier": 4.4,
+          "payRate": 0.56
+        },
+        {
+          "level": 4,
+          "requiredPlayerLevel": 40,
+          "requiredReputation": 0.6,
+          "requiredCommerce": 3700000,
+          "insuranceRate": null,
+          "repairCostMultiplier": 4.6,
+          "payRate": 0.56
+        }
+      ],
+      "currency": {
+        "name": "ルーブル紙幣"
+      }
+    },
+    {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman",
+      "normalizedName": "ragman",
+      "description": "かつてはタルコフ郊外の大きな市場を管理していた。今はサングラスからボディアーマーまで、衣類や装備に関するものは何でも取り扱っている。",
+      "resetTime": "2026-02-20T16:33:31.000Z",
+      "discount": 0,
+      "levels": [
+        {
+          "level": 1,
+          "requiredPlayerLevel": 1,
+          "requiredReputation": 0,
+          "requiredCommerce": 0,
+          "insuranceRate": null,
+          "repairCostMultiplier": null,
+          "payRate": 0.62
+        },
+        {
+          "level": 2,
+          "requiredPlayerLevel": 17,
+          "requiredReputation": 0,
+          "requiredCommerce": 1120000,
+          "insuranceRate": null,
+          "repairCostMultiplier": null,
+          "payRate": 0.62
+        },
+        {
+          "level": 3,
+          "requiredPlayerLevel": 32,
+          "requiredReputation": 0.3,
+          "requiredCommerce": 2400000,
+          "insuranceRate": null,
+          "repairCostMultiplier": null,
+          "payRate": 0.62
+        },
+        {
+          "level": 4,
+          "requiredPlayerLevel": 42,
+          "requiredReputation": 0.6,
+          "requiredCommerce": 3700000,
+          "insuranceRate": null,
+          "repairCostMultiplier": null,
+          "payRate": 0.62
+        }
+      ],
+      "currency": {
+        "name": "ルーブル紙幣"
+      }
+    },
+    {
+      "id": "5c0647fdd443bc2504c2d371",
+      "name": "Jaeger",
+      "normalizedName": "jaeger",
+      "description": "野生動物保護管理局の職員として、プリオゼルスキー自然保護区で働いていたプロのハンターかつサバイバルの専門家。彼はこれまでもこれからも、あらゆる侵入者から保護区を守り続ける。",
+      "resetTime": "2026-02-20T14:01:01.000Z",
+      "discount": 0,
+      "levels": [
+        {
+          "level": 1,
+          "requiredPlayerLevel": 1,
+          "requiredReputation": 0,
+          "requiredCommerce": 0,
+          "insuranceRate": null,
+          "repairCostMultiplier": null,
+          "payRate": 0.6
+        },
+        {
+          "level": 2,
+          "requiredPlayerLevel": 15,
+          "requiredReputation": 0.2,
+          "requiredCommerce": 840000,
+          "insuranceRate": null,
+          "repairCostMultiplier": null,
+          "payRate": 0.6
+        },
+        {
+          "level": 3,
+          "requiredPlayerLevel": 22,
+          "requiredReputation": 0.35,
+          "requiredCommerce": 1680000,
+          "insuranceRate": null,
+          "repairCostMultiplier": null,
+          "payRate": 0.6
+        },
+        {
+          "level": 4,
+          "requiredPlayerLevel": 33,
+          "requiredReputation": 0.5,
+          "requiredCommerce": 2580000,
+          "insuranceRate": null,
+          "repairCostMultiplier": null,
+          "payRate": 0.6
+        }
+      ],
+      "currency": {
+        "name": "ルーブル紙幣"
+      }
+    },
+    {
+      "id": "638f541a29ffd1183d187f57",
+      "name": "Lightkeeper",
+      "normalizedName": "lightkeeper",
+      "description": "<秘匿されている>",
+      "resetTime": "2026-02-20T13:59:53.000Z",
+      "discount": 0,
+      "levels": [
+        {
+          "level": 1,
+          "requiredPlayerLevel": 1,
+          "requiredReputation": 0,
+          "requiredCommerce": 0,
+          "insuranceRate": null,
+          "repairCostMultiplier": null,
+          "payRate": 0.0001
+        }
+      ],
+      "currency": {
+        "name": "ルーブル紙幣"
+      }
+    },
+    {
+      "id": "656f0f98d80a697f855d34b1",
+      "name": "BTR Driver",
+      "normalizedName": "btr-driver",
+      "description": "<Classified>",
+      "resetTime": "2026-02-20T14:36:53.000Z",
+      "discount": 0,
+      "levels": [
+        {
+          "level": 1,
+          "requiredPlayerLevel": 1,
+          "requiredReputation": 0,
+          "requiredCommerce": 0,
+          "insuranceRate": null,
+          "repairCostMultiplier": null,
+          "payRate": 0.0001
+        }
+      ],
+      "currency": {
+        "name": "ルーブル紙幣"
+      }
+    },
+    {
+      "id": "68fe15990f29ba3fdbba9d55",
+      "name": "Radio station",
+      "normalizedName": "radio-station",
+      "description": "A multi-function radio station with built-in cryptographic processor.",
+      "resetTime": "2026-02-20T14:37:54.000Z",
+      "discount": 0,
+      "levels": [
+        {
+          "level": 1,
+          "requiredPlayerLevel": 1,
+          "requiredReputation": 0,
+          "requiredCommerce": 0,
+          "insuranceRate": null,
+          "repairCostMultiplier": null,
+          "payRate": 0.0001
+        }
+      ],
+      "currency": {
+        "name": "ルーブル紙幣"
+      }
+    },
+    {
+      "id": "68fe15910f29ba3fdbba9d54",
+      "name": "Taran",
+      "normalizedName": "taran",
+      "description": "Member of the Bogatyr squad.",
+      "resetTime": "2026-02-20T14:04:53.000Z",
+      "discount": 0,
+      "levels": [
+        {
+          "level": 1,
+          "requiredPlayerLevel": 1,
+          "requiredReputation": 0,
+          "requiredCommerce": 0,
+          "insuranceRate": null,
+          "repairCostMultiplier": null,
+          "payRate": 0.0001
+        }
+      ],
+      "currency": {
+        "name": "ルーブル紙幣"
+      }
+    },
+    {
+      "id": "6617beeaa9cfa777ca915b7c",
+      "name": "Ref",
+      "normalizedName": "ref",
+      "description": "The Arena host who organizes pit fights across Tarkov.",
+      "resetTime": "2026-02-20T15:46:31.000Z",
+      "discount": 0,
+      "levels": [
+        {
+          "level": 1,
+          "requiredPlayerLevel": 1,
+          "requiredReputation": 0,
+          "requiredCommerce": 0,
+          "insuranceRate": null,
+          "repairCostMultiplier": null,
+          "payRate": 0.5
+        },
+        {
+          "level": 2,
+          "requiredPlayerLevel": 15,
+          "requiredReputation": 0.25,
+          "requiredCommerce": 0,
+          "insuranceRate": null,
+          "repairCostMultiplier": null,
+          "payRate": 0.56
+        },
+        {
+          "level": 3,
+          "requiredPlayerLevel": 25,
+          "requiredReputation": 0.5,
+          "requiredCommerce": 0,
+          "insuranceRate": null,
+          "repairCostMultiplier": null,
+          "payRate": 0.56
+        },
+        {
+          "level": 4,
+          "requiredPlayerLevel": 35,
+          "requiredReputation": 1.2,
+          "requiredCommerce": 0,
+          "insuranceRate": null,
+          "repairCostMultiplier": null,
+          "payRate": 0.62
+        }
+      ],
+      "currency": {
+        "name": "ルーブル紙幣"
+      }
+    },
+    {
+      "id": "688246518448b05efd61d461",
+      "name": "Mr. Kerman",
+      "normalizedName": "mr-kerman",
+      "description": "<Unknown>",
+      "resetTime": "2026-02-20T14:45:53.000Z",
+      "discount": 0,
+      "levels": [
+        {
+          "level": 1,
+          "requiredPlayerLevel": 1,
+          "requiredReputation": 0,
+          "requiredCommerce": 0,
+          "insuranceRate": null,
+          "repairCostMultiplier": null,
+          "payRate": 0.0001
+        }
+      ],
+      "currency": {
+        "name": "ルーブル紙幣"
+      }
+    },
+    {
+      "id": "688246958448b05efd61d462",
+      "name": "Voevoda",
+      "normalizedName": "voevoda",
+      "description": "Commander of the Bogatyr squad.",
+      "resetTime": "2026-02-20T14:37:54.000Z",
+      "discount": 0,
+      "levels": [
+        {
+          "level": 1,
+          "requiredPlayerLevel": 1,
+          "requiredReputation": 0,
+          "requiredCommerce": 0,
+          "insuranceRate": null,
+          "repairCostMultiplier": null,
+          "payRate": 0.0001
+        }
+      ],
+      "currency": {
+        "name": "ルーブル紙幣"
+      }
+    }
+  ]
+}
