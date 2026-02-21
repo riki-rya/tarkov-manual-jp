@@ -22,6 +22,16 @@ import taskData from "../../../../data/task.json";
 
 const tasks: Task[] = taskData.tasks as Task[];
 
+// 完了後にアンロックされるタスクの逆引きマップ
+const unlocksAfterMap = new Map<string, Task[]>();
+tasks.forEach((task) => {
+  task.taskRequirements.forEach((req) => {
+    const existing = unlocksAfterMap.get(req.task.id) ?? [];
+    existing.push(task);
+    unlocksAfterMap.set(req.task.id, existing);
+  });
+});
+
 const TRADER_NODE_COLORS: Record<string, string> = {
   Prapor: "#8b4513",
   Therapist: "#9c27b0",
@@ -229,6 +239,9 @@ export default function TaskChartPage() {
         task={selectedTask}
         open={modalOpen}
         onOpenChange={setModalOpen}
+        unlocksAfter={
+          selectedTask ? (unlocksAfterMap.get(selectedTask.id) ?? []) : []
+        }
       />
     </div>
   );
