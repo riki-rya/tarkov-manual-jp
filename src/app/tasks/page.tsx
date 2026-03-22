@@ -144,7 +144,7 @@ export default function TasksPage() {
   return (
     <div className="space-y-4">
       <div className="flex items-center justify-between">
-        <h1 className="text-2xl font-bold">Tasks</h1>
+        <h1 className="text-2xl font-bold">タスク</h1>
         <span className="text-sm text-muted-foreground">
           {filteredTasks.length}件のタスクを表示中
         </span>
@@ -310,11 +310,6 @@ export default function TasksPage() {
                         </Badge>
                       )}
                     </div>
-
-                    {/* サブタイトル */}
-                    <p className="text-xs text-muted-foreground mt-0.5">
-                      {task.name}
-                    </p>
 
                     {/* タグ行: トレーダー / マップ / レベル */}
                     <div className="flex flex-wrap gap-1.5 mt-2">
