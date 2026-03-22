@@ -25,11 +25,11 @@ import {
 import { Badge } from "@/components/ui/badge";
 
 const navItems = [
-  { title: "Dashboard", href: "/dashboard", icon: LayoutDashboard },
-  { title: "Tasks", href: "/tasks", icon: ListChecks },
-  { title: "Hideout", href: "/hideout", icon: Building2 },
-  { title: "Story", href: "/story", icon: BookOpen, wip: true },
-  { title: "Guides", href: "/guides", icon: Map, wip: true },
+  { title: "ダッシュボード", href: "/dashboard", icon: LayoutDashboard },
+  { title: "タスク", href: "/tasks", icon: ListChecks },
+  { title: "ハイドアウト", href: "/hideout", icon: Building2 },
+  { title: "ストーリー", href: "/story", icon: BookOpen, wip: true },
+  { title: "ガイド", href: "/guides", icon: Map, wip: true },
 ];
 
 export function AppSidebar() {
@@ -52,7 +52,7 @@ export function AppSidebar() {
       </SidebarHeader>
       <SidebarContent>
         <SidebarGroup>
-          <SidebarGroupLabel>Navigation</SidebarGroupLabel>
+          <SidebarGroupLabel>ナビゲーション</SidebarGroupLabel>
           <SidebarGroupContent>
             <SidebarMenu>
               {navItems.map((item) => (
@@ -86,7 +86,7 @@ export function AppSidebar() {
             >
               <Link href="/settings">
                 <Settings className="h-4 w-4" />
-                <span>Settings</span>
+                <span>設定</span>
               </Link>
             </SidebarMenuButton>
           </SidebarMenuItem>

@@ -91,14 +91,14 @@ export default function DashboardPage() {
 
   return (
     <div className="space-y-6">
-      <h1 className="text-2xl font-bold">Dashboard</h1>
+      <h1 className="text-2xl font-bold">ダッシュボード</h1>
 
       {/* Stats cards */}
       <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
         <Card>
           <CardHeader className="flex flex-row items-center justify-between pb-2">
             <CardTitle className="text-sm font-medium text-muted-foreground">
-              Tasks Completed
+              タスク完了数
             </CardTitle>
             <ListChecks className="h-4 w-4 text-muted-foreground" />
           </CardHeader>
@@ -116,7 +116,7 @@ export default function DashboardPage() {
         <Card>
           <CardHeader className="flex flex-row items-center justify-between pb-2">
             <CardTitle className="text-sm font-medium text-muted-foreground">
-              Hideout Progress
+              ハイドアウト進捗
             </CardTitle>
             <Building2 className="h-4 w-4 text-muted-foreground" />
           </CardHeader>
@@ -134,14 +134,14 @@ export default function DashboardPage() {
         <Card>
           <CardHeader className="flex flex-row items-center justify-between pb-2">
             <CardTitle className="text-sm font-medium text-muted-foreground">
-              Task Completion
+              タスク達成率
             </CardTitle>
             <Trophy className="h-4 w-4 text-muted-foreground" />
           </CardHeader>
           <CardContent>
             <div className="text-2xl font-bold">{taskStats.percent}%</div>
             <p className="text-xs text-muted-foreground mt-1">
-              Overall progress
+              全体の進捗
             </p>
           </CardContent>
         </Card>
@@ -149,14 +149,14 @@ export default function DashboardPage() {
         <Card>
           <CardHeader className="flex flex-row items-center justify-between pb-2">
             <CardTitle className="text-sm font-medium text-muted-foreground">
-              Hideout Completion
+              ハイドアウト達成率
             </CardTitle>
             <TrendingUp className="h-4 w-4 text-muted-foreground" />
           </CardHeader>
           <CardContent>
             <div className="text-2xl font-bold">{hideoutStats.percent}%</div>
             <p className="text-xs text-muted-foreground mt-1">
-              Overall progress
+              全体の進捗
             </p>
           </CardContent>
         </Card>
@@ -166,7 +166,7 @@ export default function DashboardPage() {
       <div className="grid gap-4 lg:grid-cols-2">
         <Card>
           <CardHeader>
-            <CardTitle className="text-base">Task Progress</CardTitle>
+            <CardTitle className="text-base">タスク進捗</CardTitle>
           </CardHeader>
           <CardContent>
             <div className="h-[200px]">
@@ -194,11 +194,11 @@ export default function DashboardPage() {
             <div className="flex justify-center gap-4 text-sm">
               <div className="flex items-center gap-2">
                 <div className="h-3 w-3 rounded" style={{ background: CHART_COLORS[0] }} />
-                Completed ({taskStats.completed})
+                完了 ({taskStats.completed})
               </div>
               <div className="flex items-center gap-2">
                 <div className="h-3 w-3 rounded" style={{ background: CHART_COLORS[1] }} />
-                Remaining ({taskStats.total - taskStats.completed})
+                未完了 ({taskStats.total - taskStats.completed})
               </div>
             </div>
           </CardContent>
@@ -206,7 +206,7 @@ export default function DashboardPage() {
 
         <Card>
           <CardHeader>
-            <CardTitle className="text-base">Progress by Trader</CardTitle>
+            <CardTitle className="text-base">トレーダー別進捗</CardTitle>
           </CardHeader>
           <CardContent>
             <div className="h-[250px]">
@@ -231,8 +231,8 @@ export default function DashboardPage() {
                       color: "#e0e0e0",
                     }}
                   />
-                  <Bar dataKey="completed" fill="#d4a574" radius={[0, 4, 4, 0]} name="Completed" />
-                  <Bar dataKey="total" fill="#3a3a3a" radius={[0, 4, 4, 0]} name="Total" />
+                  <Bar dataKey="completed" fill="#d4a574" radius={[0, 4, 4, 0]} name="完了" />
+                  <Bar dataKey="total" fill="#3a3a3a" radius={[0, 4, 4, 0]} name="合計" />
                 </BarChart>
               </ResponsiveContainer>
             </div>
@@ -243,12 +243,12 @@ export default function DashboardPage() {
       {/* Recent Tasks */}
       <Card>
         <CardHeader>
-          <CardTitle className="text-base">Recently Completed Tasks</CardTitle>
+          <CardTitle className="text-base">最近完了したタスク</CardTitle>
         </CardHeader>
         <CardContent>
           {recentTasks.length === 0 ? (
             <p className="text-sm text-muted-foreground">
-              No tasks completed yet. Head to the Tasks page to get started!
+              まだタスクが完了していません。タスクページから始めましょう！
             </p>
           ) : (
             <div className="space-y-2">

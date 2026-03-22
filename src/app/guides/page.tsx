@@ -8,9 +8,9 @@ export default function GuidesPage() {
         <CardContent className="flex flex-col items-center gap-4 py-12 text-center">
           <Construction className="h-12 w-12 text-muted-foreground" />
           <div>
-            <h1 className="text-xl font-bold">Coming Soon</h1>
+            <h1 className="text-xl font-bold">近日公開予定</h1>
             <p className="text-sm text-muted-foreground mt-2">
-              The Guides page is currently under development.
+              ガイドページは現在開発中です。
             </p>
           </div>
         </CardContent>
