@@ -27,5 +27,14 @@ jobs:
       - name: 依存関係をインストール
         run: npm ci
 
+      - name: 型チェック
+        run: npm run typecheck
+
+      - name: リント
+        run: npm run lint
+
+      - name: テスト
+        run: npm test
+
       - name: ビルド
         run: npm run build
