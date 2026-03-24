@@ -30,8 +30,9 @@ const ProgressContext = createContext<ProgressContextType | null>(null);
 export function ProgressProvider({ children }: { children: ReactNode }) {
   const [progress, setProgress] = useState<ProgressData>(() => getProgress());
 
-  // Sync with localStorage on mount
+  // SSR ハイドレーション後に localStorage の実データを読み込む
   useEffect(() => {
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     setProgress(getProgress());
   }, []);
 
