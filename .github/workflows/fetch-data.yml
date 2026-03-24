@@ -7,9 +7,16 @@ on:
   workflow_dispatch:
     inputs:
       target:
-        description: "更新対象 (all / items / tasks / hideout / traders)"
+        description: "更新対象"
         required: false
         default: "all"
+        type: choice
+        options:
+          - all
+          - items
+          - tasks
+          - hideout
+          - traders
 
 jobs:
   fetch:
@@ -22,10 +29,10 @@ jobs:
 
     steps:
       - name: リポジトリをチェックアウト
-        uses: actions/checkout@v4
+        uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4.3.1
 
       - name: Node.js セットアップ
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
         with:
           node-version: "20"
           cache: "npm"
@@ -34,10 +41,15 @@ jobs:
         run: npm ci
 
       - name: データを取得
+        env:
+          TARGET: ${{ github.event.inputs.target || 'all' }}
         run: |
-          TARGET="${{ github.event.inputs.target || 'all' }}"
+          case "$TARGET" in
+            all|items|tasks|hideout|traders) ;;
+            *) echo "エラー: 無効な対象 '$TARGET'" && exit 1 ;;
+          esac
           echo "取得対象: $TARGET"
-          npm run fetch:$TARGET
+          npm run "fetch:$TARGET"
 
       - name: 変更を確認
         id: check_changes
