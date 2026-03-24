@@ -12,13 +12,11 @@ import { Input } from "@/components/ui/input";
 import { Badge } from "@/components/ui/badge";
 import { ScrollArea } from "@/components/ui/scroll-area";
 import { Search, ListChecks, Building2 } from "lucide-react";
-import type { Task, HideoutStation } from "@/types/tarkov";
-import taskData from "../../../data/task.json";
-import hideoutData from "../../../data/hideout.json";
+import { getTasks } from "@/lib/data/tasks";
+import { getStations } from "@/lib/data/hideout";
 
-const tasks: Task[] = taskData.tasks as Task[];
-const stations: HideoutStation[] =
-  hideoutData.hideoutStations as HideoutStation[];
+const tasks = getTasks();
+const stations = getStations();
 
 interface SearchDialogProps {
   open: boolean;
