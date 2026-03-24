@@ -61295,8 +61295,7 @@
       "inspectImageLink": "https://assets.tarkov.dev/676bf44c5539167c3603e869-image.webp",
       "wikiLink": "https://escapefromtarkov.fandom.com/wiki/RShG-2_72.5mm_rocket_launcher",
       "types": [
-        "gun",
-        "noFlea"
+        "gun"
       ],
       "width": 4,
       "height": 1,
@@ -62757,7 +62756,7 @@
       "normalizedName": "reprogrammed-rfid-keycard-with-prapors-hash-codes",
       "image512pxLink": "https://assets.tarkov.dev/67c04a6f9152fbdfa306cc66-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/67c04a6f9152fbdfa306cc66-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Reprogrammed_RFID_keycard_with_Prapor%27s_hash_codes",
       "types": [
         "keys",
         "noFlea",
@@ -64778,7 +64777,7 @@
       "normalizedName": "note-mentioning-item-1156",
       "image512pxLink": "https://assets.tarkov.dev/6877c2dcda2a05d0cb04f983-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/6877c2dcda2a05d0cb04f983-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Note_mentioning_Item_1156",
       "types": [
         "noFlea"
       ],
@@ -65034,7 +65033,7 @@
       "normalizedName": "deceased-scientists-audio-tape",
       "image512pxLink": "https://assets.tarkov.dev/688897992f6b5b76380e6af9-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/688897992f6b5b76380e6af9-image.webp",
-      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Deceased_scientist's_audio_tape",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Deceased_scientist%27s_audio_tape",
       "types": [
         "noFlea"
       ],
@@ -65064,7 +65063,7 @@
       "normalizedName": "bear-commanders-audio-tape-labeled-for-the-bears",
       "image512pxLink": "https://assets.tarkov.dev/68889a2f94cca0a80b070af1-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68889a2f94cca0a80b070af1-image.webp",
-      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/BEAR_commander's_audio_tape_labeled_%22For_the_BEARs%22",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/BEAR_commander%27s_audio_tape_labeled_%22For_the_BEARs%22",
       "types": [
         "noFlea"
       ],
@@ -65290,7 +65289,7 @@
       "normalizedName": "9a-91-tts-system-handguard",
       "image512pxLink": "https://assets.tarkov.dev/688b79b5eb234c75d900e050-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/688b79b5eb234c75d900e050-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/9A-91_TTS_System_handguard",
       "types": [
         "mods"
       ],
@@ -65515,7 +65514,7 @@
       "normalizedName": "blue-fire-witness-note",
       "image512pxLink": "https://assets.tarkov.dev/6891bb9f81d0bf37b10249f4-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/6891bb9f81d0bf37b10249f4-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Blue_Fire_witness_note",
       "types": [
         "noFlea"
       ],
@@ -65863,7 +65862,7 @@
       "normalizedName": "folder-with-intelligence-on-norvinsk-region-facilities",
       "image512pxLink": "https://assets.tarkov.dev/689b5072665c386d9c007a41-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/689b5072665c386d9c007a41-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Folder_with_intelligence_on_Norvinsk_region_facilities",
       "types": [
         "noFlea"
       ],
@@ -65923,7 +65922,7 @@
       "normalizedName": "hard-drive-printout",
       "image512pxLink": "https://assets.tarkov.dev/689b512b075404ce7e09ec12-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/689b512b075404ce7e09ec12-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Hard_drive_printout",
       "types": [
         "noFlea"
       ],
@@ -65968,7 +65967,7 @@
       "normalizedName": "guard-post-note",
       "image512pxLink": "https://assets.tarkov.dev/689b51b2987b304021088e93-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/689b51b2987b304021088e93-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Guard_post_note",
       "types": [
         "noFlea"
       ],
@@ -65983,7 +65982,7 @@
       "normalizedName": "burnt-document",
       "image512pxLink": "https://assets.tarkov.dev/689b51de2c175da5bf083b9f-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/689b51de2c175da5bf083b9f-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Burnt_document",
       "types": [
         "noFlea"
       ],
@@ -66118,7 +66117,7 @@
       "normalizedName": "newspaper-clipping-from-the-cultists-house",
       "image512pxLink": "https://assets.tarkov.dev/689b53b7127673bbd40706d3-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/689b53b7127673bbd40706d3-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Newspaper_clipping_from_the_cultists'_house",
       "types": [
         "noFlea"
       ],
@@ -66395,7 +66394,7 @@
       "normalizedName": "ar-15-strike-industries-gridlok-85-inch-handguard",
       "image512pxLink": "https://assets.tarkov.dev/68a5dc4eed35a7eac1048ff6-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68a5dc4eed35a7eac1048ff6-image.webp",
-      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_Strike_Industries_GRIDLOK_8.5_inch_handguard",
+      "wikiLink": "",
       "types": [
         "mods"
       ],
@@ -66850,7 +66849,7 @@
       "normalizedName": "ar-15-strike-industries-gridlok-extension-black",
       "image512pxLink": "https://assets.tarkov.dev/68a6e8fd4ac5b037cb0e9b86-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68a6e8fd4ac5b037cb0e9b86-image.webp",
-      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_Strike_Industries_GRIDLOK_Extension",
+      "wikiLink": "",
       "types": [
         "mods"
       ],
@@ -66880,7 +66879,7 @@
       "normalizedName": "ar-15-strike-industries-gridlok-15-inch-handguard",
       "image512pxLink": "https://assets.tarkov.dev/68a6fbb07279296357007ce2-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68a6fbb07279296357007ce2-image.webp",
-      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_Strike_Industries_GRIDLOK_15_inch_handguard",
+      "wikiLink": "",
       "types": [
         "mods"
       ],
@@ -66955,7 +66954,7 @@
       "normalizedName": "ar-15-strike-industries-gridlok-base-red",
       "image512pxLink": "https://assets.tarkov.dev/68a7000d7708ac5120060527-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68a7000d7708ac5120060527-image.webp",
-      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_Strike_Industries_GRIDLOK_base",
+      "wikiLink": "",
       "types": [
         "mods"
       ],
@@ -69152,7 +69151,7 @@
       "normalizedName": "tarkov-herald-newspaper-with-article-by-a-mikhailova",
       "image512pxLink": "https://assets.tarkov.dev/68d2f6352ca1a737d107b84b-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68d2f6352ca1a737d107b84b-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Tarkov_Herald_newspaper_with_article_by_A._Mikhailova",
       "types": [
         "noFlea"
       ],
@@ -69182,7 +69181,7 @@
       "normalizedName": "second-piece-of-code-note",
       "image512pxLink": "https://assets.tarkov.dev/68d2f6dbf8817df4690db3d3-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68d2f6dbf8817df4690db3d3-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Second_piece_of_code_note",
       "types": [
         "noFlea"
       ],
@@ -69197,7 +69196,7 @@
       "normalizedName": "bear-note-from-the-outpost-behind-ultra",
       "image512pxLink": "https://assets.tarkov.dev/68d2f7334aae290cf704e36d-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68d2f7334aae290cf704e36d-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/BEAR_note_from_the_outpost_behind_Ultra",
       "types": [
         "noFlea"
       ],
@@ -69227,7 +69226,7 @@
       "normalizedName": "strelets-note",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Strelets'_note",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Strelets%27_note",
       "types": [
         "noFlea"
       ],
