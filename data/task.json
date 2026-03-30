@@ -4522,15 +4522,7 @@
           "count": 2,
           "shotType": "kill",
           "zoneNames": [],
-          "bodyParts": [
-            "頭部",
-            "胸部",
-            "腹部",
-            "左腕",
-            "右腕",
-            "左脚",
-            "右脚"
-          ],
+          "bodyParts": [],
           "usingWeapon": [],
           "usingWeaponMods": [],
           "wearing": [],
