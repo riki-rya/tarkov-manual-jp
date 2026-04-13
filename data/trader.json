@@ -5,7 +5,7 @@
       "name": "Prapor",
       "normalizedName": "prapor",
       "description": "ノルヴィンスク地域を封鎖した国内軍の後方補給基地倉庫を管理するロシア連邦軍の准士官。契約戦争ではBEARのオペレーター達に武器、弾薬及び、その他の様々な物資をひそかに提供していた。",
-      "resetTime": "2026-04-06T03:23:01.000Z",
+      "resetTime": "2026-04-13T03:05:44.000Z",
       "discount": 0,
       "levels": [
         {
@@ -54,7 +54,7 @@
       "name": "Therapist",
       "normalizedName": "therapist",
       "description": "タルコフ市中央病院の外科医長を務めている。",
-      "resetTime": "2026-04-06T02:40:17.000Z",
+      "resetTime": "2026-04-13T02:35:43.000Z",
       "discount": 0,
       "levels": [
         {
@@ -103,7 +103,7 @@
       "name": "Fence",
       "normalizedName": "fence",
       "description": "Fenceは紛争が始まる以前から、既に匿名で盗品を売買するためのルートを確立し始めていた。その後も自らの匿名性は維持しつつも、今やノルヴィンスク全域で展開されている密輸業者ネットワークをまとめ上げている。",
-      "resetTime": "2026-04-06T02:50:40.000Z",
+      "resetTime": "2026-04-13T03:12:24.000Z",
       "discount": 0,
       "levels": [
         {
@@ -143,7 +143,7 @@
       "name": "Skier",
       "normalizedName": "skier",
       "description": "港湾地区にある税関ターミナルの従業員。当初は施設内の品物で商売をしていただけだったが、紛争が激しくなる中で周囲のごろつきたちをまとめ上げ、ターミナルと周辺一帯を手中に収めた。",
-      "resetTime": "2026-04-06T03:34:30.000Z",
+      "resetTime": "2026-04-13T03:59:19.000Z",
       "discount": 0,
       "levels": [
         {
@@ -192,7 +192,7 @@
       "name": "Peacekeeper",
       "normalizedName": "peacekeeper",
       "description": "国連平和維持軍の補給担当士官。タルコフの港湾地域へと繋がる中央検問所の1つに拠点を築いている。青ヘルメット達は紛争の最初期から積極的な少額取引を行っており、西側の武器や弾薬、装備品と引き換えに値打ちのあるものは何でも買い取っている。",
-      "resetTime": "2026-04-06T04:31:19.000Z",
+      "resetTime": "2026-04-13T04:00:59.000Z",
       "discount": 0,
       "levels": [
         {
@@ -241,7 +241,7 @@
       "name": "Mechanic",
       "normalizedName": "mechanic",
       "description": "かつては化学プラントの現場主任を務めており、紛争の初期から複雑な機器の修理や改造、メンテナンスに携わっていた。彼は人目に付かない暮らしと慎重な行動を好む一方で、困難な仕事を何よりも優先する気質の持ち主だ。",
-      "resetTime": "2026-04-06T02:58:47.000Z",
+      "resetTime": "2026-04-13T04:41:13.000Z",
       "discount": 0,
       "levels": [
         {
@@ -290,7 +290,7 @@
       "name": "Ragman",
       "normalizedName": "ragman",
       "description": "かつてはタルコフ郊外の大きな市場を管理していた。今はサングラスからボディアーマーまで、衣類や装備に関するものは何でも取り扱っている。",
-      "resetTime": "2026-04-06T03:09:40.000Z",
+      "resetTime": "2026-04-13T05:35:03.000Z",
       "discount": 0,
       "levels": [
         {
@@ -339,7 +339,7 @@
       "name": "Jaeger",
       "normalizedName": "jaeger",
       "description": "野生動物保護管理局の職員として、プリオゼルスキー自然保護区で働いていたプロのハンターかつサバイバルの専門家。彼はこれまでもこれからも、あらゆる侵入者から保護区を守り続ける。",
-      "resetTime": "2026-04-06T02:52:48.000Z",
+      "resetTime": "2026-04-13T02:41:42.000Z",
       "discount": 0,
       "levels": [
         {
@@ -388,7 +388,7 @@
       "name": "Lightkeeper",
       "normalizedName": "lightkeeper",
       "description": "<秘匿されている>",
-      "resetTime": "2026-04-06T02:37:54.000Z",
+      "resetTime": "2026-04-13T02:40:54.000Z",
       "discount": 0,
       "levels": [
         {
@@ -410,7 +410,7 @@
       "name": "BTR Driver",
       "normalizedName": "btr-driver",
       "description": "<Classified>",
-      "resetTime": "2026-04-06T02:28:54.000Z",
+      "resetTime": "2026-04-13T03:28:54.000Z",
       "discount": 0,
       "levels": [
         {
@@ -432,7 +432,7 @@
       "name": "Radio station",
       "normalizedName": "radio-station",
       "description": "A multi-function radio station with built-in cryptographic processor.",
-      "resetTime": "2026-04-06T02:37:55.000Z",
+      "resetTime": "2026-04-13T02:42:54.000Z",
       "discount": 0,
       "levels": [
         {
@@ -454,7 +454,7 @@
       "name": "Taran",
       "normalizedName": "taran",
       "description": "Member of the Bogatyr squad.",
-      "resetTime": "2026-04-06T02:37:55.000Z",
+      "resetTime": "2026-04-13T02:43:54.000Z",
       "discount": 0,
       "levels": [
         {
@@ -476,7 +476,7 @@
       "name": "Ref",
       "normalizedName": "ref",
       "description": "The Arena host who organizes pit fights across Tarkov.",
-      "resetTime": "2026-04-06T02:33:30.000Z",
+      "resetTime": "2026-04-13T03:28:36.000Z",
       "discount": 0,
       "levels": [
         {
@@ -525,7 +525,7 @@
       "name": "Mr. Kerman",
       "normalizedName": "mr-kerman",
       "description": "<Unknown>",
-      "resetTime": "2026-04-06T02:28:54.000Z",
+      "resetTime": "2026-04-13T03:28:54.000Z",
       "discount": 0,
       "levels": [
         {
@@ -547,7 +547,7 @@
       "name": "Voevoda",
       "normalizedName": "voevoda",
       "description": "Commander of the Bogatyr squad.",
-      "resetTime": "2026-04-06T02:37:55.000Z",
+      "resetTime": "2026-04-13T02:42:54.000Z",
       "discount": 0,
       "levels": [
         {
