@@ -1692,6 +1692,7 @@
       "finishRewards": {
         "skillLevelReward": [],
         "traderUnlock": [],
+        "craftUnlock": [],
         "traderStanding": [
           {
             "standing": 0.02,
@@ -1750,8 +1751,7 @@
               "name": "Mosin Rifle AIM Sports Recoil Pad"
             }
           }
-        ],
-        "craftUnlock": []
+        ]
       }
     },
     {
@@ -2664,7 +2664,7 @@
             "count": 1,
             "attributes": [],
             "item": {
-              "id": "mosinsniperatacr00000001",
+              "id": "707265736574000000000019",
               "name": "Mosin 7.62x54R ボルトアクション ライフル (スナイパー) ATACR 7-35x56"
             }
           },
@@ -13071,7 +13071,7 @@
       "name": "To Great Heights! - Part 4 [PVP ZONE]",
       "normalizedName": "to-great-heights-part-4-pvp-zone",
       "map": null,
-      "experience": 12000,
+      "experience": 5600,
       "minPlayerLevel": 10,
       "kappaRequired": false,
       "lightkeeperRequired": false,
@@ -13141,7 +13141,7 @@
         "craftUnlock": [],
         "traderStanding": [
           {
-            "standing": 0.09,
+            "standing": 0.05,
             "trader": {
               "id": "6617beeaa9cfa777ca915b7c",
               "name": "Ref"
@@ -13150,15 +13150,7 @@
         ],
         "items": [
           {
-            "count": 40,
-            "attributes": [],
-            "item": {
-              "id": "5d235b4d86f7742e017bc88a",
-              "name": "GP コイン"
-            }
-          },
-          {
-            "count": 1000002,
+            "count": 2500000,
             "attributes": [],
             "item": {
               "id": "5449016a4bdc2d6f028b456f",
@@ -13166,35 +13158,19 @@
             }
           },
           {
-            "count": 1,
+            "count": 35,
             "attributes": [],
             "item": {
-              "id": "664a5480bfcc521bad3192ca",
-              "name": "Armband (ARENA)"
+              "id": "5d235b4d86f7742e017bc88a",
+              "name": "GP コイン"
             }
           },
           {
             "count": 1,
             "attributes": [],
             "item": {
-              "id": "5bd056fa86f7743aba7658cd",
-              "name": "HK MP7A1 4.6x30 サブマシンガン デフォルト"
-            }
-          },
-          {
-            "count": 3,
-            "attributes": [],
-            "item": {
-              "id": "5ba2657ed4351e0035628ff2",
-              "name": "HK MP7 4.6x30 30-round magazine"
-            }
-          },
-          {
-            "count": 3,
-            "attributes": [],
-            "item": {
-              "id": "64aceaecc4eda9354b0226b6",
-              "name": "4.6x30mm JSP SX ammo pack (40 pcs)"
+              "id": "665732f4464c4b4ba4670fa9",
+              "name": "Unlocked supply crate (Rare)"
             }
           }
         ]
@@ -13636,7 +13612,7 @@
       "name": "To Great Heights! - Part 5 [PVP ZONE]",
       "normalizedName": "to-great-heights-part-5-pvp-zone",
       "map": null,
-      "experience": 21000,
+      "experience": 6900,
       "minPlayerLevel": 10,
       "kappaRequired": false,
       "lightkeeperRequired": false,
@@ -13676,12 +13652,13 @@
         }
       ],
       "finishRewards": {
+        "offerUnlock": [],
         "skillLevelReward": [],
         "traderUnlock": [],
         "craftUnlock": [],
         "traderStanding": [
           {
-            "standing": 0.05,
+            "standing": 0.04,
             "trader": {
               "id": "6617beeaa9cfa777ca915b7c",
               "name": "Ref"
@@ -13695,19 +13672,6 @@
             "item": {
               "id": "5d235b4d86f7742e017bc88a",
               "name": "GP コイン"
-            }
-          }
-        ],
-        "offerUnlock": [
-          {
-            "level": 2,
-            "trader": {
-              "id": "6617beeaa9cfa777ca915b7c",
-              "name": "Ref"
-            },
-            "item": {
-              "id": "664a5428d5e33a713b622379",
-              "name": "APOK Tactical Wasteland Gladius"
             }
           }
         ]
@@ -13838,7 +13802,7 @@
       "name": "To Great Heights! - Part 1 [PVP ZONE]",
       "normalizedName": "to-great-heights-part-1-pvp-zone",
       "map": null,
-      "experience": 5600,
+      "experience": 2800,
       "minPlayerLevel": 10,
       "kappaRequired": false,
       "lightkeeperRequired": false,
@@ -13872,8 +13836,8 @@
             "complete"
           ],
           "task": {
-            "id": "66058cb7c7f3584787181476",
-            "name": "Balancing - Part 1 [PVP ZONE]"
+            "id": "69788db3878a4385d10c0718",
+            "name": "Professional Fitness - Part 2 [PVP ZONE]"
           }
         }
       ],
@@ -13884,7 +13848,7 @@
         "craftUnlock": [],
         "traderStanding": [
           {
-            "standing": 0.03,
+            "standing": 0.02,
             "trader": {
               "id": "6617beeaa9cfa777ca915b7c",
               "name": "Ref"
@@ -13893,43 +13857,11 @@
         ],
         "items": [
           {
-            "count": 75,
+            "count": 55,
             "attributes": [],
             "item": {
               "id": "5d235b4d86f7742e017bc88a",
               "name": "GP コイン"
-            }
-          },
-          {
-            "count": 1,
-            "attributes": [],
-            "item": {
-              "id": "6656560053eaaa7a23349c86",
-              "name": "Lega Medal"
-            }
-          },
-          {
-            "count": 1,
-            "attributes": [],
-            "item": {
-              "id": "707265736574000000000045",
-              "name": "Remington Model 700 7.62x51 ボルトアクション スナイパーライフル 1-6x24"
-            }
-          },
-          {
-            "count": 2,
-            "attributes": [],
-            "item": {
-              "id": "5ce69cbad7f00c00b61c5098",
-              "name": "M700 7.62x51 Magpul PMAG AC 5-round magazine"
-            }
-          },
-          {
-            "count": 2,
-            "attributes": [],
-            "item": {
-              "id": "65702566bfc87b3a3409324d",
-              "name": "7.62x51mm TCW SP ammo pack (20 pcs)"
             }
           }
         ]
@@ -13940,7 +13872,7 @@
       "name": "To Great Heights! - Part 2 [PVP ZONE]",
       "normalizedName": "to-great-heights-part-2-pvp-zone",
       "map": null,
-      "experience": 6500,
+      "experience": 3500,
       "minPlayerLevel": 10,
       "kappaRequired": false,
       "lightkeeperRequired": false,
@@ -13986,7 +13918,7 @@
         "craftUnlock": [],
         "traderStanding": [
           {
-            "standing": 0.03,
+            "standing": 0.02,
             "trader": {
               "id": "6617beeaa9cfa777ca915b7c",
               "name": "Ref"
@@ -13995,7 +13927,7 @@
         ],
         "items": [
           {
-            "count": 52,
+            "count": 32,
             "attributes": [],
             "item": {
               "id": "5d235b4d86f7742e017bc88a",
@@ -14003,27 +13935,11 @@
             }
           },
           {
-            "count": 3,
-            "attributes": [],
-            "item": {
-              "id": "5649ed104bdc2d3d1c8b458b",
-              "name": "7.62x39mm PS gzh ammo pack (20 pcs)"
-            }
-          },
-          {
             "count": 1,
             "attributes": [],
             "item": {
-              "id": "60b7d76e2a3c79100f1979de",
-              "name": "CMMG Mk47 Mutant 7.62x39 アサルトライフル デフォルト"
-            }
-          },
-          {
-            "count": 3,
-            "attributes": [],
-            "item": {
-              "id": "59fafc5086f7740dbe19f6c3",
-              "name": "AK 7.62x39 US Palm \"AK30\" 30-round magazine (Black)"
+              "id": "66572b3f6a723f7f005a066c",
+              "name": "Locked weapon crate (Rare)"
             }
           }
         ]
@@ -14034,7 +13950,7 @@
       "name": "To Great Heights! - Part 3 [PVP ZONE]",
       "normalizedName": "to-great-heights-part-3-pvp-zone",
       "map": null,
-      "experience": 11000,
+      "experience": 4500,
       "minPlayerLevel": 10,
       "kappaRequired": false,
       "lightkeeperRequired": false,
@@ -14080,7 +13996,7 @@
         "craftUnlock": [],
         "traderStanding": [
           {
-            "standing": 0.04,
+            "standing": 0.03,
             "trader": {
               "id": "6617beeaa9cfa777ca915b7c",
               "name": "Ref"
@@ -14089,7 +14005,7 @@
         ],
         "items": [
           {
-            "count": 38,
+            "count": 28,
             "attributes": [],
             "item": {
               "id": "5d235b4d86f7742e017bc88a",
@@ -14100,24 +14016,437 @@
             "count": 1,
             "attributes": [],
             "item": {
-              "id": "59e8d2b386f77445830dd299",
-              "name": "Lobaev Arms DVL-10 7.62x51 ボルトアクション スナイパーライフル Saboteur"
+              "id": "66572bb3ac60f009f270d1df",
+              "name": "Locked valuables crate (Rare)"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "697877e0c639962b2e0cf24f",
+      "name": "Arena Business [PVP ZONE]",
+      "normalizedName": "arena-business-pvp-zone",
+      "map": null,
+      "experience": 19500,
+      "minPlayerLevel": 10,
+      "kappaRequired": false,
+      "lightkeeperRequired": false,
+      "traderLevelRequirements": [],
+      "factionName": "Any",
+      "neededKeys": null,
+      "trader": {
+        "id": "6617beeaa9cfa777ca915b7c",
+        "name": "Ref"
+      },
+      "startRewards": {
+        "traderStanding": [],
+        "items": [],
+        "offerUnlock": [],
+        "skillLevelReward": [],
+        "traderUnlock": [],
+        "craftUnlock": []
+      },
+      "taskRequirements": [
+        {
+          "status": [
+            "complete"
+          ],
+          "task": {
+            "id": "66058cb7c7f3584787181476",
+            "name": "Balancing - Part 1 [PVP ZONE]"
+          }
+        }
+      ],
+      "objectives": [
+        {
+          "id": "69789727f9ef98d604a0a4eb",
+          "type": "taskStatus",
+          "description": "Complete the task Professional Fitness - Part 2",
+          "optional": false,
+          "maps": [],
+          "status": [
+            "complete"
+          ],
+          "task": {
+            "id": "69788db3878a4385d10c0718",
+            "name": "Professional Fitness - Part 2 [PVP ZONE]"
+          }
+        },
+        {
+          "id": "69789737271caeeb3db66e8d",
+          "type": "taskStatus",
+          "description": "Complete the task To Great Heights! - Part 6",
+          "optional": false,
+          "maps": [],
+          "status": [
+            "complete"
+          ],
+          "task": {
+            "id": "69789418b2187365e70bb947",
+            "name": "To Great Heights! - Part 6 [PVP ZONE]"
+          }
+        },
+        {
+          "id": "6978973c2834db5eb178fdc8",
+          "type": "taskStatus",
+          "description": "Complete the task Hold the Lead",
+          "optional": false,
+          "maps": [],
+          "status": [
+            "complete"
+          ],
+          "task": {
+            "id": "697895b6c639962b2e0cf268",
+            "name": "Hold the Lead [PVP ZONE]"
+          }
+        }
+      ],
+      "finishRewards": {
+        "offerUnlock": [],
+        "skillLevelReward": [],
+        "traderUnlock": [],
+        "craftUnlock": [],
+        "traderStanding": [
+          {
+            "standing": 0.04,
+            "trader": {
+              "id": "6617beeaa9cfa777ca915b7c",
+              "name": "Ref"
+            }
+          }
+        ],
+        "items": [
+          {
+            "count": 250,
+            "attributes": [],
+            "item": {
+              "id": "5d235b4d86f7742e017bc88a",
+              "name": "GP コイン"
+            }
+          },
+          {
+            "count": 1,
+            "attributes": [],
+            "item": {
+              "id": "6656560053eaaa7a23349c86",
+              "name": "Lega Medal"
+            }
+          },
+          {
+            "count": 1,
+            "attributes": [],
+            "item": {
+              "id": "66572b3f6a723f7f005a066c",
+              "name": "Locked weapon crate (Rare)"
+            }
+          },
+          {
+            "count": 1,
+            "attributes": [],
+            "item": {
+              "id": "66572b88ac60f009f270d1dc",
+              "name": "Locked supply crate (Rare)"
             }
           },
           {
             "count": 2,
             "attributes": [],
             "item": {
-              "id": "5888988e24597752fe43a6fa",
-              "name": "DVL-10 7.62x51 10-round magazine"
+              "id": "66572bb3ac60f009f270d1df",
+              "name": "Locked valuables crate (Rare)"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "69788c2bac719606e40b4e77",
+      "name": "Professional Fitness - Part 1 [PVP ZONE]",
+      "normalizedName": "professional-fitness-part-1-pvp-zone",
+      "map": null,
+      "experience": 1800,
+      "minPlayerLevel": 10,
+      "kappaRequired": false,
+      "lightkeeperRequired": false,
+      "traderLevelRequirements": [],
+      "objectives": [
+        {
+          "id": "69788c6d403c43a13a7ba7c2",
+          "type": "visit",
+          "description": "Play a match in CheckPoint or Last Hero mode in Arena",
+          "optional": false,
+          "maps": []
+        }
+      ],
+      "factionName": "Any",
+      "neededKeys": null,
+      "trader": {
+        "id": "6617beeaa9cfa777ca915b7c",
+        "name": "Ref"
+      },
+      "startRewards": {
+        "traderStanding": [],
+        "items": [],
+        "offerUnlock": [],
+        "skillLevelReward": [],
+        "traderUnlock": [],
+        "craftUnlock": []
+      },
+      "taskRequirements": [
+        {
+          "status": [
+            "complete"
+          ],
+          "task": {
+            "id": "66058cb7c7f3584787181476",
+            "name": "Balancing - Part 1 [PVP ZONE]"
+          }
+        }
+      ],
+      "finishRewards": {
+        "offerUnlock": [],
+        "skillLevelReward": [],
+        "traderUnlock": [],
+        "craftUnlock": [],
+        "traderStanding": [
+          {
+            "standing": 0.01,
+            "trader": {
+              "id": "6617beeaa9cfa777ca915b7c",
+              "name": "Ref"
+            }
+          }
+        ],
+        "items": [
+          {
+            "count": 10,
+            "attributes": [],
+            "item": {
+              "id": "5d235b4d86f7742e017bc88a",
+              "name": "GP コイン"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "69788db3878a4385d10c0718",
+      "name": "Professional Fitness - Part 2 [PVP ZONE]",
+      "normalizedName": "professional-fitness-part-2-pvp-zone",
+      "map": null,
+      "experience": 2400,
+      "minPlayerLevel": 10,
+      "kappaRequired": false,
+      "lightkeeperRequired": false,
+      "traderLevelRequirements": [],
+      "objectives": [
+        {
+          "id": "69788fc3dc3074ce1c851e20",
+          "type": "visit",
+          "description": "Eliminate 20 enemies in Arena",
+          "optional": false,
+          "maps": []
+        }
+      ],
+      "factionName": "Any",
+      "neededKeys": null,
+      "trader": {
+        "id": "6617beeaa9cfa777ca915b7c",
+        "name": "Ref"
+      },
+      "startRewards": {
+        "traderStanding": [],
+        "items": [],
+        "offerUnlock": [],
+        "skillLevelReward": [],
+        "traderUnlock": [],
+        "craftUnlock": []
+      },
+      "taskRequirements": [
+        {
+          "status": [
+            "complete"
+          ],
+          "task": {
+            "id": "69788c2bac719606e40b4e77",
+            "name": "Professional Fitness - Part 1 [PVP ZONE]"
+          }
+        }
+      ],
+      "finishRewards": {
+        "offerUnlock": [],
+        "skillLevelReward": [],
+        "traderUnlock": [],
+        "craftUnlock": [],
+        "traderStanding": [
+          {
+            "standing": 0.01,
+            "trader": {
+              "id": "6617beeaa9cfa777ca915b7c",
+              "name": "Ref"
+            }
+          }
+        ],
+        "items": [
+          {
+            "count": 15,
+            "attributes": [],
+            "item": {
+              "id": "5d235b4d86f7742e017bc88a",
+              "name": "GP コイン"
             }
           },
           {
-            "count": 2,
+            "count": 1,
             "attributes": [],
             "item": {
-              "id": "65702566bfc87b3a3409324d",
-              "name": "7.62x51mm TCW SP ammo pack (20 pcs)"
+              "id": "6656560053eaaa7a23349c86",
+              "name": "Lega Medal"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "69789418b2187365e70bb947",
+      "name": "To Great Heights! - Part 6 [PVP ZONE]",
+      "normalizedName": "to-great-heights-part-6-pvp-zone",
+      "map": null,
+      "experience": 7700,
+      "minPlayerLevel": 10,
+      "kappaRequired": false,
+      "lightkeeperRequired": false,
+      "traderLevelRequirements": [],
+      "objectives": [
+        {
+          "id": "6978a28fe2bee676ada49c79",
+          "type": "visit",
+          "description": "Win 2 matches in a row in TeamFight, BlastGang or CheckPoint mode in Arena",
+          "optional": false,
+          "maps": []
+        }
+      ],
+      "factionName": "Any",
+      "neededKeys": null,
+      "trader": {
+        "id": "6617beeaa9cfa777ca915b7c",
+        "name": "Ref"
+      },
+      "startRewards": {
+        "traderStanding": [],
+        "items": [],
+        "offerUnlock": [],
+        "skillLevelReward": [],
+        "traderUnlock": [],
+        "craftUnlock": []
+      },
+      "taskRequirements": [
+        {
+          "status": [
+            "complete"
+          ],
+          "task": {
+            "id": "66058cc9ae4719735349b9ea",
+            "name": "To Great Heights! - Part 5 [PVP ZONE]"
+          }
+        }
+      ],
+      "finishRewards": {
+        "traderStanding": [],
+        "skillLevelReward": [],
+        "traderUnlock": [],
+        "craftUnlock": [],
+        "items": [
+          {
+            "count": 55,
+            "attributes": [],
+            "item": {
+              "id": "5d235b4d86f7742e017bc88a",
+              "name": "GP コイン"
+            }
+          }
+        ],
+        "offerUnlock": [
+          {
+            "level": 2,
+            "trader": {
+              "id": "6617beeaa9cfa777ca915b7c",
+              "name": "Ref"
+            },
+            "item": {
+              "id": "664a5428d5e33a713b622379",
+              "name": "APOK Tactical Wasteland Gladius"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "697895b6c639962b2e0cf268",
+      "name": "Hold the Lead [PVP ZONE]",
+      "normalizedName": "hold-the-lead-pvp-zone",
+      "map": null,
+      "experience": 9100,
+      "minPlayerLevel": 10,
+      "kappaRequired": false,
+      "lightkeeperRequired": false,
+      "traderLevelRequirements": [],
+      "objectives": [
+        {
+          "id": "697895e700201d158bb28f22",
+          "type": "visit",
+          "description": "Eliminate 75 enemies in Arena",
+          "optional": false,
+          "maps": []
+        }
+      ],
+      "factionName": "Any",
+      "neededKeys": null,
+      "trader": {
+        "id": "6617beeaa9cfa777ca915b7c",
+        "name": "Ref"
+      },
+      "startRewards": {
+        "traderStanding": [],
+        "items": [],
+        "offerUnlock": [],
+        "skillLevelReward": [],
+        "traderUnlock": [],
+        "craftUnlock": []
+      },
+      "taskRequirements": [
+        {
+          "status": [
+            "complete"
+          ],
+          "task": {
+            "id": "69789418b2187365e70bb947",
+            "name": "To Great Heights! - Part 6 [PVP ZONE]"
+          }
+        }
+      ],
+      "finishRewards": {
+        "offerUnlock": [],
+        "skillLevelReward": [],
+        "traderUnlock": [],
+        "craftUnlock": [],
+        "traderStanding": [
+          {
+            "standing": 0.05,
+            "trader": {
+              "id": "6617beeaa9cfa777ca915b7c",
+              "name": "Ref"
+            }
+          }
+        ],
+        "items": [
+          {
+            "count": 75,
+            "attributes": [],
+            "item": {
+              "id": "5d235b4d86f7742e017bc88a",
+              "name": "GP コイン"
             }
           }
         ]
@@ -14165,8 +14494,8 @@
             "complete"
           ],
           "task": {
-            "id": "66058cc9ae4719735349b9ea",
-            "name": "To Great Heights! - Part 5 [PVP ZONE]"
+            "id": "697895b6c639962b2e0cf268",
+            "name": "Hold the Lead [PVP ZONE]"
           }
         }
       ],
@@ -14290,6 +14619,14 @@
             "item": {
               "id": "657024f9bfc87b3a3409323b",
               "name": "5.56x45mm MK 318 Mod 0 (SOST) ammo pack (50 pcs)"
+            }
+          },
+          {
+            "count": 1,
+            "attributes": [],
+            "item": {
+              "id": "664a5480bfcc521bad3192ca",
+              "name": "Armband (ARENA)"
             }
           }
         ]
@@ -17304,7 +17641,7 @@
             "count": 1,
             "attributes": [],
             "item": {
-              "id": "m4a1kacrisii000000000001",
+              "id": "707265736574000000000009",
               "name": "M4A1 5.56x45 アサルトライフル KAC RIS"
             }
           },
@@ -19668,7 +20005,7 @@
       "name": "Beneath The Streets",
       "normalizedName": "beneath-the-streets",
       "map": null,
-      "experience": 46700,
+      "experience": 24000,
       "minPlayerLevel": 12,
       "kappaRequired": false,
       "lightkeeperRequired": false,
@@ -28260,6 +28597,221 @@
       }
     },
     {
+      "id": "67a09761e720611a6a01f288",
+      "name": "Keeper's Word",
+      "normalizedName": "keepers-word",
+      "experience": 56800,
+      "minPlayerLevel": 15,
+      "kappaRequired": false,
+      "lightkeeperRequired": false,
+      "traderLevelRequirements": [],
+      "factionName": "Any",
+      "trader": {
+        "id": "638f541a29ffd1183d187f57",
+        "name": "Lightkeeper"
+      },
+      "map": {
+        "id": "6733700029c367a3d40b02af",
+        "name": "The Labyrinth",
+        "normalizedName": "the-labyrinth"
+      },
+      "startRewards": {
+        "traderStanding": [],
+        "items": [],
+        "offerUnlock": [],
+        "skillLevelReward": [],
+        "traderUnlock": [],
+        "craftUnlock": []
+      },
+      "taskRequirements": [
+        {
+          "status": [
+            "complete"
+          ],
+          "task": {
+            "id": "67a096ed77dd677f600804ba",
+            "name": "Sensory Analysis - Part 2"
+          }
+        },
+        {
+          "status": [
+            "complete"
+          ],
+          "task": {
+            "id": "67a0970f05d1611ed90be75d",
+            "name": "Hypotheses Testing"
+          }
+        },
+        {
+          "status": [
+            "complete"
+          ],
+          "task": {
+            "id": "67d03be712fb5f8fd2096332",
+            "name": "Vacate the Premises"
+          }
+        },
+        {
+          "status": [
+            "complete"
+          ],
+          "task": {
+            "id": "67a09724972c11a3f5077324",
+            "name": "Confidential Info"
+          }
+        },
+        {
+          "status": [
+            "complete"
+          ],
+          "task": {
+            "id": "67a097379f2068e74603c6ac",
+            "name": "Indisputable Authority"
+          }
+        },
+        {
+          "status": [
+            "complete"
+          ],
+          "task": {
+            "id": "67a0972e77dd677f600804bd",
+            "name": "This Tape Sucks"
+          }
+        }
+      ],
+      "objectives": [
+        {
+          "id": "67a0e4df8cddbe2df31dd1d9",
+          "type": "plantItem",
+          "description": "Stash a Cultist knife in the first special place inside The Labyrinth",
+          "optional": false,
+          "count": 1,
+          "foundInRaid": false,
+          "dogTagLevel": 0,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "maps": [
+            {
+              "id": "6733700029c367a3d40b02af",
+              "name": "The Labyrinth"
+            }
+          ],
+          "item": {
+            "id": "5fc64ea372b0dd78d51159dc",
+            "name": "カルティストナイフ",
+            "shortName": "Knife"
+          }
+        },
+        {
+          "id": "67a0e4e399e34c9ffcdc6e00",
+          "type": "plantItem",
+          "description": "Stash a Cultist knife in the second special place inside The Labyrinth",
+          "optional": false,
+          "count": 1,
+          "foundInRaid": false,
+          "dogTagLevel": 0,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "maps": [
+            {
+              "id": "6733700029c367a3d40b02af",
+              "name": "The Labyrinth"
+            }
+          ],
+          "item": {
+            "id": "5fc64ea372b0dd78d51159dc",
+            "name": "カルティストナイフ",
+            "shortName": "Knife"
+          }
+        },
+        {
+          "id": "67a0e4e64cb065811d95c6d9",
+          "type": "plantItem",
+          "description": "Stash a Cultist knife in the third special place inside The Labyrinth",
+          "optional": false,
+          "count": 1,
+          "foundInRaid": false,
+          "dogTagLevel": 0,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "maps": [
+            {
+              "id": "6733700029c367a3d40b02af",
+              "name": "The Labyrinth"
+            }
+          ],
+          "item": {
+            "id": "5fc64ea372b0dd78d51159dc",
+            "name": "カルティストナイフ",
+            "shortName": "Knife"
+          }
+        }
+      ],
+      "neededKeys": [
+        {
+          "map": {
+            "id": "6733700029c367a3d40b02af",
+            "name": "The Labyrinth"
+          },
+          "keys": [
+            {
+              "id": "679bab714e9ca6b3d80586b4",
+              "name": "遺体安置所の鍵"
+            }
+          ]
+        }
+      ],
+      "finishRewards": {
+        "offerUnlock": [],
+        "skillLevelReward": [],
+        "traderUnlock": [],
+        "craftUnlock": [],
+        "traderStanding": [
+          {
+            "standing": 0.03,
+            "trader": {
+              "id": "638f541a29ffd1183d187f57",
+              "name": "Lightkeeper"
+            }
+          }
+        ],
+        "items": [
+          {
+            "count": 4200,
+            "attributes": [],
+            "item": {
+              "id": "5696686a4bdc2da3298b456a",
+              "name": "ドル紙幣"
+            }
+          },
+          {
+            "count": 1,
+            "attributes": [],
+            "item": {
+              "id": "5c05308086f7746b2101e90b",
+              "name": "Virtex プログラマブルプロセッサ"
+            }
+          },
+          {
+            "count": 1,
+            "attributes": [],
+            "item": {
+              "id": "5d235bb686f77443f4331278",
+              "name": "S I C C ポーチ"
+            }
+          },
+          {
+            "count": 1,
+            "attributes": [],
+            "item": {
+              "id": "64d0b40fbe2eed70e254e2d4",
+              "name": "聖なるアミュレット"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "639135e0fa894f0a866afde6",
       "name": "Urban Medicine",
       "normalizedName": "urban-medicine",
@@ -36319,7 +36871,7 @@
             "count": 1,
             "attributes": [],
             "item": {
-              "id": "m4a1sopmodiiflash0000001",
+              "id": "70726573657400000000000b",
               "name": "M4A1 5.56x45 アサルトライフル SOPMOD II Flash"
             }
           }
@@ -38496,8 +39048,8 @@
             "complete"
           ],
           "task": {
-            "id": "6752f6d83038f7df520c83e8",
-            "name": "A Helping Hand"
+            "id": "673f348dd3346c21670217e7",
+            "name": "Shipping Delay - Part 1"
           }
         }
       ],
@@ -38954,11 +39506,12 @@
       "taskRequirements": [
         {
           "status": [
-            "complete"
+            "complete",
+            "failed"
           ],
           "task": {
-            "id": "6752f6d83038f7df520c83e8",
-            "name": "A Helping Hand"
+            "id": "6745fcded0fbbc74ca0f721d",
+            "name": "Swift Retribution"
           }
         }
       ],
@@ -39885,11 +40438,10 @@
       }
     },
     {
-      "id": "6744af0969a58fceba101fed",
-      "name": "The Price of Independence",
-      "normalizedName": "the-price-of-independence",
-      "map": null,
-      "experience": 85400,
+      "id": "6744ab1def61d56e020b5c56",
+      "name": "Protect the Sky",
+      "normalizedName": "protect-the-sky",
+      "experience": 25400,
       "minPlayerLevel": 20,
       "kappaRequired": false,
       "lightkeeperRequired": false,
@@ -39899,6 +40451,11 @@
       "trader": {
         "id": "656f0f98d80a697f855d34b1",
         "name": "BTR Driver"
+      },
+      "map": {
+        "id": "5704e3c2d2720bac5b8b4567",
+        "name": "Woods",
+        "normalizedName": "woods"
       },
       "startRewards": {
         "traderStanding": [],
@@ -39911,16 +40468,8 @@
       "taskRequirements": [
         {
           "status": [
-            "complete"
-          ],
-          "task": {
-            "id": "6744aca8d3346c216702c583",
-            "name": "Discombobulate"
-          }
-        },
-        {
-          "status": [
-            "complete"
+            "complete",
+            "failed"
           ],
           "task": {
             "id": "6744a728352b4da8e003eda9",
@@ -39930,91 +40479,15 @@
       ],
       "objectives": [
         {
-          "id": "6745c8ccb4adeab3910332cc",
+          "id": "6744ab1def61d56e020b5c5f",
           "type": "findQuestItem",
-          "description": "Locate and obtain the incriminating letter on Customs",
+          "description": "Locate the package in the specified spot on Woods",
           "optional": false,
           "count": 1,
           "questItem": {
-            "id": "67499d0eeca8acb2d2061639",
-            "name": "Incriminating letter"
+            "id": "67499d4deca8acb2d206163b",
+            "name": "KOSA UAV electronic jamming device"
           },
-          "maps": [
-            {
-              "id": "56f40101d2720b2a4d8b45d6",
-              "name": "Customs"
-            }
-          ]
-        },
-        {
-          "id": "6745c8ee54d6972417ad7bad",
-          "type": "extract",
-          "description": "Use the transit from Customs to Reserve",
-          "optional": false,
-          "exitStatus": [
-            "Transition"
-          ],
-          "exitName": null,
-          "maps": [
-            {
-              "id": "56f40101d2720b2a4d8b45d6",
-              "name": "Customs"
-            }
-          ]
-        },
-        {
-          "id": "6745c8de22c7ee46e3319c34",
-          "type": "plantQuestItem",
-          "description": "Stash the letter on the third floor of the military headquarters on Reserve",
-          "optional": false,
-          "count": 1,
-          "questItem": {
-            "id": "67499d0eeca8acb2d2061639",
-            "name": "Incriminating letter"
-          },
-          "maps": [
-            {
-              "id": "5704e5fad2720bc05b8b4567",
-              "name": "Reserve"
-            }
-          ]
-        },
-        {
-          "id": "6745c90842db81af412eae97",
-          "type": "extract",
-          "description": "Use the transit from Reserve to Woods",
-          "optional": false,
-          "exitStatus": [
-            "Transition"
-          ],
-          "exitName": null,
-          "maps": [
-            {
-              "id": "5704e5fad2720bc05b8b4567",
-              "name": "Reserve"
-            }
-          ]
-        },
-        {
-          "id": "6745c9482ac6bee79dca869a",
-          "type": "shoot",
-          "description": "Eliminate any target on Woods",
-          "optional": false,
-          "target": "任意の目標",
-          "count": 3,
-          "shotType": "kill",
-          "zoneNames": [],
-          "bodyParts": [],
-          "usingWeapon": [],
-          "usingWeaponMods": [],
-          "wearing": [],
-          "notWearing": [],
-          "distance": {
-            "compareMethod": ">=",
-            "value": 0
-          },
-          "playerHealthEffect": null,
-          "enemyHealthEffect": null,
           "maps": [
             {
               "id": "5704e3c2d2720bac5b8b4567",
@@ -40023,84 +40496,16 @@
           ]
         },
         {
-          "id": "6745c9623d362cd373b1de93",
-          "type": "extract",
-          "description": "Use the transit from Woods to Lighthouse",
-          "optional": false,
-          "exitStatus": [
-            "Transition"
-          ],
-          "exitName": null,
-          "maps": [
-            {
-              "id": "5704e3c2d2720bac5b8b4567",
-              "name": "Woods"
-            }
-          ]
-        },
-        {
-          "id": "6745c986a3e10e0bf6472d8e",
-          "type": "useItem",
-          "description": "Launch a yellow signal flare at the train station warehouse on Lighthouse",
-          "optional": false,
-          "maps": [
-            {
-              "id": "5704e4dad2720bb55b8b4567",
-              "name": "Lighthouse"
-            }
-          ]
-        },
-        {
-          "id": "6745c992bf76b3aeaf6370e0",
-          "type": "useItem",
-          "description": "Launch a yellow signal flare at the pier on Lighthouse",
-          "optional": false,
-          "maps": [
-            {
-              "id": "5704e4dad2720bb55b8b4567",
-              "name": "Lighthouse"
-            }
-          ]
-        },
-        {
-          "id": "6745c9b89c84a273d4a2dc28",
-          "type": "shoot",
-          "description": "Eliminate Scavs while completing the other objectives",
+          "id": "6744ab1def61d56e020b5c60",
+          "type": "giveQuestItem",
+          "description": "Hand over the package",
           "optional": false,
           "maps": [],
-          "target": "Scavs",
-          "count": 10,
-          "shotType": "kill",
-          "zoneNames": [],
-          "bodyParts": [],
-          "usingWeapon": [],
-          "usingWeaponMods": [],
-          "wearing": [],
-          "notWearing": [],
-          "distance": {
-            "compareMethod": ">=",
-            "value": 0
-          },
-          "playerHealthEffect": null,
-          "enemyHealthEffect": null
-        },
-        {
-          "id": "6745c9a86086867a2c723e9d",
-          "type": "extract",
-          "description": "Survive and extract from Lighthouse",
-          "optional": false,
-          "exitStatus": [
-            "ランスルー",
-            "生還",
-            "Transition"
-          ],
-          "exitName": null,
-          "maps": [
-            {
-              "id": "5704e4dad2720bb55b8b4567",
-              "name": "Lighthouse"
-            }
-          ]
+          "count": 1,
+          "questItem": {
+            "id": "67499d4deca8acb2d206163b",
+            "name": "KOSA UAV electronic jamming device"
+          }
         }
       ],
       "finishRewards": {
@@ -40109,7 +40514,7 @@
         "craftUnlock": [],
         "traderStanding": [
           {
-            "standing": 0.5,
+            "standing": 0.02,
             "trader": {
               "id": "656f0f98d80a697f855d34b1",
               "name": "BTR Driver"
@@ -40118,46 +40523,42 @@
         ],
         "items": [
           {
-            "count": 300000,
+            "count": 96000,
             "attributes": [],
             "item": {
               "id": "5449016a4bdc2d6f028b456f",
               "name": "ルーブル紙幣"
             }
+          },
+          {
+            "count": 4,
+            "attributes": [],
+            "item": {
+              "id": "657023a9126cc4a57d0e17a6",
+              "name": ".300 Blackout CBJ ammo pack (50 pcs)"
+            }
           }
         ],
         "offerUnlock": [
           {
-            "level": 2,
+            "level": 4,
             "trader": {
               "id": "5a7c2eca46aef81a7ca2145d",
               "name": "Mechanic"
             },
             "item": {
-              "id": "66d98233302686954b0c6f81",
-              "name": "RSP-30 リアクティブシグナルカートリッジ (Blue)"
-            }
-          },
-          {
-            "level": 3,
-            "trader": {
-              "id": "5a7c2eca46aef81a7ca2145d",
-              "name": "Mechanic"
-            },
-            "item": {
-              "id": "57347ca924597744596b4e71",
-              "name": "グラフィックボード"
+              "id": "675ff11da6335de2280d492a",
+              "name": "Aklys Defense Velociraptor .300 Blackout アサルトライフル デフォルト"
             }
           }
         ]
       }
     },
     {
-      "id": "6745cbee909d2013670a4a55",
-      "name": "The Price of Independence",
-      "normalizedName": "the-price-of-independence-2",
-      "map": null,
-      "experience": 85400,
+      "id": "6744aca8d3346c216702c583",
+      "name": "Discombobulate",
+      "normalizedName": "discombobulate",
+      "experience": 23400,
       "minPlayerLevel": 20,
       "kappaRequired": false,
       "lightkeeperRequired": false,
@@ -40167,6 +40568,11 @@
       "trader": {
         "id": "656f0f98d80a697f855d34b1",
         "name": "BTR Driver"
+      },
+      "map": {
+        "id": "5704e3c2d2720bac5b8b4567",
+        "name": "Woods",
+        "normalizedName": "woods"
       },
       "startRewards": {
         "traderStanding": [],
@@ -40182,202 +40588,87 @@
             "complete"
           ],
           "task": {
-            "id": "6744aca8d3346c216702c583",
-            "name": "Discombobulate"
-          }
-        },
-        {
-          "status": [
-            "complete"
-          ],
-          "task": {
-            "id": "6744a9dfef61d56e020b5c4a",
-            "name": "Battery Change"
+            "id": "6744ab1def61d56e020b5c56",
+            "name": "Protect the Sky"
           }
         }
       ],
       "objectives": [
         {
-          "id": "6745cbee909d2013670a4a60",
-          "type": "findQuestItem",
-          "description": "Locate and obtain the incriminating letter on Customs",
+          "id": "6744ae5cc771515803d615ec",
+          "type": "plantItem",
+          "description": "Stash a VOG-25 Khattabka grenade at the first RPG ammo crate on Woods",
           "optional": false,
           "count": 1,
-          "questItem": {
-            "id": "67499d0eeca8acb2d2061639",
-            "name": "Incriminating letter"
-          },
-          "maps": [
-            {
-              "id": "56f40101d2720b2a4d8b45d6",
-              "name": "Customs"
-            }
-          ]
-        },
-        {
-          "id": "6745cbee909d2013670a4a61",
-          "type": "extract",
-          "description": "Use the transit from Customs to Reserve",
-          "optional": false,
-          "exitStatus": [
-            "Transition"
-          ],
-          "exitName": null,
-          "maps": [
-            {
-              "id": "56f40101d2720b2a4d8b45d6",
-              "name": "Customs"
-            }
-          ]
-        },
-        {
-          "id": "6745cbee909d2013670a4a63",
-          "type": "plantQuestItem",
-          "description": "Stash the letter on the third floor of the military headquarters on Reserve",
-          "optional": false,
-          "count": 1,
-          "questItem": {
-            "id": "67499d0eeca8acb2d2061639",
-            "name": "Incriminating letter"
-          },
-          "maps": [
-            {
-              "id": "5704e5fad2720bc05b8b4567",
-              "name": "Reserve"
-            }
-          ]
-        },
-        {
-          "id": "6745cbee909d2013670a4a64",
-          "type": "extract",
-          "description": "Use the transit from Reserve to Woods",
-          "optional": false,
-          "exitStatus": [
-            "Transition"
-          ],
-          "exitName": null,
-          "maps": [
-            {
-              "id": "5704e5fad2720bc05b8b4567",
-              "name": "Reserve"
-            }
-          ]
-        },
-        {
-          "id": "6745cbee909d2013670a4a66",
-          "type": "shoot",
-          "description": "Eliminate any target on Woods",
-          "optional": false,
-          "target": "任意の目標",
-          "count": 3,
-          "shotType": "kill",
-          "zoneNames": [],
-          "bodyParts": [],
-          "usingWeapon": [],
-          "usingWeaponMods": [],
-          "wearing": [],
-          "notWearing": [],
-          "distance": {
-            "compareMethod": ">=",
-            "value": 0
-          },
-          "playerHealthEffect": null,
-          "enemyHealthEffect": null,
+          "foundInRaid": false,
+          "dogTagLevel": 0,
+          "maxDurability": 100,
+          "minDurability": 0,
           "maps": [
             {
               "id": "5704e3c2d2720bac5b8b4567",
               "name": "Woods"
             }
-          ]
+          ],
+          "item": {
+            "id": "5e340dcdcb6d5863cc5e5efb",
+            "name": "VOG-25 Khattabka グレネード",
+            "shortName": "VOG-25"
+          }
         },
         {
-          "id": "6745cbee909d2013670a4a68",
-          "type": "extract",
-          "description": "Use the transit from Woods to Lighthouse",
+          "id": "6744ae63b3b4be24ffc607a4",
+          "type": "plantItem",
+          "description": "Stash a VOG-25 Khattabka grenade at the second RPG ammo crate on Woods",
           "optional": false,
-          "exitStatus": [
-            "Transition"
-          ],
-          "exitName": null,
+          "count": 1,
+          "foundInRaid": false,
+          "dogTagLevel": 0,
+          "maxDurability": 100,
+          "minDurability": 0,
           "maps": [
             {
               "id": "5704e3c2d2720bac5b8b4567",
               "name": "Woods"
             }
-          ]
-        },
-        {
-          "id": "6745cbee909d2013670a4a6a",
-          "type": "useItem",
-          "description": "Launch a yellow signal flare at the train station warehouse on Lighthouse",
-          "optional": false,
-          "maps": [
-            {
-              "id": "5704e4dad2720bb55b8b4567",
-              "name": "Lighthouse"
-            }
-          ]
-        },
-        {
-          "id": "6745cbee909d2013670a4a6c",
-          "type": "useItem",
-          "description": "Launch a yellow signal flare at the pier on Lighthouse",
-          "optional": false,
-          "maps": [
-            {
-              "id": "5704e4dad2720bb55b8b4567",
-              "name": "Lighthouse"
-            }
-          ]
-        },
-        {
-          "id": "6745cbee909d2013670a4a6e",
-          "type": "shoot",
-          "description": "Eliminate Scavs while completing the other objectives",
-          "optional": false,
-          "maps": [],
-          "target": "Scavs",
-          "count": 10,
-          "shotType": "kill",
-          "zoneNames": [],
-          "bodyParts": [],
-          "usingWeapon": [],
-          "usingWeaponMods": [],
-          "wearing": [],
-          "notWearing": [],
-          "distance": {
-            "compareMethod": ">=",
-            "value": 0
-          },
-          "playerHealthEffect": null,
-          "enemyHealthEffect": null
-        },
-        {
-          "id": "6745cbee909d2013670a4a70",
-          "type": "extract",
-          "description": "Survive and extract from Lighthouse",
-          "optional": false,
-          "exitStatus": [
-            "ランスルー",
-            "生還",
-            "Transition"
           ],
-          "exitName": null,
+          "item": {
+            "id": "5e340dcdcb6d5863cc5e5efb",
+            "name": "VOG-25 Khattabka グレネード",
+            "shortName": "VOG-25"
+          }
+        },
+        {
+          "id": "6744ae65f8c1438fb9374575",
+          "type": "plantItem",
+          "description": "Stash a VOG-25 Khattabka grenade at the third RPG ammo crate on Woods",
+          "optional": false,
+          "count": 1,
+          "foundInRaid": false,
+          "dogTagLevel": 0,
+          "maxDurability": 100,
+          "minDurability": 0,
           "maps": [
             {
-              "id": "5704e4dad2720bb55b8b4567",
-              "name": "Lighthouse"
+              "id": "5704e3c2d2720bac5b8b4567",
+              "name": "Woods"
             }
-          ]
+          ],
+          "item": {
+            "id": "5e340dcdcb6d5863cc5e5efb",
+            "name": "VOG-25 Khattabka グレネード",
+            "shortName": "VOG-25"
+          }
         }
       ],
       "finishRewards": {
+        "offerUnlock": [],
         "skillLevelReward": [],
         "traderUnlock": [],
         "craftUnlock": [],
         "traderStanding": [
           {
-            "standing": 0.5,
+            "standing": 0.03,
             "trader": {
               "id": "656f0f98d80a697f855d34b1",
               "name": "BTR Driver"
@@ -40386,35 +40677,35 @@
         ],
         "items": [
           {
-            "count": 300000,
+            "count": 175000,
             "attributes": [],
             "item": {
               "id": "5449016a4bdc2d6f028b456f",
               "name": "ルーブル紙幣"
             }
-          }
-        ],
-        "offerUnlock": [
+          },
           {
-            "level": 2,
-            "trader": {
-              "id": "5a7c2eca46aef81a7ca2145d",
-              "name": "Mechanic"
-            },
+            "count": 1,
+            "attributes": [],
             "item": {
-              "id": "66d98233302686954b0c6f81",
-              "name": "RSP-30 リアクティブシグナルカートリッジ (Blue)"
+              "id": "62a0a16d0b9d3c46de5b6e97",
+              "name": "ミリタリーフラッシュドライブ"
             }
           },
           {
-            "level": 3,
-            "trader": {
-              "id": "5a7c2eca46aef81a7ca2145d",
-              "name": "Mechanic"
-            },
+            "count": 1,
+            "attributes": [],
             "item": {
-              "id": "57347ca924597744596b4e71",
-              "name": "グラフィックボード"
+              "id": "62a0a16d0b9d3c46de5b6e97",
+              "name": "ミリタリーフラッシュドライブ"
+            }
+          },
+          {
+            "count": 1,
+            "attributes": [],
+            "item": {
+              "id": "62a0a16d0b9d3c46de5b6e97",
+              "name": "ミリタリーフラッシュドライブ"
             }
           }
         ]
@@ -40451,11 +40742,12 @@
       "taskRequirements": [
         {
           "status": [
+            "active",
             "complete"
           ],
           "task": {
-            "id": "6752f6d83038f7df520c83e8",
-            "name": "A Helping Hand"
+            "id": "673f629c5b555b53460cf827",
+            "name": "Building Foundations"
           }
         }
       ],
@@ -40619,6 +40911,14 @@
             "item": {
               "id": "6761a6ccd9bbb27ad703c48a",
               "name": "古い家の部屋の鍵"
+            }
+          },
+          {
+            "count": 1,
+            "attributes": [],
+            "item": {
+              "id": "6939948dc2ceb9acd7082eb2",
+              "name": "Old house toilet key\n"
             }
           }
         ]
@@ -41303,174 +41603,6 @@
       }
     },
     {
-      "id": "67460662d0fbbc74ca0f7229",
-      "name": "Choose Your Friends Wisely",
-      "normalizedName": "choose-your-friends-wisely",
-      "map": null,
-      "experience": 85200,
-      "minPlayerLevel": 20,
-      "kappaRequired": false,
-      "lightkeeperRequired": false,
-      "traderLevelRequirements": [],
-      "factionName": "Any",
-      "neededKeys": [],
-      "trader": {
-        "id": "58330581ace78e27b8b10cee",
-        "name": "Skier"
-      },
-      "startRewards": {
-        "traderStanding": [],
-        "items": [],
-        "offerUnlock": [],
-        "skillLevelReward": [],
-        "traderUnlock": [],
-        "craftUnlock": []
-      },
-      "taskRequirements": [
-        {
-          "status": [
-            "complete"
-          ],
-          "task": {
-            "id": "6744aca8d3346c216702c583",
-            "name": "Discombobulate"
-          }
-        },
-        {
-          "status": [
-            "complete"
-          ],
-          "task": {
-            "id": "674605df60a98cad1b0ec799",
-            "name": "Killer Argument"
-          }
-        }
-      ],
-      "objectives": [
-        {
-          "id": "674606bac840f707bea6242f",
-          "type": "extract",
-          "description": "Use the transit from Customs to Reserve",
-          "optional": false,
-          "exitStatus": [
-            "Transition"
-          ],
-          "exitName": null,
-          "maps": [
-            {
-              "id": "56f40101d2720b2a4d8b45d6",
-              "name": "Customs"
-            }
-          ]
-        },
-        {
-          "id": "674606ccff406a9f6a28e26f",
-          "type": "extract",
-          "description": "Use the transit from Reserve to Woods",
-          "optional": false,
-          "exitStatus": [
-            "Transition"
-          ],
-          "exitName": null,
-          "maps": [
-            {
-              "id": "5704e5fad2720bc05b8b4567",
-              "name": "Reserve"
-            }
-          ]
-        },
-        {
-          "id": "674606f1c63637e54bede3a6",
-          "type": "extract",
-          "description": "Use the transit from Woods to Lighthouse",
-          "optional": false,
-          "exitStatus": [
-            "Transition"
-          ],
-          "exitName": null,
-          "maps": [
-            {
-              "id": "5704e3c2d2720bac5b8b4567",
-              "name": "Woods"
-            }
-          ]
-        },
-        {
-          "id": "6746071002dfd67c0629a379",
-          "type": "extract",
-          "description": "Survive and extract from Lighthouse",
-          "optional": false,
-          "exitStatus": [
-            "Transition",
-            "生還",
-            "ランスルー"
-          ],
-          "exitName": null,
-          "maps": [
-            {
-              "id": "5704e4dad2720bb55b8b4567",
-              "name": "Lighthouse"
-            }
-          ]
-        },
-        {
-          "id": "674607317781508c405fb979",
-          "type": "shoot",
-          "description": "Eliminate PMC operatives while completing the other objectives",
-          "optional": false,
-          "maps": [],
-          "target": "任意のPMC",
-          "count": 5,
-          "shotType": "kill",
-          "zoneNames": [],
-          "bodyParts": [],
-          "usingWeapon": [],
-          "usingWeaponMods": [],
-          "wearing": [],
-          "notWearing": [],
-          "distance": {
-            "compareMethod": ">=",
-            "value": 0
-          },
-          "playerHealthEffect": null,
-          "enemyHealthEffect": null
-        }
-      ],
-      "finishRewards": {
-        "offerUnlock": [],
-        "skillLevelReward": [],
-        "traderUnlock": [],
-        "craftUnlock": [],
-        "traderStanding": [
-          {
-            "standing": 0.02,
-            "trader": {
-              "id": "58330581ace78e27b8b10cee",
-              "name": "Skier"
-            }
-          }
-        ],
-        "items": [
-          {
-            "count": 5000,
-            "attributes": [],
-            "item": {
-              "id": "569668774bdc2da2298b4568",
-              "name": "ユーロ紙幣"
-            }
-          },
-          {
-            "count": 1,
-            "attributes": [],
-            "item": {
-              "id": "5b6d9ce188a4501afc1b2b25",
-              "name": "T H I C C ウェポンケース"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "6740a15566e6a521aa051b15",
       "name": "Forge a Friendship",
       "normalizedName": "forge-a-friendship",
@@ -41708,6 +41840,710 @@
             "item": {
               "id": "66b5f693acff495a294927e3",
               "name": "Peltor ComTac V ヘッドセット(ODグリーン)"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "6744af0969a58fceba101fed",
+      "name": "The Price of Independence",
+      "normalizedName": "the-price-of-independence",
+      "map": null,
+      "experience": 85400,
+      "minPlayerLevel": 20,
+      "kappaRequired": false,
+      "lightkeeperRequired": false,
+      "traderLevelRequirements": [],
+      "factionName": "Any",
+      "neededKeys": [],
+      "trader": {
+        "id": "656f0f98d80a697f855d34b1",
+        "name": "BTR Driver"
+      },
+      "startRewards": {
+        "traderStanding": [],
+        "items": [],
+        "offerUnlock": [],
+        "skillLevelReward": [],
+        "traderUnlock": [],
+        "craftUnlock": []
+      },
+      "taskRequirements": [
+        {
+          "status": [
+            "complete"
+          ],
+          "task": {
+            "id": "6744a728352b4da8e003eda9",
+            "name": "Battery Change"
+          }
+        },
+        {
+          "status": [
+            "complete"
+          ],
+          "task": {
+            "id": "6744aca8d3346c216702c583",
+            "name": "Discombobulate"
+          }
+        }
+      ],
+      "objectives": [
+        {
+          "id": "6745c8ccb4adeab3910332cc",
+          "type": "findQuestItem",
+          "description": "Locate and obtain the incriminating letter on Customs",
+          "optional": false,
+          "count": 1,
+          "questItem": {
+            "id": "67499d0eeca8acb2d2061639",
+            "name": "Incriminating letter"
+          },
+          "maps": [
+            {
+              "id": "56f40101d2720b2a4d8b45d6",
+              "name": "Customs"
+            }
+          ]
+        },
+        {
+          "id": "6745c8ee54d6972417ad7bad",
+          "type": "extract",
+          "description": "Use the transit from Customs to Reserve",
+          "optional": false,
+          "exitStatus": [
+            "Transition"
+          ],
+          "exitName": null,
+          "maps": [
+            {
+              "id": "56f40101d2720b2a4d8b45d6",
+              "name": "Customs"
+            }
+          ]
+        },
+        {
+          "id": "6745c8de22c7ee46e3319c34",
+          "type": "plantQuestItem",
+          "description": "Stash the letter on the third floor of the military headquarters on Reserve",
+          "optional": false,
+          "count": 1,
+          "questItem": {
+            "id": "67499d0eeca8acb2d2061639",
+            "name": "Incriminating letter"
+          },
+          "maps": [
+            {
+              "id": "5704e5fad2720bc05b8b4567",
+              "name": "Reserve"
+            }
+          ]
+        },
+        {
+          "id": "6745c90842db81af412eae97",
+          "type": "extract",
+          "description": "Use the transit from Reserve to Woods",
+          "optional": false,
+          "exitStatus": [
+            "Transition"
+          ],
+          "exitName": null,
+          "maps": [
+            {
+              "id": "5704e5fad2720bc05b8b4567",
+              "name": "Reserve"
+            }
+          ]
+        },
+        {
+          "id": "6745c9482ac6bee79dca869a",
+          "type": "shoot",
+          "description": "Eliminate any target on Woods",
+          "optional": false,
+          "target": "任意の目標",
+          "count": 3,
+          "shotType": "kill",
+          "zoneNames": [],
+          "bodyParts": [],
+          "usingWeapon": [],
+          "usingWeaponMods": [],
+          "wearing": [],
+          "notWearing": [],
+          "distance": {
+            "compareMethod": ">=",
+            "value": 0
+          },
+          "playerHealthEffect": null,
+          "enemyHealthEffect": null,
+          "maps": [
+            {
+              "id": "5704e3c2d2720bac5b8b4567",
+              "name": "Woods"
+            }
+          ]
+        },
+        {
+          "id": "6745c9623d362cd373b1de93",
+          "type": "extract",
+          "description": "Use the transit from Woods to Lighthouse",
+          "optional": false,
+          "exitStatus": [
+            "Transition"
+          ],
+          "exitName": null,
+          "maps": [
+            {
+              "id": "5704e3c2d2720bac5b8b4567",
+              "name": "Woods"
+            }
+          ]
+        },
+        {
+          "id": "6745c986a3e10e0bf6472d8e",
+          "type": "useItem",
+          "description": "Launch a yellow signal flare at the train station warehouse on Lighthouse",
+          "optional": false,
+          "maps": [
+            {
+              "id": "5704e4dad2720bb55b8b4567",
+              "name": "Lighthouse"
+            }
+          ]
+        },
+        {
+          "id": "6745c992bf76b3aeaf6370e0",
+          "type": "useItem",
+          "description": "Launch a yellow signal flare at the pier on Lighthouse",
+          "optional": false,
+          "maps": [
+            {
+              "id": "5704e4dad2720bb55b8b4567",
+              "name": "Lighthouse"
+            }
+          ]
+        },
+        {
+          "id": "6745c9b89c84a273d4a2dc28",
+          "type": "shoot",
+          "description": "Eliminate Scavs while completing the other objectives",
+          "optional": false,
+          "maps": [],
+          "target": "Scavs",
+          "count": 10,
+          "shotType": "kill",
+          "zoneNames": [],
+          "bodyParts": [],
+          "usingWeapon": [],
+          "usingWeaponMods": [],
+          "wearing": [],
+          "notWearing": [],
+          "distance": {
+            "compareMethod": ">=",
+            "value": 0
+          },
+          "playerHealthEffect": null,
+          "enemyHealthEffect": null
+        },
+        {
+          "id": "6745c9a86086867a2c723e9d",
+          "type": "extract",
+          "description": "Survive and extract from Lighthouse",
+          "optional": false,
+          "exitStatus": [
+            "ランスルー",
+            "生還",
+            "Transition"
+          ],
+          "exitName": null,
+          "maps": [
+            {
+              "id": "5704e4dad2720bb55b8b4567",
+              "name": "Lighthouse"
+            }
+          ]
+        }
+      ],
+      "finishRewards": {
+        "skillLevelReward": [],
+        "traderUnlock": [],
+        "craftUnlock": [],
+        "traderStanding": [
+          {
+            "standing": 0.5,
+            "trader": {
+              "id": "656f0f98d80a697f855d34b1",
+              "name": "BTR Driver"
+            }
+          }
+        ],
+        "items": [
+          {
+            "count": 300000,
+            "attributes": [],
+            "item": {
+              "id": "5449016a4bdc2d6f028b456f",
+              "name": "ルーブル紙幣"
+            }
+          }
+        ],
+        "offerUnlock": [
+          {
+            "level": 2,
+            "trader": {
+              "id": "5a7c2eca46aef81a7ca2145d",
+              "name": "Mechanic"
+            },
+            "item": {
+              "id": "66d98233302686954b0c6f81",
+              "name": "RSP-30 リアクティブシグナルカートリッジ (Blue)"
+            }
+          },
+          {
+            "level": 3,
+            "trader": {
+              "id": "5a7c2eca46aef81a7ca2145d",
+              "name": "Mechanic"
+            },
+            "item": {
+              "id": "57347ca924597744596b4e71",
+              "name": "グラフィックボード"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "6745cbee909d2013670a4a55",
+      "name": "The Price of Independence",
+      "normalizedName": "the-price-of-independence-2",
+      "map": null,
+      "experience": 85400,
+      "minPlayerLevel": 20,
+      "kappaRequired": false,
+      "lightkeeperRequired": false,
+      "traderLevelRequirements": [],
+      "factionName": "Any",
+      "neededKeys": [],
+      "trader": {
+        "id": "656f0f98d80a697f855d34b1",
+        "name": "BTR Driver"
+      },
+      "startRewards": {
+        "traderStanding": [],
+        "items": [],
+        "offerUnlock": [],
+        "skillLevelReward": [],
+        "traderUnlock": [],
+        "craftUnlock": []
+      },
+      "taskRequirements": [
+        {
+          "status": [
+            "complete"
+          ],
+          "task": {
+            "id": "6744a9dfef61d56e020b5c4a",
+            "name": "Battery Change"
+          }
+        },
+        {
+          "status": [
+            "complete"
+          ],
+          "task": {
+            "id": "6744aca8d3346c216702c583",
+            "name": "Discombobulate"
+          }
+        }
+      ],
+      "objectives": [
+        {
+          "id": "6745cbee909d2013670a4a60",
+          "type": "findQuestItem",
+          "description": "Locate and obtain the incriminating letter on Customs",
+          "optional": false,
+          "count": 1,
+          "questItem": {
+            "id": "67499d0eeca8acb2d2061639",
+            "name": "Incriminating letter"
+          },
+          "maps": [
+            {
+              "id": "56f40101d2720b2a4d8b45d6",
+              "name": "Customs"
+            }
+          ]
+        },
+        {
+          "id": "6745cbee909d2013670a4a61",
+          "type": "extract",
+          "description": "Use the transit from Customs to Reserve",
+          "optional": false,
+          "exitStatus": [
+            "Transition"
+          ],
+          "exitName": null,
+          "maps": [
+            {
+              "id": "56f40101d2720b2a4d8b45d6",
+              "name": "Customs"
+            }
+          ]
+        },
+        {
+          "id": "6745cbee909d2013670a4a63",
+          "type": "plantQuestItem",
+          "description": "Stash the letter on the third floor of the military headquarters on Reserve",
+          "optional": false,
+          "count": 1,
+          "questItem": {
+            "id": "67499d0eeca8acb2d2061639",
+            "name": "Incriminating letter"
+          },
+          "maps": [
+            {
+              "id": "5704e5fad2720bc05b8b4567",
+              "name": "Reserve"
+            }
+          ]
+        },
+        {
+          "id": "6745cbee909d2013670a4a64",
+          "type": "extract",
+          "description": "Use the transit from Reserve to Woods",
+          "optional": false,
+          "exitStatus": [
+            "Transition"
+          ],
+          "exitName": null,
+          "maps": [
+            {
+              "id": "5704e5fad2720bc05b8b4567",
+              "name": "Reserve"
+            }
+          ]
+        },
+        {
+          "id": "6745cbee909d2013670a4a66",
+          "type": "shoot",
+          "description": "Eliminate any target on Woods",
+          "optional": false,
+          "target": "任意の目標",
+          "count": 3,
+          "shotType": "kill",
+          "zoneNames": [],
+          "bodyParts": [],
+          "usingWeapon": [],
+          "usingWeaponMods": [],
+          "wearing": [],
+          "notWearing": [],
+          "distance": {
+            "compareMethod": ">=",
+            "value": 0
+          },
+          "playerHealthEffect": null,
+          "enemyHealthEffect": null,
+          "maps": [
+            {
+              "id": "5704e3c2d2720bac5b8b4567",
+              "name": "Woods"
+            }
+          ]
+        },
+        {
+          "id": "6745cbee909d2013670a4a68",
+          "type": "extract",
+          "description": "Use the transit from Woods to Lighthouse",
+          "optional": false,
+          "exitStatus": [
+            "Transition"
+          ],
+          "exitName": null,
+          "maps": [
+            {
+              "id": "5704e3c2d2720bac5b8b4567",
+              "name": "Woods"
+            }
+          ]
+        },
+        {
+          "id": "6745cbee909d2013670a4a6a",
+          "type": "useItem",
+          "description": "Launch a yellow signal flare at the train station warehouse on Lighthouse",
+          "optional": false,
+          "maps": [
+            {
+              "id": "5704e4dad2720bb55b8b4567",
+              "name": "Lighthouse"
+            }
+          ]
+        },
+        {
+          "id": "6745cbee909d2013670a4a6c",
+          "type": "useItem",
+          "description": "Launch a yellow signal flare at the pier on Lighthouse",
+          "optional": false,
+          "maps": [
+            {
+              "id": "5704e4dad2720bb55b8b4567",
+              "name": "Lighthouse"
+            }
+          ]
+        },
+        {
+          "id": "6745cbee909d2013670a4a6e",
+          "type": "shoot",
+          "description": "Eliminate Scavs while completing the other objectives",
+          "optional": false,
+          "maps": [],
+          "target": "Scavs",
+          "count": 10,
+          "shotType": "kill",
+          "zoneNames": [],
+          "bodyParts": [],
+          "usingWeapon": [],
+          "usingWeaponMods": [],
+          "wearing": [],
+          "notWearing": [],
+          "distance": {
+            "compareMethod": ">=",
+            "value": 0
+          },
+          "playerHealthEffect": null,
+          "enemyHealthEffect": null
+        },
+        {
+          "id": "6745cbee909d2013670a4a70",
+          "type": "extract",
+          "description": "Survive and extract from Lighthouse",
+          "optional": false,
+          "exitStatus": [
+            "ランスルー",
+            "生還",
+            "Transition"
+          ],
+          "exitName": null,
+          "maps": [
+            {
+              "id": "5704e4dad2720bb55b8b4567",
+              "name": "Lighthouse"
+            }
+          ]
+        }
+      ],
+      "finishRewards": {
+        "skillLevelReward": [],
+        "traderUnlock": [],
+        "craftUnlock": [],
+        "traderStanding": [
+          {
+            "standing": 0.5,
+            "trader": {
+              "id": "656f0f98d80a697f855d34b1",
+              "name": "BTR Driver"
+            }
+          }
+        ],
+        "items": [
+          {
+            "count": 300000,
+            "attributes": [],
+            "item": {
+              "id": "5449016a4bdc2d6f028b456f",
+              "name": "ルーブル紙幣"
+            }
+          }
+        ],
+        "offerUnlock": [
+          {
+            "level": 2,
+            "trader": {
+              "id": "5a7c2eca46aef81a7ca2145d",
+              "name": "Mechanic"
+            },
+            "item": {
+              "id": "66d98233302686954b0c6f81",
+              "name": "RSP-30 リアクティブシグナルカートリッジ (Blue)"
+            }
+          },
+          {
+            "level": 3,
+            "trader": {
+              "id": "5a7c2eca46aef81a7ca2145d",
+              "name": "Mechanic"
+            },
+            "item": {
+              "id": "57347ca924597744596b4e71",
+              "name": "グラフィックボード"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "67460662d0fbbc74ca0f7229",
+      "name": "Choose Your Friends Wisely",
+      "normalizedName": "choose-your-friends-wisely",
+      "map": null,
+      "experience": 85200,
+      "minPlayerLevel": 20,
+      "kappaRequired": false,
+      "lightkeeperRequired": false,
+      "traderLevelRequirements": [],
+      "factionName": "Any",
+      "neededKeys": [],
+      "trader": {
+        "id": "58330581ace78e27b8b10cee",
+        "name": "Skier"
+      },
+      "startRewards": {
+        "traderStanding": [],
+        "items": [],
+        "offerUnlock": [],
+        "skillLevelReward": [],
+        "traderUnlock": [],
+        "craftUnlock": []
+      },
+      "taskRequirements": [
+        {
+          "status": [
+            "complete"
+          ],
+          "task": {
+            "id": "674605df60a98cad1b0ec799",
+            "name": "Killer Argument"
+          }
+        },
+        {
+          "status": [
+            "complete"
+          ],
+          "task": {
+            "id": "6744aca8d3346c216702c583",
+            "name": "Discombobulate"
+          }
+        }
+      ],
+      "objectives": [
+        {
+          "id": "674606bac840f707bea6242f",
+          "type": "extract",
+          "description": "Use the transit from Customs to Reserve",
+          "optional": false,
+          "exitStatus": [
+            "Transition"
+          ],
+          "exitName": null,
+          "maps": [
+            {
+              "id": "56f40101d2720b2a4d8b45d6",
+              "name": "Customs"
+            }
+          ]
+        },
+        {
+          "id": "674606ccff406a9f6a28e26f",
+          "type": "extract",
+          "description": "Use the transit from Reserve to Woods",
+          "optional": false,
+          "exitStatus": [
+            "Transition"
+          ],
+          "exitName": null,
+          "maps": [
+            {
+              "id": "5704e5fad2720bc05b8b4567",
+              "name": "Reserve"
+            }
+          ]
+        },
+        {
+          "id": "674606f1c63637e54bede3a6",
+          "type": "extract",
+          "description": "Use the transit from Woods to Lighthouse",
+          "optional": false,
+          "exitStatus": [
+            "Transition"
+          ],
+          "exitName": null,
+          "maps": [
+            {
+              "id": "5704e3c2d2720bac5b8b4567",
+              "name": "Woods"
+            }
+          ]
+        },
+        {
+          "id": "6746071002dfd67c0629a379",
+          "type": "extract",
+          "description": "Survive and extract from Lighthouse",
+          "optional": false,
+          "exitStatus": [
+            "Transition",
+            "生還",
+            "ランスルー"
+          ],
+          "exitName": null,
+          "maps": [
+            {
+              "id": "5704e4dad2720bb55b8b4567",
+              "name": "Lighthouse"
+            }
+          ]
+        },
+        {
+          "id": "674607317781508c405fb979",
+          "type": "shoot",
+          "description": "Eliminate PMC operatives while completing the other objectives",
+          "optional": false,
+          "maps": [],
+          "target": "任意のPMC",
+          "count": 5,
+          "shotType": "kill",
+          "zoneNames": [],
+          "bodyParts": [],
+          "usingWeapon": [],
+          "usingWeaponMods": [],
+          "wearing": [],
+          "notWearing": [],
+          "distance": {
+            "compareMethod": ">=",
+            "value": 0
+          },
+          "playerHealthEffect": null,
+          "enemyHealthEffect": null
+        }
+      ],
+      "finishRewards": {
+        "offerUnlock": [],
+        "skillLevelReward": [],
+        "traderUnlock": [],
+        "craftUnlock": [],
+        "traderStanding": [
+          {
+            "standing": 0.02,
+            "trader": {
+              "id": "58330581ace78e27b8b10cee",
+              "name": "Skier"
+            }
+          }
+        ],
+        "items": [
+          {
+            "count": 5000,
+            "attributes": [],
+            "item": {
+              "id": "569668774bdc2da2298b4568",
+              "name": "ユーロ紙幣"
+            }
+          },
+          {
+            "count": 1,
+            "attributes": [],
+            "item": {
+              "id": "5b6d9ce188a4501afc1b2b25",
+              "name": "T H I C C ウェポンケース"
             }
           }
         ]
@@ -43299,7 +44135,7 @@
               "name": "Prapor"
             },
             "item": {
-              "id": "ak12sd000000000000000001",
+              "id": "70726573657400000000001b",
               "name": "Kalashnikov AK-12 5.45x39 アサルトライフル Silenced"
             }
           }
@@ -44359,7 +45195,7 @@
             "count": 1,
             "attributes": [],
             "item": {
-              "id": "ash12silenced00000000001",
+              "id": "707265736574000000000005",
               "name": "ASh-12 12.7x55 アサルトライフル Silenced"
             }
           },
@@ -49348,7 +50184,7 @@
             "count": 1,
             "attributes": [],
             "item": {
-              "id": "ak12valday00000000000001",
+              "id": "70726573657400000000001c",
               "name": "Kalashnikov AK-12 5.45x39 アサルトライフル PS320 1/6x"
             }
           }
@@ -52012,7 +52848,7 @@
             "count": 1,
             "attributes": [],
             "item": {
-              "id": "m4a1kacrisii000000000001",
+              "id": "707265736574000000000009",
               "name": "M4A1 5.56x45 アサルトライフル KAC RIS"
             }
           },
@@ -52450,10 +53286,6 @@
           "enemyHealthEffect": null,
           "maps": [
             {
-              "id": "56f40101d2720b2a4d8b45d6",
-              "name": "Customs"
-            },
-            {
               "id": "5704e3c2d2720bac5b8b4567",
               "name": "Woods"
             },
@@ -52546,7 +53378,7 @@
             "count": 2,
             "attributes": [],
             "item": {
-              "id": "vepruntersvd000000000001",
+              "id": "707265736574000000000018",
               "name": "Molot Arms VPO-101 Vepr-Hunter 7.62x51 カービン SVD"
             }
           },
@@ -52707,10 +53539,6 @@
           "playerHealthEffect": null,
           "enemyHealthEffect": null,
           "maps": [
-            {
-              "id": "56f40101d2720b2a4d8b45d6",
-              "name": "Customs"
-            },
             {
               "id": "5704e3c2d2720bac5b8b4567",
               "name": "Woods"
@@ -54734,8 +55562,8 @@
             "count": 1,
             "attributes": [],
             "item": {
-              "id": "707265736574000000000044",
-              "name": "Degtyarev RPDN 7.62x39 マシンガン 1P78-1"
+              "id": "657eb30326f0eb0718056204",
+              "name": "Degtyarev RPDN 7.62x39 マシンガン デフォルト"
             }
           }
         ]
@@ -54831,8 +55659,8 @@
           "usingWeaponMods": [
             [
               {
-                "id": "618a75f0bd321d49084cd399",
-                "name": "NPZ 1P78-1 2.8x scope"
+                "id": "6544d4187c5457729210d277",
+                "name": "Axion Kobra EKP-1S-03 reflex sight (Dovetail)"
               }
             ]
           ]
@@ -56416,6 +57244,39 @@
           }
         }
       ],
+      "finishRewards": {
+        "offerUnlock": [],
+        "skillLevelReward": [],
+        "traderUnlock": [],
+        "craftUnlock": [],
+        "traderStanding": [
+          {
+            "standing": 0.05,
+            "trader": {
+              "id": "58330581ace78e27b8b10cee",
+              "name": "Skier"
+            }
+          }
+        ],
+        "items": [
+          {
+            "count": 100000,
+            "attributes": [],
+            "item": {
+              "id": "5449016a4bdc2d6f028b456f",
+              "name": "ルーブル紙幣"
+            }
+          },
+          {
+            "count": 1,
+            "attributes": [],
+            "item": {
+              "id": "60b7c2bd95047637182d90a4",
+              "name": "MP-155 12ga セミオートショットガン Ultima"
+            }
+          }
+        ]
+      },
       "objectives": [
         {
           "id": "5c0bc95086f7746e784f39ec",
@@ -56577,40 +57438,7 @@
             ]
           ]
         }
-      ],
-      "finishRewards": {
-        "offerUnlock": [],
-        "skillLevelReward": [],
-        "traderUnlock": [],
-        "traderStanding": [
-          {
-            "standing": 0.05,
-            "trader": {
-              "id": "58330581ace78e27b8b10cee",
-              "name": "Skier"
-            }
-          }
-        ],
-        "items": [
-          {
-            "count": 100000,
-            "attributes": [],
-            "item": {
-              "id": "5449016a4bdc2d6f028b456f",
-              "name": "ルーブル紙幣"
-            }
-          },
-          {
-            "count": 1,
-            "attributes": [],
-            "item": {
-              "id": "60b7c2bd95047637182d90a4",
-              "name": "MP-155 12ga セミオートショットガン Ultima"
-            }
-          }
-        ],
-        "craftUnlock": []
-      }
+      ]
     },
     {
       "id": "5c0d0f1886f77457b8210226",
@@ -57161,7 +57989,7 @@
             "count": 1,
             "attributes": [],
             "item": {
-              "id": "m4a1kacrisii000000000001",
+              "id": "707265736574000000000009",
               "name": "M4A1 5.56x45 アサルトライフル KAC RIS"
             }
           },
@@ -57803,7 +58631,7 @@
               "name": "Prapor"
             },
             "item": {
-              "id": "rpk166l26000000000000001",
+              "id": "70726573657400000000001f",
               "name": "RPK-16 5.45×39 ライトマシンガン 6L26"
             }
           }
@@ -58655,8 +59483,8 @@
             "count": 1,
             "attributes": [],
             "item": {
-              "id": "707265736574000000000048",
-              "name": "IWI UZI PRO Pistol 9x19 サブマシンガン BOSS Xe"
+              "id": "63986a9ab483a550805be5ee",
+              "name": "SR-2M \"Veresk\" 9x21 サブマシンガン FSB"
             }
           }
         ]
@@ -58741,27 +59569,19 @@
           ],
           "usingWeapon": [
             {
-              "id": "6680304edadb7aa61d00cef0",
-              "name": "IWI UZI PRO Pistol 9x19 サブマシンガン"
-            },
-            {
-              "id": "668e71a8dadf42204c032ce1",
-              "name": "IWI UZI PRO SMG 9x19 サブマシンガン"
+              "id": "62e14904c2699c0ec93adc47",
+              "name": "SR-2M \"Veresk\" 9x21 サブマシンガン"
             }
           ],
           "usingWeaponMods": [
             [
               {
-                "id": "668670432b934a68630a7fe8",
-                "name": "UZI PRO 9x19 240mm barrel"
+                "id": "62e2a7138e1ac9380579c122",
+                "name": "SR-2M 9x21 SV-1381 sound suppressor"
               },
               {
-                "id": "66867310f3734a938b077f79",
-                "name": "UZI PRO SBR buttstock"
-              },
-              {
-                "id": "655f13e0a246670fb0373245",
-                "name": "Wilcox BOSS Xe reflex sight"
+                "id": "62ff9920fe938a24c90c10d2",
+                "name": "SR-2M KP-SR2 reflex sight"
               }
             ]
           ]
@@ -61177,6 +61997,7 @@
       "finishRewards": {
         "skillLevelReward": [],
         "traderUnlock": [],
+        "craftUnlock": [],
         "traderStanding": [
           {
             "standing": 0.01,
@@ -61208,8 +62029,7 @@
               "name": "マイコンボード"
             }
           }
-        ],
-        "craftUnlock": []
+        ]
       }
     },
     {
@@ -61714,6 +62534,7 @@
         "offerUnlock": [],
         "skillLevelReward": [],
         "traderUnlock": [],
+        "craftUnlock": [],
         "traderStanding": [
           {
             "standing": 0.03,
@@ -61732,8 +62553,7 @@
               "name": "シリコン光電子集積回路の教本"
             }
           }
-        ],
-        "craftUnlock": []
+        ]
       }
     },
     {
@@ -65829,14 +66649,6 @@
               "name": "Customs"
             },
             {
-              "id": "5704e5fad2720bc05b8b4567",
-              "name": "Reserve"
-            },
-            {
-              "id": "55f2d3fd4bdc2d5f408b4567",
-              "name": "Factory"
-            },
-            {
               "id": "5714dbc024597771384a510d",
               "name": "Interchange"
             },
@@ -65847,6 +66659,10 @@
             {
               "id": "5704e554d2720bac5b8b456e",
               "name": "Shoreline"
+            },
+            {
+              "id": "55f2d3fd4bdc2d5f408b4567",
+              "name": "Factory"
             },
             {
               "id": "59fc81d786f774390775787e",
@@ -66343,10 +67159,6 @@
           "enemyHealthEffect": null,
           "maps": [
             {
-              "id": "56f40101d2720b2a4d8b45d6",
-              "name": "Customs"
-            },
-            {
               "id": "5704e3c2d2720bac5b8b4567",
               "name": "Woods"
             },
@@ -66382,10 +67194,6 @@
           "enemyHealthEffect": null,
           "maps": [
             {
-              "id": "56f40101d2720b2a4d8b45d6",
-              "name": "Customs"
-            },
-            {
               "id": "5704e3c2d2720bac5b8b4567",
               "name": "Woods"
             },
@@ -66420,10 +67228,6 @@
           "playerHealthEffect": null,
           "enemyHealthEffect": null,
           "maps": [
-            {
-              "id": "56f40101d2720b2a4d8b45d6",
-              "name": "Customs"
-            },
             {
               "id": "5704e3c2d2720bac5b8b4567",
               "name": "Woods"
@@ -76488,10 +77292,6 @@
           "enemyHealthEffect": null,
           "maps": [
             {
-              "id": "55f2d3fd4bdc2d5f408b4567",
-              "name": "Factory"
-            },
-            {
               "id": "5714dbc024597771384a510d",
               "name": "Interchange"
             }
@@ -76573,8 +77373,8 @@
           "enemyHealthEffect": null,
           "maps": [
             {
-              "id": "5704e5fad2720bc05b8b4567",
-              "name": "Reserve"
+              "id": "56f40101d2720b2a4d8b45d6",
+              "name": "Customs"
             }
           ]
         },
@@ -78745,10 +79545,6 @@
               "name": "Streets of Tarkov"
             },
             {
-              "id": "5704e5fad2720bc05b8b4567",
-              "name": "Reserve"
-            },
-            {
               "id": "56f40101d2720b2a4d8b45d6",
               "name": "Customs"
             },
@@ -79011,429 +79807,6 @@
             "item": {
               "id": "569668774bdc2da2298b4568",
               "name": "ユーロ紙幣"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "6744ab1def61d56e020b5c56",
-      "name": "Protect the Sky",
-      "normalizedName": "protect-the-sky",
-      "experience": 25400,
-      "minPlayerLevel": 0,
-      "kappaRequired": false,
-      "lightkeeperRequired": false,
-      "taskRequirements": [],
-      "traderLevelRequirements": [],
-      "factionName": "Any",
-      "neededKeys": [],
-      "trader": {
-        "id": "656f0f98d80a697f855d34b1",
-        "name": "BTR Driver"
-      },
-      "map": {
-        "id": "5704e3c2d2720bac5b8b4567",
-        "name": "Woods",
-        "normalizedName": "woods"
-      },
-      "startRewards": {
-        "traderStanding": [],
-        "items": [],
-        "offerUnlock": [],
-        "skillLevelReward": [],
-        "traderUnlock": [],
-        "craftUnlock": []
-      },
-      "objectives": [
-        {
-          "id": "6744ab1def61d56e020b5c5f",
-          "type": "findQuestItem",
-          "description": "Locate the package in the specified spot on Woods",
-          "optional": false,
-          "count": 1,
-          "questItem": {
-            "id": "67499d4deca8acb2d206163b",
-            "name": "KOSA UAV electronic jamming device"
-          },
-          "maps": [
-            {
-              "id": "5704e3c2d2720bac5b8b4567",
-              "name": "Woods"
-            }
-          ]
-        },
-        {
-          "id": "6744ab1def61d56e020b5c60",
-          "type": "giveQuestItem",
-          "description": "Hand over the package",
-          "optional": false,
-          "maps": [],
-          "count": 1,
-          "questItem": {
-            "id": "67499d4deca8acb2d206163b",
-            "name": "KOSA UAV electronic jamming device"
-          }
-        }
-      ],
-      "finishRewards": {
-        "skillLevelReward": [],
-        "traderUnlock": [],
-        "craftUnlock": [],
-        "traderStanding": [
-          {
-            "standing": 0.02,
-            "trader": {
-              "id": "656f0f98d80a697f855d34b1",
-              "name": "BTR Driver"
-            }
-          }
-        ],
-        "items": [
-          {
-            "count": 96000,
-            "attributes": [],
-            "item": {
-              "id": "5449016a4bdc2d6f028b456f",
-              "name": "ルーブル紙幣"
-            }
-          },
-          {
-            "count": 4,
-            "attributes": [],
-            "item": {
-              "id": "657023a9126cc4a57d0e17a6",
-              "name": ".300 Blackout CBJ ammo pack (50 pcs)"
-            }
-          }
-        ],
-        "offerUnlock": [
-          {
-            "level": 4,
-            "trader": {
-              "id": "5a7c2eca46aef81a7ca2145d",
-              "name": "Mechanic"
-            },
-            "item": {
-              "id": "675ff11da6335de2280d492a",
-              "name": "Aklys Defense Velociraptor .300 Blackout アサルトライフル デフォルト"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "6744aca8d3346c216702c583",
-      "name": "Discombobulate",
-      "normalizedName": "discombobulate",
-      "experience": 23400,
-      "minPlayerLevel": 0,
-      "kappaRequired": false,
-      "lightkeeperRequired": false,
-      "traderLevelRequirements": [],
-      "factionName": "Any",
-      "neededKeys": [],
-      "trader": {
-        "id": "656f0f98d80a697f855d34b1",
-        "name": "BTR Driver"
-      },
-      "map": {
-        "id": "5704e3c2d2720bac5b8b4567",
-        "name": "Woods",
-        "normalizedName": "woods"
-      },
-      "startRewards": {
-        "traderStanding": [],
-        "items": [],
-        "offerUnlock": [],
-        "skillLevelReward": [],
-        "traderUnlock": [],
-        "craftUnlock": []
-      },
-      "taskRequirements": [
-        {
-          "status": [
-            "complete"
-          ],
-          "task": {
-            "id": "6744ab1def61d56e020b5c56",
-            "name": "Protect the Sky"
-          }
-        }
-      ],
-      "objectives": [
-        {
-          "id": "6744ae5cc771515803d615ec",
-          "type": "plantItem",
-          "description": "Stash a VOG-25 Khattabka grenade at the first RPG ammo crate on Woods",
-          "optional": false,
-          "count": 1,
-          "foundInRaid": false,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "maps": [
-            {
-              "id": "5704e3c2d2720bac5b8b4567",
-              "name": "Woods"
-            }
-          ],
-          "item": {
-            "id": "5e340dcdcb6d5863cc5e5efb",
-            "name": "VOG-25 Khattabka グレネード",
-            "shortName": "VOG-25"
-          }
-        },
-        {
-          "id": "6744ae63b3b4be24ffc607a4",
-          "type": "plantItem",
-          "description": "Stash a VOG-25 Khattabka grenade at the second RPG ammo crate on Woods",
-          "optional": false,
-          "count": 1,
-          "foundInRaid": false,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "maps": [
-            {
-              "id": "5704e3c2d2720bac5b8b4567",
-              "name": "Woods"
-            }
-          ],
-          "item": {
-            "id": "5e340dcdcb6d5863cc5e5efb",
-            "name": "VOG-25 Khattabka グレネード",
-            "shortName": "VOG-25"
-          }
-        },
-        {
-          "id": "6744ae65f8c1438fb9374575",
-          "type": "plantItem",
-          "description": "Stash a VOG-25 Khattabka grenade at the third RPG ammo crate on Woods",
-          "optional": false,
-          "count": 1,
-          "foundInRaid": false,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "maps": [
-            {
-              "id": "5704e3c2d2720bac5b8b4567",
-              "name": "Woods"
-            }
-          ],
-          "item": {
-            "id": "5e340dcdcb6d5863cc5e5efb",
-            "name": "VOG-25 Khattabka グレネード",
-            "shortName": "VOG-25"
-          }
-        }
-      ],
-      "finishRewards": {
-        "offerUnlock": [],
-        "skillLevelReward": [],
-        "traderUnlock": [],
-        "craftUnlock": [],
-        "traderStanding": [
-          {
-            "standing": 0.03,
-            "trader": {
-              "id": "656f0f98d80a697f855d34b1",
-              "name": "BTR Driver"
-            }
-          }
-        ],
-        "items": [
-          {
-            "count": 175000,
-            "attributes": [],
-            "item": {
-              "id": "5449016a4bdc2d6f028b456f",
-              "name": "ルーブル紙幣"
-            }
-          },
-          {
-            "count": 1,
-            "attributes": [],
-            "item": {
-              "id": "62a0a16d0b9d3c46de5b6e97",
-              "name": "ミリタリーフラッシュドライブ"
-            }
-          },
-          {
-            "count": 1,
-            "attributes": [],
-            "item": {
-              "id": "62a0a16d0b9d3c46de5b6e97",
-              "name": "ミリタリーフラッシュドライブ"
-            }
-          },
-          {
-            "count": 1,
-            "attributes": [],
-            "item": {
-              "id": "62a0a16d0b9d3c46de5b6e97",
-              "name": "ミリタリーフラッシュドライブ"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "67a09761e720611a6a01f288",
-      "name": "Keeper's Word",
-      "normalizedName": "keepers-word",
-      "experience": 56800,
-      "minPlayerLevel": 0,
-      "kappaRequired": false,
-      "lightkeeperRequired": false,
-      "taskRequirements": [],
-      "traderLevelRequirements": [],
-      "factionName": "Any",
-      "trader": {
-        "id": "638f541a29ffd1183d187f57",
-        "name": "Lightkeeper"
-      },
-      "map": {
-        "id": "6733700029c367a3d40b02af",
-        "name": "The Labyrinth",
-        "normalizedName": "the-labyrinth"
-      },
-      "startRewards": {
-        "traderStanding": [],
-        "items": [],
-        "offerUnlock": [],
-        "skillLevelReward": [],
-        "traderUnlock": [],
-        "craftUnlock": []
-      },
-      "objectives": [
-        {
-          "id": "67a0e4df8cddbe2df31dd1d9",
-          "type": "plantItem",
-          "description": "Stash a Cultist knife in the first special place inside The Labyrinth",
-          "optional": false,
-          "count": 1,
-          "foundInRaid": false,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "maps": [
-            {
-              "id": "6733700029c367a3d40b02af",
-              "name": "The Labyrinth"
-            }
-          ],
-          "item": {
-            "id": "5fc64ea372b0dd78d51159dc",
-            "name": "カルティストナイフ",
-            "shortName": "Knife"
-          }
-        },
-        {
-          "id": "67a0e4e399e34c9ffcdc6e00",
-          "type": "plantItem",
-          "description": "Stash a Cultist knife in the second special place inside The Labyrinth",
-          "optional": false,
-          "count": 1,
-          "foundInRaid": false,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "maps": [
-            {
-              "id": "6733700029c367a3d40b02af",
-              "name": "The Labyrinth"
-            }
-          ],
-          "item": {
-            "id": "5fc64ea372b0dd78d51159dc",
-            "name": "カルティストナイフ",
-            "shortName": "Knife"
-          }
-        },
-        {
-          "id": "67a0e4e64cb065811d95c6d9",
-          "type": "plantItem",
-          "description": "Stash a Cultist knife in the third special place inside The Labyrinth",
-          "optional": false,
-          "count": 1,
-          "foundInRaid": false,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "maps": [
-            {
-              "id": "6733700029c367a3d40b02af",
-              "name": "The Labyrinth"
-            }
-          ],
-          "item": {
-            "id": "5fc64ea372b0dd78d51159dc",
-            "name": "カルティストナイフ",
-            "shortName": "Knife"
-          }
-        }
-      ],
-      "neededKeys": [
-        {
-          "map": {
-            "id": "6733700029c367a3d40b02af",
-            "name": "The Labyrinth"
-          },
-          "keys": [
-            {
-              "id": "679bab714e9ca6b3d80586b4",
-              "name": "遺体安置所の鍵"
-            }
-          ]
-        }
-      ],
-      "finishRewards": {
-        "offerUnlock": [],
-        "skillLevelReward": [],
-        "traderUnlock": [],
-        "craftUnlock": [],
-        "traderStanding": [
-          {
-            "standing": 0.03,
-            "trader": {
-              "id": "638f541a29ffd1183d187f57",
-              "name": "Lightkeeper"
-            }
-          }
-        ],
-        "items": [
-          {
-            "count": 4200,
-            "attributes": [],
-            "item": {
-              "id": "5696686a4bdc2da3298b456a",
-              "name": "ドル紙幣"
-            }
-          },
-          {
-            "count": 1,
-            "attributes": [],
-            "item": {
-              "id": "5c05308086f7746b2101e90b",
-              "name": "Virtex プログラマブルプロセッサ"
-            }
-          },
-          {
-            "count": 1,
-            "attributes": [],
-            "item": {
-              "id": "5d235bb686f77443f4331278",
-              "name": "S I C C ポーチ"
-            }
-          },
-          {
-            "count": 1,
-            "attributes": [],
-            "item": {
-              "id": "64d0b40fbe2eed70e254e2d4",
-              "name": "聖なるアミュレット"
             }
           }
         ]
