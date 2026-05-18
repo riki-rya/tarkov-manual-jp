@@ -815,7 +815,7 @@
           "count": 1,
           "questItem": {
             "id": "6582bd252b50c61c565828e2",
-            "name": "Bottle of Le Jean wine"
+            "name": "ジャンワインのボトル"
           },
           "maps": [
             {
@@ -837,7 +837,7 @@
           "count": 1,
           "questItem": {
             "id": "6582bd252b50c61c565828e2",
-            "name": "Bottle of Le Jean wine"
+            "name": "ジャンワインのボトル"
           }
         }
       ],
@@ -1101,7 +1101,7 @@
             },
             {
               "id": "5a5f1ce64f39f90b401987bc",
-              "name": "Zenit 2IRS Klesch フラッシュライト + レーザーサイト"
+              "name": "Zenit Klesch-2IKS IR レーザー付きイルミネーター"
             },
             {
               "id": "5a7b483fe899ef0016170d15",
@@ -1692,7 +1692,6 @@
       "finishRewards": {
         "skillLevelReward": [],
         "traderUnlock": [],
-        "craftUnlock": [],
         "traderStanding": [
           {
             "standing": 0.02,
@@ -1751,7 +1750,8 @@
               "name": "Mosin Rifle AIM Sports Recoil Pad"
             }
           }
-        ]
+        ],
+        "craftUnlock": []
       }
     },
     {
@@ -2665,7 +2665,7 @@
             "attributes": [],
             "item": {
               "id": "707265736574000000000019",
-              "name": "Mosin 7.62x54R ボルトアクション ライフル (スナイパー) ATACR 7-35x56"
+              "name": "Mosin 7.62x54R ボルトアクション ライフル (スナイパー) ATACR 7-35"
             }
           },
           {
@@ -2708,7 +2708,7 @@
             },
             "item": {
               "id": "618ba27d9008e4636a67f61d",
-              "name": "Vortex Razor HD Gen.2 1-6x24 30mm riflescope"
+              "name": "Vortex Razor HD Gen.2 1-6x24 30mm ライフルスコープ"
             }
           }
         ]
@@ -2894,7 +2894,7 @@
           "minDurability": 0,
           "item": {
             "id": "656df4fec921ad01000481a2",
-            "name": "Pack of instant noodles",
+            "name": "インスタントヌードル",
             "shortName": "Noodles"
           }
         },
@@ -4081,15 +4081,15 @@
             },
             {
               "id": "5a7c74b3e899ef0014332c29",
-              "name": "NSPU-M 3.5x dovetail night vision scope"
+              "name": "NSPU-M 3.5x ドブテイルナイトビジョンスコープ"
             },
             {
               "id": "5a1eaa87fcdbcb001865f75e",
-              "name": "Trijicon REAP-IR thermal scope"
+              "name": "Trijicon REAP-IR サーマルスコープ"
             },
             {
               "id": "5b3b6e495acfc4330140bd88",
-              "name": "Armasight Vulcan MG 3.5x Bravo night vision scope"
+              "name": "Armasight Vulcan MG 3.5x Bravo ナイトビジョンスコープ"
             },
             {
               "id": "5d1b5e94d7ad1a2b865a96b0",
@@ -4097,23 +4097,23 @@
             },
             {
               "id": "606f2696f2cb2e02a42aceb1",
-              "name": "MP-155 Ultima thermal camera"
+              "name": "MP-155 Ultima サーマルカメラ"
             },
             {
               "id": "609bab8b455afd752b2e6138",
-              "name": "Torrey Pines Logic T12W サーマルリフレックスサイト"
+              "name": "Torrey Pines Logic T12W 30Hz サーマルリフレックスサイト"
             },
             {
               "id": "6478641c19d732620e045e17",
-              "name": "SIG Sauer ECHO1 1-2x30mm 30Hz thermal reflex scope"
+              "name": "SIG Sauer ECHO1 1-2x30mm 30Hz サーマルリフレックススコープ"
             },
             {
               "id": "63fc44e2429a8a166c7f61e6",
-              "name": "Armasight Zeus-Pro 640 2-8x50 30Hz thermal scope"
+              "name": "Armasight Zeus-Pro 640 2-8x50 30Hz サーマルスコープ"
             },
             {
               "id": "67641b461c2eb66ade05dba6",
-              "name": "Cyclone Shakhin 3.7x thermal scope"
+              "name": "Cyclone Shakhin 3.7x サーマルスコープ"
             },
             {
               "id": "67506ca81f18589016006aa6",
@@ -4155,7 +4155,7 @@
             "attributes": [],
             "item": {
               "id": "5b3b6e495acfc4330140bd88",
-              "name": "Armasight Vulcan MG 3.5x Bravo night vision scope"
+              "name": "Armasight Vulcan MG 3.5x Bravo ナイトビジョンスコープ"
             }
           }
         ]
@@ -4952,7 +4952,7 @@
             "attributes": [],
             "item": {
               "id": "5c11279ad174af029d64592b",
-              "name": "5.56x45mm Warmageddon ammo pack (20 pcs)"
+              "name": "5.56x45mm Warmageddon 弾薬パック (20発入り)"
             }
           },
           {
@@ -4960,7 +4960,7 @@
             "attributes": [],
             "item": {
               "id": "57372c21245977670937c6c2",
-              "name": "5.45x39mm BT gs ammo pack (120 pcs)"
+              "name": "5.45x39mm BT弾 弾薬パック（120発）"
             }
           }
         ]
@@ -5034,7 +5034,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ],
           "usingWeapon": [
@@ -5048,7 +5048,7 @@
             },
             {
               "id": "576165642459773c7a400233",
-              "name": "Saiga 12K ver.10 12ga セミオートショットガン"
+              "name": "Saiga-12K ver.10 12ga セミオートショットガン"
             },
             {
               "id": "54491c4f4bdc2db1078b4568",
@@ -5129,7 +5129,7 @@
             "attributes": [],
             "item": {
               "id": "5b2388675acfc4771e1be0be",
-              "name": "Burris FullField TAC30 1-4x24 30mm riflescope"
+              "name": "Burris FullField TAC30 1-4x24 30mm スコープ"
             }
           }
         ]
@@ -5282,7 +5282,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ]
         },
@@ -5689,7 +5689,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ]
         }
@@ -5862,7 +5862,7 @@
             "attributes": [],
             "item": {
               "id": "564ca99c4bdc2d16268b4589",
-              "name": "AK-74 5.45x39 6L20 30-round magazine"
+              "name": "AK-74 5.45x39mm 6L20 30発マガジン"
             }
           },
           {
@@ -5870,7 +5870,7 @@
             "attributes": [],
             "item": {
               "id": "57372db0245977685d4159b2",
-              "name": "5.45x39mm PP gs ammo pack (30 pcs)"
+              "name": "5.45x39mm PP弾 弾薬パック（30発）"
             }
           },
           {
@@ -6364,7 +6364,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ]
         }
@@ -6410,7 +6410,7 @@
             "attributes": [],
             "item": {
               "id": "58414a052459775a2b6d9f1e",
-              "name": "Saiga 12K ver.10 12ga セミオートショットガン デフォルト"
+              "name": "Saiga-12K ver.10 12ga セミオートショットガン デフォルト"
             }
           },
           {
@@ -6935,7 +6935,7 @@
             "生還",
             "ランスルー"
           ],
-          "exitName": "Railroad Passage",
+          "exitName": "Railroad Passage (Flare)",
           "maps": [
             {
               "id": "56f40101d2720b2a4d8b45d6",
@@ -7175,7 +7175,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ]
         },
@@ -7314,7 +7314,7 @@
             },
             "item": {
               "id": "576fd4ec2459777f0b518431",
-              "name": "BelOMO PSO-1M2-1 4x24 scope"
+              "name": "BelOMO PSO-1M2-1 4x24 スコープ"
             }
           },
           {
@@ -7818,11 +7818,11 @@
             },
             {
               "id": "6932af22cccd2b808a04385e",
-              "name": "AR-10 KAC SR-25/Mk.11 7.62x51 sound suppressor"
+              "name": "AAC 762-SDN-6 multi-caliber sound suppressor"
             },
             {
               "id": "6936be064737190b66053bb4",
-              "name": "AR-10 KAC SR-25/Mk.11 7.62x51 sound suppressor (Taupe)"
+              "name": "AAC 762-SDN-6 multi-caliber sound suppressor"
             },
             {
               "id": "544909bb4bdc2d6f028b4577",
@@ -7842,7 +7842,7 @@
             },
             {
               "id": "5a5f1ce64f39f90b401987bc",
-              "name": "Zenit 2IRS Klesch フラッシュライト + レーザーサイト"
+              "name": "Zenit Klesch-2IKS IR レーザー付きイルミネーター"
             },
             {
               "id": "5a7b483fe899ef0016170d15",
@@ -7938,7 +7938,7 @@
             "attributes": [],
             "item": {
               "id": "626bb8532c923541184624b4",
-              "name": "SwampFox Trihawk Prism Scope 3x30"
+              "name": "SwampFox Trihawk プリズムスコープ 3x30"
             }
           },
           {
@@ -8869,7 +8869,7 @@
             "attributes": [],
             "item": {
               "id": "657025961419851aef03e721",
-              "name": "9x19mm Green Tracer ammo pack (50 pcs)"
+              "name": "9x19mm Green Tracer 弾薬パック (50発)"
             }
           },
           {
@@ -8890,7 +8890,7 @@
             },
             "item": {
               "id": "584984812459776a704a82a6",
-              "name": "VOMZ Pilad P1x42 Weaver reflex sight"
+              "name": "VOMZ Pilad P1x42 Weaver リフレックスサイト"
             }
           }
         ]
@@ -9008,7 +9008,7 @@
             "attributes": [],
             "item": {
               "id": "657024e3c5d7d4cb4d07856a",
-              "name": "5.56x45mm M855A1 ammo pack (50 pcs)"
+              "name": "5.56x45mm M855A1 弾薬パック (50発)"
             }
           },
           {
@@ -9075,7 +9075,7 @@
           "minDurability": 0,
           "item": {
             "id": "55d482194bdc2d1d4e8b456b",
-            "name": "AK-74 5.45x39 6L31 60-round magazine",
+            "name": "AK-74 5.45x39mm 6L31 60発 マガジン",
             "shortName": "6L31"
           }
         },
@@ -9092,7 +9092,7 @@
           "minDurability": 0,
           "item": {
             "id": "55d482194bdc2d1d4e8b456b",
-            "name": "AK-74 5.45x39 6L31 60-round magazine",
+            "name": "AK-74 5.45x39mm 6L31 60発 マガジン",
             "shortName": "6L31"
           }
         },
@@ -9153,7 +9153,7 @@
             "attributes": [],
             "item": {
               "id": "57372d4c245977685a3da2a1",
-              "name": "5.45x39mm PP gs ammo pack (120 pcs)"
+              "name": "5.45x39mm PP弾 弾薬パック（120発）"
             }
           },
           {
@@ -9174,7 +9174,7 @@
             },
             "item": {
               "id": "55d482194bdc2d1d4e8b456b",
-              "name": "AK-74 5.45x39 6L31 60-round magazine"
+              "name": "AK-74 5.45x39mm 6L31 60発 マガジン"
             }
           }
         ]
@@ -9630,11 +9630,11 @@
             },
             {
               "id": "6932af22cccd2b808a04385e",
-              "name": "AR-10 KAC SR-25/Mk.11 7.62x51 sound suppressor"
+              "name": "AAC 762-SDN-6 multi-caliber sound suppressor"
             },
             {
               "id": "6936be064737190b66053bb4",
-              "name": "AR-10 KAC SR-25/Mk.11 7.62x51 sound suppressor (Taupe)"
+              "name": "AAC 762-SDN-6 multi-caliber sound suppressor"
             }
           ]
         }
@@ -9795,7 +9795,7 @@
             },
             {
               "id": "5710c24ad2720bc3458b45a3",
-              "name": "F-1 hand grenade"
+              "name": "F-1 ハンドグレネード"
             },
             {
               "id": "618a431df1eb8e24b8741deb",
@@ -9811,7 +9811,7 @@
             },
             {
               "id": "67b49e7335dec48e3e05e057",
-              "name": "F-1 hand grenade (Reduced delay)"
+              "name": "F-1 ハンドグレネード (Reduced delay)"
             }
           ]
         }
@@ -9851,7 +9851,7 @@
             "attributes": [],
             "item": {
               "id": "5710c24ad2720bc3458b45a3",
-              "name": "F-1 hand grenade"
+              "name": "F-1 ハンドグレネード"
             }
           },
           {
@@ -10173,7 +10173,7 @@
           "exitStatus": [
             "生還"
           ],
-          "exitName": "Klimov Street",
+          "exitName": "Klimov Street (Flare)",
           "maps": [
             {
               "id": "5714dc692459777137212e12",
@@ -10610,7 +10610,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ]
         },
@@ -10632,7 +10632,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ]
         },
@@ -10847,7 +10847,7 @@
             },
             "item": {
               "id": "5b3116595acfc40019476364",
-              "name": "SIG Sauer ROMEO4 reflex sight"
+              "name": "SIG Sauer ROMEO4 リフレックスサイト"
             }
           },
           {
@@ -10869,7 +10869,7 @@
             },
             "item": {
               "id": "68a639748e1fe612970728e9",
-              "name": "Colt M16A1 5.56x45 assault rifle"
+              "name": "Colt M16A1 5.56x45 アサルトライフル"
             }
           }
         ]
@@ -10946,7 +10946,7 @@
             },
             {
               "id": "5a5f1ce64f39f90b401987bc",
-              "name": "Zenit 2IRS Klesch フラッシュライト + レーザーサイト"
+              "name": "Zenit Klesch-2IKS IR レーザー付きイルミネーター"
             },
             {
               "id": "5a7b483fe899ef0016170d15",
@@ -11642,7 +11642,7 @@
             "attributes": [],
             "item": {
               "id": "5c0e534186f7747fa1419867",
-              "name": "eTG-チェンジの注射器"
+              "name": "eTG-change の注射器"
             }
           },
           {
@@ -11760,7 +11760,7 @@
             "attributes": [],
             "item": {
               "id": "5710c24ad2720bc3458b45a3",
-              "name": "F-1 hand grenade"
+              "name": "F-1 ハンドグレネード"
             }
           },
           {
@@ -11930,7 +11930,7 @@
             "attributes": [],
             "item": {
               "id": "5710c24ad2720bc3458b45a3",
-              "name": "F-1 hand grenade"
+              "name": "F-1 ハンドグレネード"
             }
           },
           {
@@ -12236,7 +12236,7 @@
             "attributes": [],
             "item": {
               "id": "657025a81419851aef03e724",
-              "name": "9x19mm Pst gzh ammo pack (50 pcs)"
+              "name": "9x19mm Pst gzh 弾薬パック (50発)"
             }
           }
         ],
@@ -12323,7 +12323,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ]
         },
@@ -12586,7 +12586,7 @@
             "attributes": [],
             "item": {
               "id": "657024e3c5d7d4cb4d07856a",
-              "name": "5.56x45mm M855A1 ammo pack (50 pcs)"
+              "name": "5.56x45mm M855A1 弾薬パック (50発)"
             }
           }
         ]
@@ -12709,7 +12709,7 @@
             "attributes": [],
             "item": {
               "id": "657024e8cfc010a0f5006a0d",
-              "name": "5.56x45mm M856 ammo pack (50 pcs)"
+              "name": "5.56x45mm M856 弾薬パック (50発)"
             }
           },
           {
@@ -12842,7 +12842,7 @@
             "attributes": [],
             "item": {
               "id": "65702656c5d7d4cb4d078591",
-              "name": "5.56x45mm M856 ammo pack (100 pcs)"
+              "name": "5.56x45mm M856 弾薬パック (100発)"
             }
           }
         ]
@@ -14025,7 +14025,7 @@
     },
     {
       "id": "697877e0c639962b2e0cf24f",
-      "name": "Arena Business [PVP ZONE]",
+      "name": "Arena Business [PVP ZONE]\n",
       "normalizedName": "arena-business-pvp-zone",
       "map": null,
       "experience": 19500,
@@ -14618,7 +14618,7 @@
             "attributes": [],
             "item": {
               "id": "657024f9bfc87b3a3409323b",
-              "name": "5.56x45mm MK 318 Mod 0 (SOST) ammo pack (50 pcs)"
+              "name": "5.56x45mm MK 318 Mod 0 (SOST) 弾薬パック (50発)"
             }
           },
           {
@@ -14689,7 +14689,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ]
         },
@@ -14741,7 +14741,7 @@
             "attributes": [],
             "item": {
               "id": "576fd4ec2459777f0b518431",
-              "name": "BelOMO PSO-1M2-1 4x24 scope"
+              "name": "BelOMO PSO-1M2-1 4x24 スコープ"
             }
           },
           {
@@ -14905,7 +14905,7 @@
             "attributes": [],
             "item": {
               "id": "57aca93d2459771f2c7e26db",
-              "name": "ELCAN SpecterDR 1x/4x scope (FDE)"
+              "name": "ELCAN SpecterDR 1x/4xスコープ(FDE)"
             }
           },
           {
@@ -14913,7 +14913,7 @@
             "attributes": [],
             "item": {
               "id": "544a3a774bdc2d3a388b4567",
-              "name": "Leupold Mark 4 HAMR 4x24 DeltaPoint hybrid assault scope"
+              "name": "Leupold Mark 4 HAMR 4x24 デルタポイント ハイブリットアサルトスコープ"
             }
           }
         ],
@@ -15995,7 +15995,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ],
           "item": {
@@ -16021,7 +16021,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ],
           "item": {
@@ -16371,7 +16371,7 @@
           "usingWeapon": [
             {
               "id": "576165642459773c7a400233",
-              "name": "Saiga 12K ver.10 12ga セミオートショットガン"
+              "name": "Saiga-12K ver.10 12ga セミオートショットガン"
             },
             {
               "id": "54491c4f4bdc2db1078b4568",
@@ -16468,7 +16468,7 @@
             "attributes": [],
             "item": {
               "id": "5c1127bdd174af44217ab8b9",
-              "name": "9x19mm RIP ammo pack (20 pcs)"
+              "name": "9x19mm RIP 弾薬パック (20発)"
             }
           },
           {
@@ -17650,7 +17650,7 @@
             "attributes": [],
             "item": {
               "id": "55802d5f4bdc2dac148b458e",
-              "name": "AR-15 5.56x45 Magpul PMAG 30 GEN M3 W STANAG 30-round magazine"
+              "name": "AR-15 5.56x45 Magpul PMAG 30 GEN M3 W STANAG 30発マガジン"
             }
           }
         ],
@@ -18328,7 +18328,7 @@
             "attributes": [],
             "item": {
               "id": "657025961419851aef03e721",
-              "name": "9x19mm Green Tracer ammo pack (50 pcs)"
+              "name": "9x19mm Green Tracer 弾薬パック (50発)"
             }
           }
         ],
@@ -18399,7 +18399,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ]
         },
@@ -18415,7 +18415,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ]
         },
@@ -18431,7 +18431,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ]
         },
@@ -18447,7 +18447,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ]
         },
@@ -18468,7 +18468,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ]
         }
@@ -19076,7 +19076,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ]
         },
@@ -19092,7 +19092,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ]
         },
@@ -19108,7 +19108,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ]
         },
@@ -19124,7 +19124,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ]
         },
@@ -19140,7 +19140,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ]
         },
@@ -19156,7 +19156,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ]
         },
@@ -19172,7 +19172,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ]
         },
@@ -19188,7 +19188,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ]
         },
@@ -19204,7 +19204,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ]
         },
@@ -19220,7 +19220,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ]
         },
@@ -19236,7 +19236,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ]
         },
@@ -19252,7 +19252,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ]
         }
@@ -19434,7 +19434,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ],
           "markerItem": {
@@ -19454,7 +19454,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ],
           "markerItem": {
@@ -19474,7 +19474,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ],
           "markerItem": {
@@ -19591,7 +19591,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ],
           "item": {
@@ -19617,7 +19617,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ],
           "item": {
@@ -19643,7 +19643,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ],
           "item": {
@@ -19768,7 +19768,7 @@
           "count": 1,
           "questItem": {
             "id": "669fac549b0ce3feae01a137",
-            "name": "Chemical sample"
+            "name": "化学サンプル"
           },
           "maps": [
             {
@@ -19777,7 +19777,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ]
         },
@@ -19790,7 +19790,7 @@
           "count": 1,
           "questItem": {
             "id": "669fac549b0ce3feae01a137",
-            "name": "Chemical sample"
+            "name": "化学サンプル"
           }
         }
       ],
@@ -19872,7 +19872,7 @@
           "count": 1,
           "questItem": {
             "id": "66b22630a6b4e5ec7c02cdb7",
-            "name": "Case with precision tools"
+            "name": "精密工具の入ったケース"
           },
           "maps": [
             {
@@ -19920,7 +19920,7 @@
           "maps": [
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             },
             {
               "id": "55f2d3fd4bdc2d5f408b4567",
@@ -19936,7 +19936,7 @@
           "count": 1,
           "questItem": {
             "id": "66b22630a6b4e5ec7c02cdb7",
-            "name": "Case with precision tools"
+            "name": "精密工具の入ったケース"
           },
           "maps": [
             {
@@ -19945,7 +19945,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ]
         }
@@ -20199,7 +20199,7 @@
           "count": 1,
           "questItem": {
             "id": "675f80d4fe1b59cf490d3527",
-            "name": "Box with upgraded tools"
+            "name": "改良された工具の入った箱"
           },
           "maps": [
             {
@@ -20217,7 +20217,7 @@
           "count": 1,
           "questItem": {
             "id": "675f80d4fe1b59cf490d3527",
-            "name": "Box with upgraded tools"
+            "name": "改良された工具の入った箱"
           }
         }
       ],
@@ -20558,7 +20558,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ],
           "item": {
@@ -20584,7 +20584,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ],
           "item": {
@@ -20610,7 +20610,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ],
           "item": {
@@ -21432,11 +21432,11 @@
             },
             {
               "id": "6932af22cccd2b808a04385e",
-              "name": "AR-10 KAC SR-25/Mk.11 7.62x51 sound suppressor"
+              "name": "AAC 762-SDN-6 multi-caliber sound suppressor"
             },
             {
               "id": "6936be064737190b66053bb4",
-              "name": "AR-10 KAC SR-25/Mk.11 7.62x51 sound suppressor (Taupe)"
+              "name": "AAC 762-SDN-6 multi-caliber sound suppressor"
             }
           ]
         }
@@ -21749,7 +21749,7 @@
             "attributes": [],
             "item": {
               "id": "5c11279ad174af029d64592b",
-              "name": "5.56x45mm Warmageddon ammo pack (20 pcs)"
+              "name": "5.56x45mm Warmageddon 弾薬パック (20発入り)"
             }
           }
         ]
@@ -24755,7 +24755,7 @@
             "attributes": [],
             "item": {
               "id": "57372b832459776701014e41",
-              "name": "5.45x39mm BS gs ammo pack (120 pcs)"
+              "name": "5.45x39mm BS弾 弾薬パック（120発）"
             }
           },
           {
@@ -25048,7 +25048,7 @@
             "attributes": [],
             "item": {
               "id": "57372ac324597767001bc261",
-              "name": "5.45x39mm BP gs ammo pack (30 pcs)"
+              "name": "5.45x39mm BP弾 弾薬パック（30発）"
             }
           }
         ],
@@ -25069,7 +25069,7 @@
     },
     {
       "id": "6089743983426423753cd58a",
-      "name": "Safe corridor",
+      "name": "Safe Corridor",
       "normalizedName": "safe-corridor",
       "experience": 9000,
       "minPlayerLevel": 15,
@@ -25166,7 +25166,7 @@
             "attributes": [],
             "item": {
               "id": "5737292724597765e5728562",
-              "name": "5.45x39mm BP gs ammo pack (120 pcs)"
+              "name": "5.45x39mm BP弾 弾薬パック（120発）"
             }
           },
           {
@@ -25554,7 +25554,7 @@
             "attributes": [],
             "item": {
               "id": "65702652cfc010a0f5006a53",
-              "name": "5.56x45mm M855A1 ammo pack (100 pcs)"
+              "name": "5.56x45mm M855A1 弾薬パック (100発)"
             }
           }
         ]
@@ -26018,11 +26018,11 @@
             },
             {
               "id": "6932af22cccd2b808a04385e",
-              "name": "AR-10 KAC SR-25/Mk.11 7.62x51 sound suppressor"
+              "name": "AAC 762-SDN-6 multi-caliber sound suppressor"
             },
             {
               "id": "6936be064737190b66053bb4",
-              "name": "AR-10 KAC SR-25/Mk.11 7.62x51 sound suppressor (Taupe)"
+              "name": "AAC 762-SDN-6 multi-caliber sound suppressor"
             }
           ]
         }
@@ -26157,7 +26157,7 @@
             "attributes": [],
             "item": {
               "id": "618ba27d9008e4636a67f61d",
-              "name": "Vortex Razor HD Gen.2 1-6x24 30mm riflescope"
+              "name": "Vortex Razor HD Gen.2 1-6x24 30mm ライフルスコープ"
             }
           }
         ]
@@ -26799,7 +26799,7 @@
           "count": 1,
           "questItem": {
             "id": "666073159916667083033cb9",
-            "name": "Battered diary"
+            "name": "ボロボロの日記"
           },
           "maps": [
             {
@@ -26817,7 +26817,7 @@
           "count": 1,
           "questItem": {
             "id": "666073159916667083033cb9",
-            "name": "Battered diary"
+            "name": "ボロボロの日記"
           }
         }
       ],
@@ -27039,7 +27039,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ]
         },
@@ -27188,7 +27188,7 @@
             "attributes": [],
             "item": {
               "id": "5c0e534186f7747fa1419867",
-              "name": "eTG-チェンジの注射器"
+              "name": "eTG-change の注射器"
             }
           }
         ]
@@ -27242,7 +27242,7 @@
           "count": 1,
           "questItem": {
             "id": "66a0e523e749756c920d02d0",
-            "name": "Chemical container"
+            "name": "薬品容器"
           },
           "maps": [
             {
@@ -27251,7 +27251,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ]
         },
@@ -27264,7 +27264,7 @@
           "count": 1,
           "questItem": {
             "id": "66a0e523e749756c920d02d0",
-            "name": "Chemical container"
+            "name": "薬品容器"
           }
         }
       ],
@@ -27764,7 +27764,7 @@
       "neededKeys": [],
       "trader": {
         "id": "656f0f98d80a697f855d34b1",
-        "name": "BTR Driver"
+        "name": "BTR 運転手"
       },
       "startRewards": {
         "traderStanding": [],
@@ -27831,7 +27831,7 @@
             "standing": 0.01,
             "trader": {
               "id": "656f0f98d80a697f855d34b1",
-              "name": "BTR Driver"
+              "name": "BTR 運転手"
             }
           }
         ],
@@ -28871,7 +28871,7 @@
           "count": 1,
           "questItem": {
             "id": "63927b29c115f907b14700b9",
-            "name": "Chemical container with samples"
+            "name": "サンプルの入った薬品容器"
           },
           "maps": [
             {
@@ -28889,7 +28889,7 @@
           "count": 1,
           "questItem": {
             "id": "63927b29c115f907b14700b9",
-            "name": "Chemical container with samples"
+            "name": "サンプルの入った薬品容器"
           }
         }
       ],
@@ -29437,7 +29437,7 @@
           "containsAll": [
             {
               "id": "5649ab884bdc2ded0b8b457f",
-              "name": "AK Zenit DTK-1 7.62x39/5.45x39 muzzle brake-compensator"
+              "name": "AK Zenit DTK-1 7.62x39/5.45x39 muzzle brake"
             },
             {
               "id": "5649af884bdc2d1b2b8b4589",
@@ -29465,7 +29465,7 @@
             },
             {
               "id": "5a5f1ce64f39f90b401987bc",
-              "name": "Zenit 2IRS Klesch フラッシュライト + レーザーサイト"
+              "name": "Zenit Klesch-2IKS IR レーザー付きイルミネーター"
             }
           ]
         }
@@ -29514,7 +29514,7 @@
             "attributes": [],
             "item": {
               "id": "57372bd3245977670b7cd243",
-              "name": "5.45x39mm BS gs ammo pack (30 pcs)"
+              "name": "5.45x39mm BS弾 弾薬パック（30発）"
             }
           }
         ]
@@ -30059,7 +30059,7 @@
           "count": 1,
           "questItem": {
             "id": "63a943cead5cc12f22161ff7",
-            "name": "Accountant's notes"
+            "name": "会計士のメモ"
           },
           "maps": [
             {
@@ -30077,7 +30077,7 @@
           "count": 1,
           "questItem": {
             "id": "63a943cead5cc12f22161ff7",
-            "name": "Accountant's notes"
+            "name": "会計士のメモ"
           }
         }
       ],
@@ -30590,11 +30590,11 @@
             },
             {
               "id": "6932af22cccd2b808a04385e",
-              "name": "AR-10 KAC SR-25/Mk.11 7.62x51 sound suppressor"
+              "name": "AAC 762-SDN-6 multi-caliber sound suppressor"
             },
             {
               "id": "6936be064737190b66053bb4",
-              "name": "AR-10 KAC SR-25/Mk.11 7.62x51 sound suppressor (Taupe)"
+              "name": "AAC 762-SDN-6 multi-caliber sound suppressor"
             }
           ]
         },
@@ -30911,7 +30911,7 @@
           "count": 1,
           "questItem": {
             "id": "5ae9a25386f7746dd946e6d9",
-            "name": "OLI輸送経路資料"
+            "name": "OLI の貨物輸送経路資料"
           },
           "maps": [
             {
@@ -30929,7 +30929,7 @@
           "count": 1,
           "questItem": {
             "id": "5ae9a25386f7746dd946e6d9",
-            "name": "OLI輸送経路資料"
+            "name": "OLI の貨物輸送経路資料"
           }
         }
       ],
@@ -32338,7 +32338,7 @@
             },
             "item": {
               "id": "63fc44e2429a8a166c7f61e6",
-              "name": "Armasight Zeus-Pro 640 2-8x50 30Hz thermal scope"
+              "name": "Armasight Zeus-Pro 640 2-8x50 30Hz サーマルスコープ"
             }
           }
         ]
@@ -33127,7 +33127,7 @@
               },
               {
                 "id": "617151c1d92c473c770214ab",
-                "name": "Schmidt & Bender PM II 1-8x24 30mm riflescope"
+                "name": "Schmidt & Bender PM II 1-8x24 30mm ライフルスコープ"
               }
             ]
           ]
@@ -34769,7 +34769,7 @@
             "attributes": [],
             "item": {
               "id": "5a7c74b3e899ef0014332c29",
-              "name": "NSPU-M 3.5x dovetail night vision scope"
+              "name": "NSPU-M 3.5x ドブテイルナイトビジョンスコープ"
             }
           },
           {
@@ -34866,7 +34866,7 @@
             },
             {
               "id": "5a5f1ce64f39f90b401987bc",
-              "name": "Zenit 2IRS Klesch フラッシュライト + レーザーサイト"
+              "name": "Zenit Klesch-2IKS IR レーザー付きイルミネーター"
             },
             {
               "id": "5a7b483fe899ef0016170d15",
@@ -36906,7 +36906,7 @@
           "usingWeapon": [
             {
               "id": "576165642459773c7a400233",
-              "name": "Saiga 12K ver.10 12ga セミオートショットガン"
+              "name": "Saiga-12K ver.10 12ga セミオートショットガン"
             },
             {
               "id": "54491c4f4bdc2db1078b4568",
@@ -37568,11 +37568,11 @@
             },
             {
               "id": "6932af22cccd2b808a04385e",
-              "name": "AR-10 KAC SR-25/Mk.11 7.62x51 sound suppressor"
+              "name": "AAC 762-SDN-6 multi-caliber sound suppressor"
             },
             {
               "id": "6936be064737190b66053bb4",
-              "name": "AR-10 KAC SR-25/Mk.11 7.62x51 sound suppressor (Taupe)"
+              "name": "AAC 762-SDN-6 multi-caliber sound suppressor"
             }
           ]
         }
@@ -38269,7 +38269,7 @@
       },
       "map": {
         "id": "59fc81d786f774390775787e",
-        "name": "工場（夜）",
+        "name": "Night Factory",
         "normalizedName": "night-factory"
       },
       "startRewards": {
@@ -38300,7 +38300,7 @@
           "maps": [
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ]
         },
@@ -38317,7 +38317,7 @@
           "maps": [
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ],
           "item": {
@@ -38396,7 +38396,7 @@
           ],
           "task": {
             "id": "608a768d82e40b3c727fd17d",
-            "name": "Pest control"
+            "name": "Pest Control"
           }
         }
       ],
@@ -38542,7 +38542,7 @@
     },
     {
       "id": "608a768d82e40b3c727fd17d",
-      "name": "Pest control",
+      "name": "Pest Control",
       "normalizedName": "pest-control",
       "experience": 7400,
       "minPlayerLevel": 20,
@@ -38716,7 +38716,7 @@
           "count": 1,
           "questItem": {
             "id": "66a0f0926fee20fa70036da6",
-            "name": "Blood sample"
+            "name": "血液サンプル"
           },
           "maps": [
             {
@@ -38725,7 +38725,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ]
         },
@@ -38738,7 +38738,7 @@
           "count": 1,
           "questItem": {
             "id": "66a0f0926fee20fa70036da6",
-            "name": "Blood sample"
+            "name": "血液サンプル"
           }
         }
       ],
@@ -38803,7 +38803,7 @@
       "neededKeys": [],
       "trader": {
         "id": "656f0f98d80a697f855d34b1",
-        "name": "BTR Driver"
+        "name": "BTR 運転手"
       },
       "map": {
         "id": "5704e3c2d2720bac5b8b4567",
@@ -38891,7 +38891,7 @@
             "standing": 0.01,
             "trader": {
               "id": "656f0f98d80a697f855d34b1",
-              "name": "BTR Driver"
+              "name": "BTR 運転手"
             }
           }
         ],
@@ -39012,7 +39012,7 @@
             "attributes": [],
             "item": {
               "id": "64898602f09d032aa9399d56",
-              "name": "5.45x39mm 7N40 ammo pack (30 pcs)"
+              "name": "5.45x39mm 7N40弾 弾薬パック（30発）"
             }
           }
         ]
@@ -39032,7 +39032,7 @@
       "neededKeys": [],
       "trader": {
         "id": "656f0f98d80a697f855d34b1",
-        "name": "BTR Driver"
+        "name": "BTR 運転手"
       },
       "startRewards": {
         "traderStanding": [],
@@ -39087,7 +39087,7 @@
             "standing": 0.03,
             "trader": {
               "id": "656f0f98d80a697f855d34b1",
-              "name": "BTR Driver"
+              "name": "BTR 運転手"
             }
           }
         ],
@@ -39124,7 +39124,7 @@
       "neededKeys": [],
       "trader": {
         "id": "656f0f98d80a697f855d34b1",
-        "name": "BTR Driver"
+        "name": "BTR 運転手"
       },
       "map": {
         "id": "5704e5fad2720bc05b8b4567",
@@ -39184,7 +39184,7 @@
             "standing": 0.02,
             "trader": {
               "id": "656f0f98d80a697f855d34b1",
-              "name": "BTR Driver"
+              "name": "BTR 運転手"
             }
           }
         ],
@@ -39238,7 +39238,7 @@
       "neededKeys": [],
       "trader": {
         "id": "656f0f98d80a697f855d34b1",
-        "name": "BTR Driver"
+        "name": "BTR 運転手"
       },
       "startRewards": {
         "traderStanding": [],
@@ -39341,7 +39341,7 @@
             "standing": 0.02,
             "trader": {
               "id": "656f0f98d80a697f855d34b1",
-              "name": "BTR Driver"
+              "name": "BTR 運転手"
             }
           }
         ],
@@ -39493,7 +39493,7 @@
       "neededKeys": [],
       "trader": {
         "id": "656f0f98d80a697f855d34b1",
-        "name": "BTR Driver"
+        "name": "BTR 運転手"
       },
       "startRewards": {
         "traderStanding": [],
@@ -39578,7 +39578,7 @@
             "standing": 0.01,
             "trader": {
               "id": "656f0f98d80a697f855d34b1",
-              "name": "BTR Driver"
+              "name": "BTR 運転手"
             }
           }
         ],
@@ -39615,7 +39615,7 @@
       "neededKeys": [],
       "trader": {
         "id": "656f0f98d80a697f855d34b1",
-        "name": "BTR Driver"
+        "name": "BTR 運転手"
       },
       "map": {
         "id": "5704e554d2720bac5b8b456e",
@@ -39697,7 +39697,7 @@
             "standing": 0.03,
             "trader": {
               "id": "656f0f98d80a697f855d34b1",
-              "name": "BTR Driver"
+              "name": "BTR 運転手"
             }
           }
         ],
@@ -39965,7 +39965,7 @@
       "neededKeys": [],
       "trader": {
         "id": "656f0f98d80a697f855d34b1",
-        "name": "BTR Driver"
+        "name": "BTR 運転手"
       },
       "map": {
         "id": "5704e4dad2720bb55b8b4567",
@@ -40067,7 +40067,7 @@
             "standing": 0.02,
             "trader": {
               "id": "656f0f98d80a697f855d34b1",
-              "name": "BTR Driver"
+              "name": "BTR 運転手"
             }
           }
         ],
@@ -40241,7 +40241,7 @@
       "neededKeys": [],
       "trader": {
         "id": "656f0f98d80a697f855d34b1",
-        "name": "BTR Driver"
+        "name": "BTR 運転手"
       },
       "startRewards": {
         "traderStanding": [],
@@ -40308,7 +40308,7 @@
             "standing": 0.03,
             "trader": {
               "id": "656f0f98d80a697f855d34b1",
-              "name": "BTR Driver"
+              "name": "BTR 運転手"
             }
           }
         ],
@@ -40346,7 +40346,7 @@
       "neededKeys": [],
       "trader": {
         "id": "656f0f98d80a697f855d34b1",
-        "name": "BTR Driver"
+        "name": "BTR 運転手"
       },
       "startRewards": {
         "traderStanding": [],
@@ -40413,7 +40413,7 @@
             "standing": 0.03,
             "trader": {
               "id": "656f0f98d80a697f855d34b1",
-              "name": "BTR Driver"
+              "name": "BTR 運転手"
             }
           }
         ],
@@ -40450,7 +40450,7 @@
       "neededKeys": [],
       "trader": {
         "id": "656f0f98d80a697f855d34b1",
-        "name": "BTR Driver"
+        "name": "BTR 運転手"
       },
       "map": {
         "id": "5704e3c2d2720bac5b8b4567",
@@ -40517,7 +40517,7 @@
             "standing": 0.02,
             "trader": {
               "id": "656f0f98d80a697f855d34b1",
-              "name": "BTR Driver"
+              "name": "BTR 運転手"
             }
           }
         ],
@@ -40567,7 +40567,7 @@
       "neededKeys": [],
       "trader": {
         "id": "656f0f98d80a697f855d34b1",
-        "name": "BTR Driver"
+        "name": "BTR 運転手"
       },
       "map": {
         "id": "5704e3c2d2720bac5b8b4567",
@@ -40671,7 +40671,7 @@
             "standing": 0.03,
             "trader": {
               "id": "656f0f98d80a697f855d34b1",
-              "name": "BTR Driver"
+              "name": "BTR 運転手"
             }
           }
         ],
@@ -40827,7 +40827,7 @@
       "neededKeys": [],
       "trader": {
         "id": "656f0f98d80a697f855d34b1",
-        "name": "BTR Driver"
+        "name": "BTR 運転手"
       },
       "map": {
         "id": "5704e3c2d2720bac5b8b4567",
@@ -40892,7 +40892,7 @@
             "standing": 0.03,
             "trader": {
               "id": "656f0f98d80a697f855d34b1",
-              "name": "BTR Driver"
+              "name": "BTR 運転手"
             }
           }
         ],
@@ -41227,7 +41227,7 @@
             "attributes": [],
             "item": {
               "id": "544a378f4bdc2d30388b4567",
-              "name": "AR-15 5.56x45 Magpul PMAG 40 GEN M3 STANAG 40-round magazine"
+              "name": "5.56x45 Magpul PMAG 40 GEN M3 STANAG 40発マガジン"
             }
           },
           {
@@ -41235,7 +41235,7 @@
             "attributes": [],
             "item": {
               "id": "657024e3c5d7d4cb4d07856a",
-              "name": "5.56x45mm M855A1 ammo pack (50 pcs)"
+              "name": "5.56x45mm M855A1 弾薬パック (50発)"
             }
           }
         ]
@@ -41659,7 +41659,7 @@
           "count": 1,
           "questItem": {
             "id": "67499adbeca8acb2d2061634",
-            "name": "Cargo for Prapor"
+            "name": "Prapor への荷物"
           },
           "maps": [
             {
@@ -41677,7 +41677,7 @@
           "count": 1,
           "questItem": {
             "id": "67499adbeca8acb2d2061634",
-            "name": "Cargo for Prapor"
+            "name": "Prapor への荷物"
           }
         }
       ],
@@ -41717,7 +41717,7 @@
             "attributes": [],
             "item": {
               "id": "55d481904bdc2d8c2f8b456a",
-              "name": "AK-74 5.45x39 6L26 45-round magazine"
+              "name": "AK-74 5.45x39mm 6L26 45発 マガジン"
             }
           },
           {
@@ -41725,7 +41725,7 @@
             "attributes": [],
             "item": {
               "id": "5737292724597765e5728562",
-              "name": "5.45x39mm BP gs ammo pack (120 pcs)"
+              "name": "5.45x39mm BP弾 弾薬パック（120発）"
             }
           }
         ]
@@ -41859,7 +41859,7 @@
       "neededKeys": [],
       "trader": {
         "id": "656f0f98d80a697f855d34b1",
-        "name": "BTR Driver"
+        "name": "BTR 運転手"
       },
       "startRewards": {
         "traderStanding": [],
@@ -42073,7 +42073,7 @@
             "standing": 0.5,
             "trader": {
               "id": "656f0f98d80a697f855d34b1",
-              "name": "BTR Driver"
+              "name": "BTR 運転手"
             }
           }
         ],
@@ -42127,7 +42127,7 @@
       "neededKeys": [],
       "trader": {
         "id": "656f0f98d80a697f855d34b1",
-        "name": "BTR Driver"
+        "name": "BTR 運転手"
       },
       "startRewards": {
         "traderStanding": [],
@@ -42341,7 +42341,7 @@
             "standing": 0.5,
             "trader": {
               "id": "656f0f98d80a697f855d34b1",
-              "name": "BTR Driver"
+              "name": "BTR 運転手"
             }
           }
         ],
@@ -43334,7 +43334,7 @@
             "attributes": [],
             "item": {
               "id": "6570259bc5d7d4cb4d07857f",
-              "name": "9x19mm Luger CCI ammo pack (50 pcs)"
+              "name": "9x19mm Luger CCI 弾薬パック (50発)"
             }
           }
         ]
@@ -44217,7 +44217,7 @@
             "attributes": [],
             "item": {
               "id": "707265736574000000000010",
-              "name": "TKPD 9.3x64 carbine XPS3-2"
+              "name": "TKPD 9.3x64 カービン XPS3-2"
             }
           },
           {
@@ -44225,7 +44225,7 @@
             "attributes": [],
             "item": {
               "id": "68ee0103b5db65191e0ec07c",
-              "name": "9.3x64mm 7N33 ammo pack (20 pcs)"
+              "name": "9.3x64mm 7N33 弾 弾薬パック ( 20 発)"
             }
           }
         ],
@@ -44238,7 +44238,7 @@
             },
             "item": {
               "id": "707265736574000000000010",
-              "name": "TKPD 9.3x64 carbine XPS3-2"
+              "name": "TKPD 9.3x64 カービン XPS3-2"
             }
           },
           {
@@ -44260,7 +44260,7 @@
             },
             "item": {
               "id": "68aee9b89df2c1144f0aaa46",
-              "name": "TKPD 9.3x64 457mm barrel"
+              "name": "TKPD 9.3x64mm 457mm バレル"
             }
           }
         ]
@@ -44761,7 +44761,7 @@
           "count": 1,
           "questItem": {
             "id": "5b43237186f7742f3a4ab252",
-            "name": "Chemical container #1"
+            "name": "薬品容器 #1"
           },
           "maps": [
             {
@@ -44779,7 +44779,7 @@
           "count": 1,
           "questItem": {
             "id": "5b43237186f7742f3a4ab252",
-            "name": "Chemical container #1"
+            "name": "薬品容器 #1"
           }
         },
         {
@@ -44790,7 +44790,7 @@
           "count": 1,
           "questItem": {
             "id": "5b4c81a086f77417d26be63f",
-            "name": "Chemical container #2"
+            "name": "薬品容器 #2"
           },
           "maps": [
             {
@@ -44808,7 +44808,7 @@
           "count": 1,
           "questItem": {
             "id": "5b4c81a086f77417d26be63f",
-            "name": "Chemical container #2"
+            "name": "薬品容器 #2"
           }
         },
         {
@@ -44819,7 +44819,7 @@
           "count": 1,
           "questItem": {
             "id": "5b4c81bd86f77418a75ae159",
-            "name": "Chemical container #3"
+            "name": "薬品容器 #3"
           },
           "maps": [
             {
@@ -44837,7 +44837,7 @@
           "count": 1,
           "questItem": {
             "id": "5b4c81bd86f77418a75ae159",
-            "name": "Chemical container #3"
+            "name": "薬品容器 #3"
           }
         }
       ],
@@ -45700,11 +45700,11 @@
             },
             {
               "id": "6932af22cccd2b808a04385e",
-              "name": "AR-10 KAC SR-25/Mk.11 7.62x51 sound suppressor"
+              "name": "AAC 762-SDN-6 multi-caliber sound suppressor"
             },
             {
               "id": "6936be064737190b66053bb4",
-              "name": "AR-10 KAC SR-25/Mk.11 7.62x51 sound suppressor (Taupe)"
+              "name": "AAC 762-SDN-6 multi-caliber sound suppressor"
             }
           ]
         }
@@ -46206,7 +46206,7 @@
           "count": 1,
           "questItem": {
             "id": "64f69b4267e11a7c6206e010",
-            "name": "Chef's diary"
+            "name": "シェフの日記"
           },
           "maps": [
             {
@@ -46224,7 +46224,7 @@
           "count": 1,
           "questItem": {
             "id": "64f69b4267e11a7c6206e010",
-            "name": "Chef's diary"
+            "name": "シェフの日記"
           }
         }
       ],
@@ -46277,7 +46277,7 @@
             "attributes": [],
             "item": {
               "id": "55d480c04bdc2d1d4e8b456a",
-              "name": "AK-74 5.45x39 6L23 30-round magazine"
+              "name": "AK-74 5.45x39mm 6L23 30発マガジン"
             }
           },
           {
@@ -46285,7 +46285,7 @@
             "attributes": [],
             "item": {
               "id": "57372c89245977685d4159b1",
-              "name": "5.45x39mm BT gs ammo pack (30 pcs)"
+              "name": "5.45x39mm BT弾 弾薬パック（30発）"
             }
           }
         ],
@@ -46508,7 +46508,7 @@
           "count": 1,
           "questItem": {
             "id": "657acb2ac900be5902191ac9",
-            "name": "Cadastral registry records"
+            "name": "地籍登記記録"
           },
           "maps": [
             {
@@ -46526,7 +46526,7 @@
           "count": 1,
           "questItem": {
             "id": "657acb2ac900be5902191ac9",
-            "name": "Cadastral registry records"
+            "name": "地籍登記記録"
           }
         }
       ],
@@ -46855,7 +46855,7 @@
             "attributes": [],
             "item": {
               "id": "5a1eaa87fcdbcb001865f75e",
-              "name": "Trijicon REAP-IR thermal scope"
+              "name": "Trijicon REAP-IR サーマルスコープ"
             }
           },
           {
@@ -47278,7 +47278,7 @@
     },
     {
       "id": "5edac63b930f5454f51e128b",
-      "name": "TerraGroup employee",
+      "name": "TerraGroup Employee",
       "normalizedName": "terragroup-employee",
       "experience": 17000,
       "minPlayerLevel": 23,
@@ -47726,7 +47726,7 @@
             "attributes": [],
             "item": {
               "id": "5b3b99475acfc432ff4dcbee",
-              "name": "EOTech Vudu 1-6x24 30mm riflescope"
+              "name": "EOTech Vudu 1-6x24 30mm ライフルスコープ"
             }
           }
         ]
@@ -48815,7 +48815,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ],
           "item": {
@@ -48841,7 +48841,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ],
           "item": {
@@ -48867,7 +48867,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ],
           "item": {
@@ -48893,7 +48893,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ],
           "item": {
@@ -48919,7 +48919,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ],
           "item": {
@@ -48945,7 +48945,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ],
           "item": {
@@ -48971,7 +48971,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ],
           "item": {
@@ -50226,7 +50226,7 @@
             "attributes": [],
             "item": {
               "id": "55d482194bdc2d1d4e8b456b",
-              "name": "AK-74 5.45x39 6L31 60-round magazine"
+              "name": "AK-74 5.45x39mm 6L31 60発 マガジン"
             }
           },
           {
@@ -50234,7 +50234,7 @@
             "attributes": [],
             "item": {
               "id": "64898602f09d032aa9399d56",
-              "name": "5.45x39mm 7N40 ammo pack (30 pcs)"
+              "name": "5.45x39mm 7N40弾 弾薬パック（30発）"
             }
           }
         ]
@@ -50282,7 +50282,7 @@
             [
               {
                 "id": "5c0517910db83400232ffee5",
-                "name": "Valday PS-320 1/6x scope"
+                "name": "Valday PS-320 1/6x スコープ"
               },
               {
                 "id": "64c196ad26a15b84aa07132f",
@@ -50651,11 +50651,11 @@
             },
             {
               "id": "6932af22cccd2b808a04385e",
-              "name": "AR-10 KAC SR-25/Mk.11 7.62x51 sound suppressor"
+              "name": "AAC 762-SDN-6 multi-caliber sound suppressor"
             },
             {
               "id": "6936be064737190b66053bb4",
-              "name": "AR-10 KAC SR-25/Mk.11 7.62x51 sound suppressor (Taupe)"
+              "name": "AAC 762-SDN-6 multi-caliber sound suppressor"
             }
           ]
         }
@@ -52279,7 +52279,7 @@
           "count": 1,
           "questItem": {
             "id": "638df4cc7b560b03794a18d2",
-            "name": "AG guitar pick"
+            "name": "AG ギターピック"
           },
           "maps": [
             {
@@ -52297,7 +52297,7 @@
           "count": 1,
           "questItem": {
             "id": "638df4cc7b560b03794a18d2",
-            "name": "AG guitar pick"
+            "name": "AG ギターピック"
           }
         }
       ],
@@ -52791,7 +52791,7 @@
             "attributes": [],
             "item": {
               "id": "5c0e534186f7747fa1419867",
-              "name": "eTG-チェンジの注射器"
+              "name": "eTG-change の注射器"
             }
           },
           {
@@ -52941,7 +52941,7 @@
           "maps": [
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             },
             {
               "id": "55f2d3fd4bdc2d5f408b4567",
@@ -53158,7 +53158,7 @@
             },
             {
               "id": "558022b54bdc2dac148b458d",
-              "name": "EOTech EXPS3-0 holographic sight (Tan)"
+              "name": "EOTech EXPS3-0 ホログラフィックサイト (Tan)"
             },
             {
               "id": "5d15cf3bd7ad1a67e71518b2",
@@ -53202,7 +53202,7 @@
             "attributes": [],
             "item": {
               "id": "609bab8b455afd752b2e6138",
-              "name": "Torrey Pines Logic T12W サーマルリフレックスサイト"
+              "name": "Torrey Pines Logic T12W 30Hz サーマルリフレックスサイト"
             }
           },
           {
@@ -53286,6 +53286,10 @@
           "enemyHealthEffect": null,
           "maps": [
             {
+              "id": "56f40101d2720b2a4d8b45d6",
+              "name": "Customs"
+            },
+            {
               "id": "5704e3c2d2720bac5b8b4567",
               "name": "Woods"
             },
@@ -53295,7 +53299,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             },
             {
               "id": "65b8d6f5cdde2479cb2a3125",
@@ -53400,7 +53404,7 @@
             },
             "item": {
               "id": "63fc44e2429a8a166c7f61e6",
-              "name": "Armasight Zeus-Pro 640 2-8x50 30Hz thermal scope"
+              "name": "Armasight Zeus-Pro 640 2-8x50 30Hz サーマルスコープ"
             }
           }
         ]
@@ -53540,6 +53544,10 @@
           "enemyHealthEffect": null,
           "maps": [
             {
+              "id": "56f40101d2720b2a4d8b45d6",
+              "name": "Customs"
+            },
+            {
               "id": "5704e3c2d2720bac5b8b4567",
               "name": "Woods"
             },
@@ -53549,7 +53557,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             },
             {
               "id": "65b8d6f5cdde2479cb2a3125",
@@ -53750,7 +53758,7 @@
             "attributes": [],
             "item": {
               "id": "5c0e534186f7747fa1419867",
-              "name": "eTG-チェンジの注射器"
+              "name": "eTG-change の注射器"
             }
           }
         ]
@@ -53854,7 +53862,7 @@
             "attributes": [],
             "item": {
               "id": "5a5f1ce64f39f90b401987bc",
-              "name": "Zenit 2IRS Klesch フラッシュライト + レーザーサイト"
+              "name": "Zenit Klesch-2IKS IR レーザー付きイルミネーター"
             }
           }
         ]
@@ -55660,7 +55668,7 @@
             [
               {
                 "id": "6544d4187c5457729210d277",
-                "name": "Axion Kobra EKP-1S-03 reflex sight (Dovetail)"
+                "name": "Axion Kobra EKP-1S-03 リフレックスサイト (Dovetail)"
               }
             ]
           ]
@@ -56152,7 +56160,7 @@
             },
             {
               "id": "5a7c74b3e899ef0014332c29",
-              "name": "NSPU-M 3.5x dovetail night vision scope"
+              "name": "NSPU-M 3.5x ドブテイルナイトビジョンスコープ"
             }
           ]
         }
@@ -57203,7 +57211,7 @@
             },
             "item": {
               "id": "606f2696f2cb2e02a42aceb1",
-              "name": "MP-155 Ultima thermal camera"
+              "name": "MP-155 Ultima サーマルカメラ"
             }
           }
         ]
@@ -57244,39 +57252,6 @@
           }
         }
       ],
-      "finishRewards": {
-        "offerUnlock": [],
-        "skillLevelReward": [],
-        "traderUnlock": [],
-        "craftUnlock": [],
-        "traderStanding": [
-          {
-            "standing": 0.05,
-            "trader": {
-              "id": "58330581ace78e27b8b10cee",
-              "name": "Skier"
-            }
-          }
-        ],
-        "items": [
-          {
-            "count": 100000,
-            "attributes": [],
-            "item": {
-              "id": "5449016a4bdc2d6f028b456f",
-              "name": "ルーブル紙幣"
-            }
-          },
-          {
-            "count": 1,
-            "attributes": [],
-            "item": {
-              "id": "60b7c2bd95047637182d90a4",
-              "name": "MP-155 12ga セミオートショットガン Ultima"
-            }
-          }
-        ]
-      },
       "objectives": [
         {
           "id": "5c0bc95086f7746e784f39ec",
@@ -57300,7 +57275,7 @@
           "usingWeapon": [
             {
               "id": "576165642459773c7a400233",
-              "name": "Saiga 12K ver.10 12ga セミオートショットガン"
+              "name": "Saiga-12K ver.10 12ga セミオートショットガン"
             },
             {
               "id": "54491c4f4bdc2db1078b4568",
@@ -57380,7 +57355,7 @@
           "usingWeapon": [
             {
               "id": "576165642459773c7a400233",
-              "name": "Saiga 12K ver.10 12ga セミオートショットガン"
+              "name": "Saiga-12K ver.10 12ga セミオートショットガン"
             },
             {
               "id": "54491c4f4bdc2db1078b4568",
@@ -57438,7 +57413,40 @@
             ]
           ]
         }
-      ]
+      ],
+      "finishRewards": {
+        "offerUnlock": [],
+        "skillLevelReward": [],
+        "traderUnlock": [],
+        "traderStanding": [
+          {
+            "standing": 0.05,
+            "trader": {
+              "id": "58330581ace78e27b8b10cee",
+              "name": "Skier"
+            }
+          }
+        ],
+        "items": [
+          {
+            "count": 100000,
+            "attributes": [],
+            "item": {
+              "id": "5449016a4bdc2d6f028b456f",
+              "name": "ルーブル紙幣"
+            }
+          },
+          {
+            "count": 1,
+            "attributes": [],
+            "item": {
+              "id": "60b7c2bd95047637182d90a4",
+              "name": "MP-155 12ga セミオートショットガン Ultima"
+            }
+          }
+        ],
+        "craftUnlock": []
+      }
     },
     {
       "id": "5c0d0f1886f77457b8210226",
@@ -57581,7 +57589,7 @@
             "attributes": [],
             "item": {
               "id": "6570265f1419851aef03e739",
-              "name": "5.56x45mm M995 ammo pack (100 pcs)"
+              "name": "5.56x45mm M995 弾薬パック (100発)"
             }
           },
           {
@@ -57597,7 +57605,7 @@
             "attributes": [],
             "item": {
               "id": "544a37c44bdc2d25388b4567",
-              "name": "AR-15 5.56x45 SureFire MAG5-60 STANAG 60-round magazine"
+              "name": "AR-15 5.56x45 SureFire MAG5-60 STANAG 60発マガジン"
             }
           }
         ]
@@ -57804,7 +57812,7 @@
             },
             {
               "id": "5a5f1ce64f39f90b401987bc",
-              "name": "Zenit 2IRS Klesch フラッシュライト + レーザーサイト"
+              "name": "Zenit Klesch-2IKS IR レーザー付きイルミネーター"
             },
             {
               "id": "5a7b483fe899ef0016170d15",
@@ -59254,7 +59262,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ]
         },
@@ -59374,7 +59382,7 @@
             "attributes": [],
             "item": {
               "id": "5c0a2cec0db834001b7ce47d",
-              "name": "EOTech HHS-1 hybrid sight (Tan)"
+              "name": "EOTech HHS-1 ハイブリッドサイト (Tan)"
             }
           },
           {
@@ -59403,7 +59411,7 @@
             },
             "item": {
               "id": "5c0a2cec0db834001b7ce47d",
-              "name": "EOTech HHS-1 hybrid sight (Tan)"
+              "name": "EOTech HHS-1 ハイブリッドサイト (Tan)"
             }
           },
           {
@@ -59560,7 +59568,7 @@
           "maps": [
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             },
             {
               "id": "55f2d3fd4bdc2d5f408b4567",
@@ -59581,7 +59589,7 @@
               },
               {
                 "id": "62ff9920fe938a24c90c10d2",
-                "name": "SR-2M KP-SR2 reflex sight"
+                "name": "SR-2M KP-SR2 リフレックスサイト"
               }
             ]
           ]
@@ -59663,7 +59671,7 @@
             },
             {
               "id": "5710c24ad2720bc3458b45a3",
-              "name": "F-1 hand grenade"
+              "name": "F-1 ハンドグレネード"
             },
             {
               "id": "618a431df1eb8e24b8741deb",
@@ -59695,7 +59703,7 @@
             },
             {
               "id": "67b49e7335dec48e3e05e057",
-              "name": "F-1 hand grenade (Reduced delay)"
+              "name": "F-1 ハンドグレネード (Reduced delay)"
             },
             {
               "id": "676bf44c5539167c3603e869",
@@ -59818,7 +59826,7 @@
             [
               {
                 "id": "5b2388675acfc4771e1be0be",
-                "name": "Burris FullField TAC30 1-4x24 30mm riflescope"
+                "name": "Burris FullField TAC30 1-4x24 30mm スコープ"
               }
             ]
           ]
@@ -60238,7 +60246,7 @@
             },
             {
               "id": "5c07dd120db834001c39092d",
-              "name": "EOTech HHS-1 hybrid sight"
+              "name": "EOTech HHS-1 ハイブリッドサイト"
             },
             {
               "id": "5b0e794b5acfc47a877359b2",
@@ -60274,7 +60282,7 @@
             "attributes": [],
             "item": {
               "id": "5b3b99475acfc432ff4dcbee",
-              "name": "EOTech Vudu 1-6x24 30mm riflescope"
+              "name": "EOTech Vudu 1-6x24 30mm ライフルスコープ"
             }
           },
           {
@@ -61997,7 +62005,6 @@
       "finishRewards": {
         "skillLevelReward": [],
         "traderUnlock": [],
-        "craftUnlock": [],
         "traderStanding": [
           {
             "standing": 0.01,
@@ -62029,7 +62036,8 @@
               "name": "マイコンボード"
             }
           }
-        ]
+        ],
+        "craftUnlock": []
       }
     },
     {
@@ -62534,7 +62542,6 @@
         "offerUnlock": [],
         "skillLevelReward": [],
         "traderUnlock": [],
-        "craftUnlock": [],
         "traderStanding": [
           {
             "standing": 0.03,
@@ -62553,7 +62560,8 @@
               "name": "シリコン光電子集積回路の教本"
             }
           }
-        ]
+        ],
+        "craftUnlock": []
       }
     },
     {
@@ -63066,7 +63074,7 @@
           ],
           "item": {
             "id": "5a1eaa87fcdbcb001865f75e",
-            "name": "Trijicon REAP-IR thermal scope",
+            "name": "Trijicon REAP-IR サーマルスコープ",
             "shortName": "REAP-IR"
           }
         },
@@ -63520,6 +63528,14 @@
             {
               "id": "5704e4dad2720bb55b8b4567",
               "name": "Lighthouse"
+            },
+            {
+              "id": "5704e554d2720bac5b8b456e",
+              "name": "Shoreline"
+            },
+            {
+              "id": "5704e5fad2720bc05b8b4567",
+              "name": "Reserve"
             }
           ]
         },
@@ -63536,7 +63552,7 @@
           "minDurability": 0,
           "item": {
             "id": "628baf0b967de16aab5a4f36",
-            "name": "LBT-1961A Load Bearing chest rig (Goons Edition)",
+            "name": "LBT-1961A ロードベアリング チェストリグ (Goons エディション)",
             "shortName": "LBCR GE"
           }
         }
@@ -63611,6 +63627,14 @@
             {
               "id": "5704e4dad2720bb55b8b4567",
               "name": "Lighthouse"
+            },
+            {
+              "id": "5704e554d2720bac5b8b456e",
+              "name": "Shoreline"
+            },
+            {
+              "id": "5704e5fad2720bc05b8b4567",
+              "name": "Reserve"
             }
           ]
         },
@@ -63627,7 +63651,7 @@
           "minDurability": 0,
           "item": {
             "id": "628baf0b967de16aab5a4f36",
-            "name": "LBT-1961A Load Bearing chest rig (Goons Edition)",
+            "name": "LBT-1961A ロードベアリング チェストリグ (Goons エディション)",
             "shortName": "LBCR GE"
           }
         }
@@ -64350,7 +64374,7 @@
             "attributes": [],
             "item": {
               "id": "68d502e016a16a91e200bbbc",
-              "name": "AS VAL MOD.4 9x39 special assault rifle Default"
+              "name": "AS VAL MOD.4 9x39 スペシャルアサルトライフル デフォルト"
             }
           },
           {
@@ -64379,7 +64403,7 @@
             },
             "item": {
               "id": "68d502e016a16a91e200bbbc",
-              "name": "AS VAL MOD.4 9x39 special assault rifle Default"
+              "name": "AS VAL MOD.4 9x39 スペシャルアサルトライフル デフォルト"
             }
           }
         ]
@@ -64652,49 +64676,49 @@
             [
               {
                 "id": "6478641c19d732620e045e17",
-                "name": "SIG Sauer ECHO1 1-2x30mm 30Hz thermal reflex scope"
+                "name": "SIG Sauer ECHO1 1-2x30mm 30Hz サーマルリフレックススコープ"
               }
             ],
             [
               {
                 "id": "609bab8b455afd752b2e6138",
-                "name": "Torrey Pines Logic T12W サーマルリフレックスサイト"
+                "name": "Torrey Pines Logic T12W 30Hz サーマルリフレックスサイト"
               }
             ],
             [
               {
                 "id": "5b3b6e495acfc4330140bd88",
-                "name": "Armasight Vulcan MG 3.5x Bravo night vision scope"
+                "name": "Armasight Vulcan MG 3.5x Bravo ナイトビジョンスコープ"
               }
             ],
             [
               {
                 "id": "63fc44e2429a8a166c7f61e6",
-                "name": "Armasight Zeus-Pro 640 2-8x50 30Hz thermal scope"
+                "name": "Armasight Zeus-Pro 640 2-8x50 30Hz サーマルスコープ"
               }
             ],
             [
               {
                 "id": "5a1eaa87fcdbcb001865f75e",
-                "name": "Trijicon REAP-IR thermal scope"
+                "name": "Trijicon REAP-IR サーマルスコープ"
               }
             ],
             [
               {
                 "id": "5a7c74b3e899ef0014332c29",
-                "name": "NSPU-M 3.5x dovetail night vision scope"
+                "name": "NSPU-M 3.5x ドブテイルナイトビジョンスコープ"
               }
             ],
             [
               {
                 "id": "606f2696f2cb2e02a42aceb1",
-                "name": "MP-155 Ultima thermal camera"
+                "name": "MP-155 Ultima サーマルカメラ"
               }
             ],
             [
               {
                 "id": "67641b461c2eb66ade05dba6",
-                "name": "Cyclone Shakhin 3.7x thermal scope"
+                "name": "Cyclone Shakhin 3.7x サーマルスコープ"
               }
             ]
           ]
@@ -64719,7 +64743,7 @@
             "attributes": [],
             "item": {
               "id": "70726573657400000000006d",
-              "name": "Sako TRG M10 .338 LM ボルトアクションスナイパーライフル PM II 1-8x24"
+              "name": "Sako TRG M10 .338 LM ボルトアクションスナイパーライフル PM II 1-8"
             }
           },
           {
@@ -65543,7 +65567,7 @@
             "attributes": [],
             "item": {
               "id": "5a1eaa87fcdbcb001865f75e",
-              "name": "Trijicon REAP-IR thermal scope"
+              "name": "Trijicon REAP-IR サーマルスコープ"
             }
           },
           {
@@ -66342,7 +66366,7 @@
           "minDurability": 0,
           "item": {
             "id": "5e997f0b86f7741ac73993e2",
-            "name": "Sanitar's bag",
+            "name": "Sanitar のバック",
             "shortName": "Sanitar bag"
           }
         },
@@ -66359,7 +66383,7 @@
           "minDurability": 0,
           "item": {
             "id": "5e997f0b86f7741ac73993e2",
-            "name": "Sanitar's bag",
+            "name": "Sanitar のバック",
             "shortName": "Sanitar bag"
           }
         },
@@ -66410,7 +66434,7 @@
           "minDurability": 0,
           "item": {
             "id": "628baf0b967de16aab5a4f36",
-            "name": "LBT-1961A Load Bearing chest rig (Goons Edition)",
+            "name": "LBT-1961A ロードベアリング チェストリグ (Goons エディション)",
             "shortName": "LBCR GE"
           }
         },
@@ -66427,7 +66451,7 @@
           "minDurability": 0,
           "item": {
             "id": "628baf0b967de16aab5a4f36",
-            "name": "LBT-1961A Load Bearing chest rig (Goons Edition)",
+            "name": "LBT-1961A ロードベアリング チェストリグ (Goons エディション)",
             "shortName": "LBCR GE"
           }
         },
@@ -66581,7 +66605,7 @@
             "attributes": [],
             "item": {
               "id": "628baf0b967de16aab5a4f36",
-              "name": "LBT-1961A Load Bearing chest rig (Goons Edition)"
+              "name": "LBT-1961A ロードベアリング チェストリグ (Goons エディション)"
             }
           }
         ]
@@ -66649,6 +66673,10 @@
               "name": "Customs"
             },
             {
+              "id": "5704e5fad2720bc05b8b4567",
+              "name": "Reserve"
+            },
+            {
               "id": "5714dbc024597771384a510d",
               "name": "Interchange"
             },
@@ -66666,7 +66694,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             },
             {
               "id": "5704e4dad2720bb55b8b4567",
@@ -66677,7 +66705,7 @@
             [
               {
                 "id": "628baf0b967de16aab5a4f36",
-                "name": "LBT-1961A Load Bearing chest rig (Goons Edition)"
+                "name": "LBT-1961A ロードベアリング チェストリグ (Goons エディション)"
               }
             ],
             [
@@ -67159,14 +67187,6 @@
           "enemyHealthEffect": null,
           "maps": [
             {
-              "id": "5704e3c2d2720bac5b8b4567",
-              "name": "Woods"
-            },
-            {
-              "id": "5704e4dad2720bb55b8b4567",
-              "name": "Lighthouse"
-            },
-            {
               "id": "5704e554d2720bac5b8b456e",
               "name": "Shoreline"
             }
@@ -67194,14 +67214,6 @@
           "enemyHealthEffect": null,
           "maps": [
             {
-              "id": "5704e3c2d2720bac5b8b4567",
-              "name": "Woods"
-            },
-            {
-              "id": "5704e4dad2720bb55b8b4567",
-              "name": "Lighthouse"
-            },
-            {
               "id": "5704e554d2720bac5b8b456e",
               "name": "Shoreline"
             }
@@ -67228,14 +67240,6 @@
           "playerHealthEffect": null,
           "enemyHealthEffect": null,
           "maps": [
-            {
-              "id": "5704e3c2d2720bac5b8b4567",
-              "name": "Woods"
-            },
-            {
-              "id": "5704e4dad2720bb55b8b4567",
-              "name": "Lighthouse"
-            },
             {
               "id": "5704e554d2720bac5b8b456e",
               "name": "Shoreline"
@@ -67515,7 +67519,7 @@
             },
             {
               "id": "57c5ac0824597754771e88a9",
-              "name": "March Tactical 3-24x42 FFP 30mm riflescope"
+              "name": "March Tactical 3-24x42 FFP 30mm ライフルスコープ"
             }
           ],
           "containsOne": [
@@ -67829,11 +67833,11 @@
             },
             {
               "id": "6932af22cccd2b808a04385e",
-              "name": "AR-10 KAC SR-25/Mk.11 7.62x51 sound suppressor"
+              "name": "AAC 762-SDN-6 multi-caliber sound suppressor"
             },
             {
               "id": "6936be064737190b66053bb4",
-              "name": "AR-10 KAC SR-25/Mk.11 7.62x51 sound suppressor (Taupe)"
+              "name": "AAC 762-SDN-6 multi-caliber sound suppressor"
             }
           ]
         }
@@ -68127,7 +68131,7 @@
             },
             {
               "id": "68948a95d8f2b85fb705e2a6",
-              "name": "6B45 body armor (EMR)"
+              "name": "6B45 ボディアーマー"
             },
             {
               "id": "68a89146212dbbeead0d5636",
@@ -68143,15 +68147,15 @@
             },
             {
               "id": "69b11935f3783ec37c03a105",
-              "name": "FORT Defender-2 body armor (Flecktarn)"
+              "name": "FORT Defender-2 ボディーアーマー"
             },
             {
               "id": "69cf9696b96c8e8d3e002925",
-              "name": "FORT Redut-M body armor (Prisoner of the Arena)"
+              "name": "FORT Redut-M ボディアーマー"
             },
             {
               "id": "69cfef0d6242b966d40803e7",
-              "name": "FORT Redut-M body armor (Black)"
+              "name": "FORT Redut-M ボディアーマー"
             },
             {
               "id": "69d3708c8d8009073d0a9df4",
@@ -68427,31 +68431,31 @@
             },
             {
               "id": "68948b118c57a8a52301d7ae",
-              "name": "6B45 armored rig (Assault, EMR)"
+              "name": "6B45 アーマーリグ(アサルト)"
             },
             {
               "id": "68948aebd8f2b85fb705e2b0",
-              "name": "6B45 armored rig (Medic, EMR)"
+              "name": "6B45 アーマーリグ(メディック)"
             },
             {
               "id": "68948ad72c87773b9f06d73f",
-              "name": "6B45 armored rig (General Purpose, EMR)"
+              "name": "6B45 アーマーリグ(汎用)"
             },
             {
               "id": "68947a4be4bf255d1b0ca746",
-              "name": "First Spear Siege-R Optimized M.A.S.S. Plate Carrier (Black Division)"
+              "name": "First Spear Siege-R Optimized M.A.S.S. プレートキャリア (Black Division)"
             },
             {
               "id": "689479eb30cc5ba7be00f5ff",
-              "name": "Spiritus Systems LV-119 Plate Carrier (Black Division V2)"
+              "name": "Spiritus Systems LV-119 プレートキャリア (Black Division V2)"
             },
             {
               "id": "689479cb47e5acd1e10be986",
-              "name": "Ferro Concepts FCPC V5 Plate Carrier (Black Division)"
+              "name": "Ferro Concepts FCPC V5 プレートキャリア (Black Division)"
             },
             {
               "id": "689479a4a733b1602007e2eb",
-              "name": "Spiritus Systems LV-119 Plate Carrier (Black Division V1)"
+              "name": "Spiritus Systems LV-119 プレートキャリア (Black Division V1)"
             },
             {
               "id": "67ab4b2d6f7ae4aa550bbcf6",
@@ -68643,7 +68647,7 @@
             },
             {
               "id": "62a09e08de7ac81993580532",
-              "name": "Glorious E lightweight armored mask"
+              "name": "Glorious E 軽量防弾マスク"
             },
             {
               "id": "5b432b2f5acfc4771e1c6622",
@@ -68748,7 +68752,7 @@
             [
               {
                 "id": "68bf405779c8186398099017",
-                "name": "Peltor TEP-300 tactical earplug (Coyote Brown)"
+                "name": "Peltor TEP-300 タクティカル イヤープラグ (コヨーテブラウン)"
               }
             ],
             [
@@ -68846,7 +68850,7 @@
             },
             {
               "id": "68bf405779c8186398099017",
-              "name": "Peltor TEP-300 tactical earplug (Coyote Brown)"
+              "name": "Peltor TEP-300 タクティカル イヤープラグ (コヨーテブラウン)"
             },
             {
               "id": "693bb59250fafa102607aeb7",
@@ -68858,35 +68862,35 @@
             },
             {
               "id": "69c139c022093da1c50a8808",
-              "name": "Safariland Liberator HP 2.0 Hearing Protection Headset (MultiCam)"
+              "name": "Safariland Liberator HP 2.0 聴覚保護ヘッドセット(MultiCam)"
             },
             {
               "id": "69c14efe66c213ea750e1960",
-              "name": "Safariland Liberator HP 2.0 Hearing Protection Headset (Black)"
+              "name": "Safariland Liberator HP 2.0 聴覚保護ヘッドセット"
             },
             {
               "id": "69c14fa8b33aad3beb036878",
-              "name": "Safariland Liberator HP 2.0 Hearing Protection Headset (MultiCam Black)"
+              "name": "Safariland Liberator HP 2.0 聴覚保護ヘッドセット(MultiCam Black)"
             },
             {
               "id": "69c1632ca078dbb51e0e31b5",
-              "name": "Peltor ComTac VI headset (Black)"
+              "name": "Peltor ComTac VI ヘッドセット"
             },
             {
               "id": "69c163b17c7040819b086502",
-              "name": "Peltor ComTac VI headset (Ranger Green)"
+              "name": "Peltor ComTac VI ヘッドセット"
             },
             {
               "id": "69c264c00f660b3f0d058fcf",
-              "name": "TW EXFIL Peltor ComTac VI headset (Black)"
+              "name": "TW EXFIL Peltor ComTac VI ヘッドセット"
             },
             {
               "id": "69c26593ea474c30ad069f8f",
-              "name": "TW EXFIL Peltor ComTac VI headset (Ranger Green)"
+              "name": "TW EXFIL Peltor ComTac VI ヘッドセット"
             },
             {
               "id": "69d3c156cdeff2f448010e2e",
-              "name": "Walker's Razor Digital headset (Molon Labe)"
+              "name": "Walker's Razor デジタルヘッドセット"
             }
           ],
           "wearing": [
@@ -69425,7 +69429,7 @@
             },
             {
               "id": "5a5f1ce64f39f90b401987bc",
-              "name": "Zenit 2IRS Klesch フラッシュライト + レーザーサイト"
+              "name": "Zenit Klesch-2IKS IR レーザー付きイルミネーター"
             },
             {
               "id": "5a7b483fe899ef0016170d15",
@@ -69545,7 +69549,7 @@
             },
             "item": {
               "id": "5c793fb92e221644f31bfb64",
-              "name": "AR-15 Strike Industries Advanced Receiver Extension buffer tube"
+              "name": "AR-15 Strike Industries Advanced Receiver Extension"
             }
           }
         ]
@@ -69609,7 +69613,7 @@
             },
             {
               "id": "5a1eaa87fcdbcb001865f75e",
-              "name": "Trijicon REAP-IR thermal scope"
+              "name": "Trijicon REAP-IR サーマルスコープ"
             }
           ]
         }
@@ -69661,7 +69665,7 @@
             },
             "item": {
               "id": "5a1eaa87fcdbcb001865f75e",
-              "name": "Trijicon REAP-IR thermal scope"
+              "name": "Trijicon REAP-IR サーマルスコープ"
             }
           },
           {
@@ -69742,7 +69746,7 @@
             },
             {
               "id": "59f9d81586f7744c7506ee62",
-              "name": "Vortex Razor AMG UH-1 holographic sight"
+              "name": "Vortex Razor AMG UH-1 ホログラフィックサイト"
             },
             {
               "id": "5a800961159bd4315e3a1657",
@@ -69778,7 +69782,7 @@
             "attributes": [],
             "item": {
               "id": "6478641c19d732620e045e17",
-              "name": "SIG Sauer ECHO1 1-2x30mm 30Hz thermal reflex scope"
+              "name": "SIG Sauer ECHO1 1-2x30mm 30Hz サーマルリフレックススコープ"
             }
           }
         ],
@@ -69863,7 +69867,7 @@
             },
             {
               "id": "577d141e24597739c5255e01",
-              "name": "Burris FastFire 3 reflex sight"
+              "name": "Burris FastFire 3 リフレックスサイト"
             },
             {
               "id": "5649a2464bdc2d91118b45a8",
@@ -70028,7 +70032,7 @@
             },
             {
               "id": "5a5f1ce64f39f90b401987bc",
-              "name": "Zenit 2IRS Klesch フラッシュライト + レーザーサイト"
+              "name": "Zenit Klesch-2IKS IR レーザー付きイルミネーター"
             },
             {
               "id": "5a7b483fe899ef0016170d15",
@@ -70275,7 +70279,7 @@
             },
             {
               "id": "601948682627df266209af05",
-              "name": "UVSR Taiga-1 survival machete"
+              "name": "UVSR Taiga-1 サバイバルマチェット"
             },
             {
               "id": "5c012ffc0db834001d23f03f",
@@ -70383,7 +70387,7 @@
             },
             {
               "id": "601948682627df266209af05",
-              "name": "UVSR Taiga-1 survival machete"
+              "name": "UVSR Taiga-1 サバイバルマチェット"
             },
             {
               "id": "5c012ffc0db834001d23f03f",
@@ -70491,7 +70495,7 @@
             },
             {
               "id": "601948682627df266209af05",
-              "name": "UVSR Taiga-1 survival machete"
+              "name": "UVSR Taiga-1 サバイバルマチェット"
             },
             {
               "id": "5c012ffc0db834001d23f03f",
@@ -70599,7 +70603,7 @@
             },
             {
               "id": "601948682627df266209af05",
-              "name": "UVSR Taiga-1 survival machete"
+              "name": "UVSR Taiga-1 サバイバルマチェット"
             },
             {
               "id": "5c012ffc0db834001d23f03f",
@@ -70707,7 +70711,7 @@
             },
             {
               "id": "601948682627df266209af05",
-              "name": "UVSR Taiga-1 survival machete"
+              "name": "UVSR Taiga-1 サバイバルマチェット"
             },
             {
               "id": "5c012ffc0db834001d23f03f",
@@ -70815,7 +70819,7 @@
             },
             {
               "id": "601948682627df266209af05",
-              "name": "UVSR Taiga-1 survival machete"
+              "name": "UVSR Taiga-1 サバイバルマチェット"
             },
             {
               "id": "5c012ffc0db834001d23f03f",
@@ -70923,7 +70927,7 @@
             },
             {
               "id": "601948682627df266209af05",
-              "name": "UVSR Taiga-1 survival machete"
+              "name": "UVSR Taiga-1 サバイバルマチェット"
             },
             {
               "id": "5c012ffc0db834001d23f03f",
@@ -71031,7 +71035,7 @@
             },
             {
               "id": "601948682627df266209af05",
-              "name": "UVSR Taiga-1 survival machete"
+              "name": "UVSR Taiga-1 サバイバルマチェット"
             },
             {
               "id": "5c012ffc0db834001d23f03f",
@@ -71135,7 +71139,7 @@
             },
             {
               "id": "601948682627df266209af05",
-              "name": "UVSR Taiga-1 survival machete"
+              "name": "UVSR Taiga-1 サバイバルマチェット"
             },
             {
               "id": "5c010e350db83400232feec7",
@@ -72323,7 +72327,7 @@
           ],
           "item": {
             "id": "67d0576f29f580ebc10efd08",
-            "name": "TheAKGuy AK-50 .50 BMG スナイパーライフル",
+            "name": "TheAKGuy AK-50 .50 BMG 対物ライフル",
             "shortName": "AK-50"
           }
         },
@@ -72391,7 +72395,7 @@
           "minDurability": 0,
           "item": {
             "id": "67d0576f29f580ebc10efd08",
-            "name": "TheAKGuy AK-50 .50 BMG スナイパーライフル",
+            "name": "TheAKGuy AK-50 .50 BMG 対物ライフル",
             "shortName": "AK-50"
           }
         }
@@ -72415,7 +72419,7 @@
             "attributes": [],
             "item": {
               "id": "707265736574000000000000",
-              "name": "TheAKGuy AK-50 .50 BMG スナイパーライフル デフォルト"
+              "name": "TheAKGuy AK-50 .50 BMG 対物ライフル デフォルト"
             }
           },
           {
@@ -73222,7 +73226,7 @@
           ],
           "task": {
             "id": "6089743983426423753cd58a",
-            "name": "Safe corridor"
+            "name": "Safe Corridor"
           }
         },
         {
@@ -73348,7 +73352,7 @@
           ],
           "task": {
             "id": "5edac63b930f5454f51e128b",
-            "name": "TerraGroup employee"
+            "name": "TerraGroup Employee"
           }
         },
         {
@@ -74103,7 +74107,7 @@
           "minDurability": 0,
           "item": {
             "id": "62a09dd4621468534a797ac7",
-            "name": "Baddie's red beard",
+            "name": "Baddie の赤髭",
             "shortName": "Baddie"
           }
         },
@@ -74222,7 +74226,7 @@
           "minDurability": 0,
           "item": {
             "id": "62a09e08de7ac81993580532",
-            "name": "Glorious E lightweight armored mask",
+            "name": "Glorious E 軽量防弾マスク",
             "shortName": "Glorious"
           }
         },
@@ -74239,7 +74243,7 @@
           "minDurability": 0,
           "item": {
             "id": "66b37f114410565a8f6789e2",
-            "name": "Inseq gas pipe wrench",
+            "name": "Inseq ガスパイプレンチ",
             "shortName": "Inseq"
           }
         },
@@ -74256,7 +74260,7 @@
           "minDurability": 0,
           "item": {
             "id": "66b37eb4acff495a29492407",
-            "name": "Viibiin sneaker",
+            "name": "Viibiin スニーカー",
             "shortName": "Viibiin"
           }
         },
@@ -74273,7 +74277,7 @@
           "minDurability": 0,
           "item": {
             "id": "66b37ea4c5d72b0277488439",
-            "name": "Tamatthi kunai knife replica",
+            "name": "Tamatthi のレプリカのクナイ",
             "shortName": "Tamatthi"
           }
         },
@@ -75414,7 +75418,7 @@
             },
             {
               "id": "62a09e08de7ac81993580532",
-              "name": "Glorious E lightweight armored mask"
+              "name": "Glorious E 軽量防弾マスク"
             },
             {
               "id": "62963c18dbc8ab5f0d382d0b",
@@ -75855,7 +75859,7 @@
           ],
           "item": {
             "id": "5a1eaa87fcdbcb001865f75e",
-            "name": "Trijicon REAP-IR thermal scope",
+            "name": "Trijicon REAP-IR サーマルスコープ",
             "shortName": "REAP-IR"
           }
         },
@@ -75877,7 +75881,7 @@
           ],
           "item": {
             "id": "5a1eaa87fcdbcb001865f75e",
-            "name": "Trijicon REAP-IR thermal scope",
+            "name": "Trijicon REAP-IR サーマルスコープ",
             "shortName": "REAP-IR"
           }
         }
@@ -77266,7 +77270,7 @@
             },
             {
               "id": "59fc81d786f774390775787e",
-              "name": "工場（夜）"
+              "name": "Night Factory"
             }
           ]
         },
@@ -77373,8 +77377,8 @@
           "enemyHealthEffect": null,
           "maps": [
             {
-              "id": "56f40101d2720b2a4d8b45d6",
-              "name": "Customs"
+              "id": "5704e5fad2720bc05b8b4567",
+              "name": "Reserve"
             }
           ]
         },
@@ -77770,7 +77774,7 @@
           "minDurability": 0,
           "item": {
             "id": "5a1eaa87fcdbcb001865f75e",
-            "name": "Trijicon REAP-IR thermal scope",
+            "name": "Trijicon REAP-IR サーマルスコープ",
             "shortName": "REAP-IR"
           }
         }
@@ -77998,7 +78002,7 @@
           "minDurability": 0,
           "item": {
             "id": "601948682627df266209af05",
-            "name": "UVSR Taiga-1 survival machete",
+            "name": "UVSR Taiga-1 サバイバルマチェット",
             "shortName": "Taiga-1"
           }
         }
@@ -78150,7 +78154,7 @@
           "minDurability": 0,
           "item": {
             "id": "5c0e534186f7747fa1419867",
-            "name": "eTG-チェンジの注射器",
+            "name": "eTG-change の注射器",
             "shortName": "eTG-c"
           }
         },
@@ -79543,6 +79547,10 @@
             {
               "id": "5714dc692459777137212e12",
               "name": "Streets of Tarkov"
+            },
+            {
+              "id": "5704e5fad2720bc05b8b4567",
+              "name": "Reserve"
             },
             {
               "id": "56f40101d2720b2a4d8b45d6",
