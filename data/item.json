@@ -2400,7 +2400,7 @@
     },
     {
       "id": "56e0598dd2720bb5668b45a6",
-      "name": "PB 9x18PM 消音拳銃",
+      "name": "PB 9x18PM 消音ピストル",
       "shortName": "PB",
       "normalizedName": "pb-9x18pm-silenced-pistol",
       "image512pxLink": "https://assets.tarkov.dev/56e0598dd2720bb5668b45a6-512.webp",
@@ -6338,7 +6338,7 @@
     },
     {
       "id": "584149452459775992479702",
-      "name": "PB 9x18PM 消音拳銃 デフォルト",
+      "name": "PB 9x18PM 消音ピストル デフォルト",
       "shortName": "PB デフォルト",
       "normalizedName": "pb-9x18pm-silenced-pistol-default",
       "image512pxLink": "https://assets.tarkov.dev/584149452459775992479702-512.webp",
@@ -12044,7 +12044,7 @@
     },
     {
       "id": "5a17f98cfcdbcb0980087290",
-      "name": "Stechkin APS 9x18PM 自動拳銃",
+      "name": "Stechkin APS 9x18PM マシンピストル",
       "shortName": "APS",
       "normalizedName": "stechkin-aps-9x18pm-machine-pistol",
       "image512pxLink": "https://assets.tarkov.dev/5a17f98cfcdbcb0980087290-512.webp",
@@ -15457,7 +15457,7 @@
     },
     {
       "id": "5ac4accf86f774181345c3d7",
-      "name": "Stechkin APS 9x18PM 自動拳銃 デフォルト",
+      "name": "Stechkin APS 9x18PM マシンピストル デフォルト",
       "shortName": "APS デフォルト",
       "normalizedName": "stechkin-aps-9x18pm-machine-pistol-default",
       "image512pxLink": "https://assets.tarkov.dev/5ac4accf86f774181345c3d7-512.webp",
@@ -22165,7 +22165,7 @@
     },
     {
       "id": "5c0e722886f7740458316a57",
-      "name": "ANA Tactical M1 アーマーリグ (オリーブドラブ)",
+      "name": "ANA Tactical M1 アーマーリグ (オリーブドラブ グリーン)",
       "shortName": "ANA M1",
       "normalizedName": "ana-tactical-m1-plate-carrier-od-green",
       "image512pxLink": "https://assets.tarkov.dev/5c0e722886f7740458316a57-512.webp",
@@ -25826,7 +25826,7 @@
     },
     {
       "id": "5cebec38d7f00c00110a652a",
-      "name": "FN P90 Ring Sight リフレックスサイト",
+      "name": "FN P90 リングサイトリフレックスサイト",
       "shortName": "P90 Ring",
       "normalizedName": "fn-p90-ring-sight-reflex-sight",
       "image512pxLink": "https://assets.tarkov.dev/5cebec38d7f00c00110a652a-512.webp",
@@ -52393,7 +52393,7 @@
     },
     {
       "id": "657089638db3adca1009f4ca",
-      "name": "Atomic Defense CQCM バリスティックマスク (Black)",
+      "name": "Atomic Defense CQCM バリスティックマスク (ブラック)",
       "shortName": "CQCM",
       "normalizedName": "atomic-defense-cqcm-ballistic-mask-black",
       "image512pxLink": "https://assets.tarkov.dev/657089638db3adca1009f4ca-512.webp",
@@ -52818,7 +52818,7 @@
     },
     {
       "id": "6576616086f11bca4106d35f",
-      "name": "ANA Tactical M1 アーマーリグ (オリーブドラブ) デフォルト",
+      "name": "ANA Tactical M1 アーマーリグ (オリーブドラブ グリーン) デフォルト",
       "shortName": "ANA M1 デフォルト",
       "normalizedName": "ana-tactical-m1-plate-carrier-od-green-default",
       "image512pxLink": "https://assets.tarkov.dev/6576616086f11bca4106d35f-512.webp",
@@ -63977,7 +63977,7 @@
     },
     {
       "id": "6819f8df28294ec0730db6b4",
-      "name": "SZ-1 explosive charge",
+      "name": "SZ-1 爆薬",
       "shortName": "Explosive",
       "normalizedName": "sz-1-explosive-charge",
       "image512pxLink": "https://assets.tarkov.dev/6819f8df28294ec0730db6b4-512.webp",
@@ -70531,7 +70531,7 @@
     },
     {
       "id": "68ee0103b5db65191e0ec07c",
-      "name": "9.3x64mm 7N33 弾 弾薬パック ( 20 発)",
+      "name": "9.3x64mm 7N33 弾 弾薬パック (20 発)",
       "shortName": "7N33",
       "normalizedName": "93x64mm-7n33-ammo-pack-20-pcs",
       "image512pxLink": "https://assets.tarkov.dev/68ee0103b5db65191e0ec07c-512.webp",
@@ -70547,7 +70547,7 @@
     },
     {
       "id": "68ee0114024fb2df16004f1c",
-      "name": "9.3x64mm FMJ 弾 弾薬パック ( 20 発)",
+      "name": "9.3x64mm FMJ 弾 弾薬パック (20 発)",
       "shortName": "FMJ",
       "normalizedName": "93x64mm-fmj-ammo-pack-20-pcs",
       "image512pxLink": "https://assets.tarkov.dev/68ee0114024fb2df16004f1c-512.webp",
@@ -70562,7 +70562,7 @@
     },
     {
       "id": "68ee0125fdf770156c0da329",
-      "name": "9.3x64mm SP 弾 弾薬パック ( 20 発)",
+      "name": "9.3x64mm SP 弾 弾薬パック (20発)",
       "shortName": "SP",
       "normalizedName": "93x64mm-sp-ammo-pack-20-pcs",
       "image512pxLink": "https://assets.tarkov.dev/68ee0125fdf770156c0da329-512.webp",
@@ -73543,7 +73543,7 @@
     },
     {
       "id": "69a0174087a75d2cbd0842e8",
-      "name": "SZ-1 explosive charge",
+      "name": "SZ-1 爆薬",
       "shortName": "Explosive",
       "normalizedName": "sz-1-explosive-charge-1",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -73642,7 +73642,7 @@
     },
     {
       "id": "69bb3e54d6c67f6265004ab9",
-      "name": "Boreas engine room keycard",
+      "name": "Boreas engine room キーカード",
       "shortName": "ER",
       "normalizedName": "boreas-engine-room-keycard",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -74684,7 +74684,7 @@
     },
     {
       "id": "69d27591df93e6952a031c84",
-      "name": "FORT Gladiator-S plate carrier (Lightweight, Viking)",
+      "name": "FORT Gladiator-S plate carrier (Viking)",
       "shortName": "Gladiator-S",
       "normalizedName": "fort-gladiator-s-plate-carrier-viking",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -74718,7 +74718,7 @@
     },
     {
       "id": "69d28cdc274c032dd804afe0",
-      "name": "FORT Gladiator-S plate carrier (Lightweight, MultiCam)",
+      "name": "FORT Gladiator-S plate carrier (MultiCam)",
       "shortName": "Gladiator-S",
       "normalizedName": "fort-gladiator-s-plate-carrier-multicam",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -74883,7 +74883,7 @@
     },
     {
       "id": "69d437eb7efc40f84e04420c",
-      "name": "FORT Gladiator-S plate carrier (Lightweight, Viking) デフォルト",
+      "name": "FORT Gladiator-S plate carrier (Viking) デフォルト",
       "shortName": "Gladiator-S デフォルト",
       "normalizedName": "fort-gladiator-s-plate-carrier-viking-default",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -74947,7 +74947,7 @@
     },
     {
       "id": "69d8deea9b361d9df800124e",
-      "name": "FORT Gladiator-S plate carrier (Lightweight, MultiCam) デフォルト",
+      "name": "FORT Gladiator-S plate carrier (MultiCam) デフォルト",
       "shortName": "Gladiator-S デフォルト",
       "normalizedName": "fort-gladiator-s-plate-carrier-multicam-default",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -75084,7 +75084,7 @@
     },
     {
       "id": "6a048dad47a5a215610422d9",
-      "name": "Twitch Icebreaker 2026 case (Common)",
+      "name": "Twitch Icebreaker 2026 ケース (コモン)",
       "shortName": "Twitch Icebreaker 2026",
       "normalizedName": "twitch-icebreaker-2026-case-common",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -75099,7 +75099,7 @@
     },
     {
       "id": "6a048e8247a5a215610422e0",
-      "name": "Twitch Icebreaker 2026 case (Common)",
+      "name": "Twitch Icebreaker 2026 ケース (コモン)",
       "shortName": "Twitch Icebreaker 2026",
       "normalizedName": "twitch-icebreaker-2026-case-common-1",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -75114,7 +75114,7 @@
     },
     {
       "id": "6a048ea747a5a215610422e8",
-      "name": "Twitch Icebreaker 2026 case (Common)",
+      "name": "Twitch Icebreaker 2026 ケース (コモン)",
       "shortName": "Twitch Icebreaker 2026",
       "normalizedName": "twitch-icebreaker-2026-case-common-2",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -75129,7 +75129,7 @@
     },
     {
       "id": "6a048eb547a5a215610422ef",
-      "name": "Twitch Icebreaker 2026 case (Common)",
+      "name": "Twitch Icebreaker 2026 ケース (コモン)",
       "shortName": "Twitch Icebreaker 2026",
       "normalizedName": "twitch-icebreaker-2026-case-common-3",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -75144,7 +75144,7 @@
     },
     {
       "id": "6a048ec4a16e58e80e08f15c",
-      "name": "Twitch Icebreaker 2026 case (Common)",
+      "name": "Twitch Icebreaker 2026 ケース (コモン)",
       "shortName": "Twitch Icebreaker 2026",
       "normalizedName": "twitch-icebreaker-2026-case-common-4",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -75159,7 +75159,7 @@
     },
     {
       "id": "6a048ee281f341c29403a498",
-      "name": "Twitch Icebreaker 2026 case (Common)",
+      "name": "Twitch Icebreaker 2026 ケース (コモン)",
       "shortName": "Twitch Icebreaker 2026",
       "normalizedName": "twitch-icebreaker-2026-case-common-5",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -75174,7 +75174,7 @@
     },
     {
       "id": "6a048eeea16e58e80e08f164",
-      "name": "Twitch Icebreaker 2026 case (Common)",
+      "name": "Twitch Icebreaker 2026 ケース (コモン)",
       "shortName": "Twitch Icebreaker 2026",
       "normalizedName": "twitch-icebreaker-2026-case-common-6",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -75189,7 +75189,7 @@
     },
     {
       "id": "6a048efea16e58e80e08f16b",
-      "name": "Twitch Icebreaker 2026 case (Common)",
+      "name": "Twitch Icebreaker 2026 ケース (コモン)",
       "shortName": "Twitch Icebreaker 2026",
       "normalizedName": "twitch-icebreaker-2026-case-common-7",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -75204,7 +75204,7 @@
     },
     {
       "id": "6a048f13a16e58e80e08f172",
-      "name": "Twitch Icebreaker 2026 case (Common)",
+      "name": "Twitch Icebreaker 2026 ケース (コモン)",
       "shortName": "Twitch Icebreaker 2026",
       "normalizedName": "twitch-icebreaker-2026-case-common-8",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -75219,7 +75219,7 @@
     },
     {
       "id": "6a048f21a16e58e80e08f179",
-      "name": "Twitch Icebreaker 2026 case (Common)",
+      "name": "Twitch Icebreaker 2026 ケース (コモン)",
       "shortName": "Twitch Icebreaker 2026",
       "normalizedName": "twitch-icebreaker-2026-case-common-9",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -75234,7 +75234,7 @@
     },
     {
       "id": "6a048f4aa16e58e80e08f181",
-      "name": "Twitch Icebreaker 2026 case (Common)",
+      "name": "Twitch Icebreaker 2026 ケース (コモン)",
       "shortName": "Twitch Icebreaker 2026",
       "normalizedName": "twitch-icebreaker-2026-case-common-10",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -75249,7 +75249,7 @@
     },
     {
       "id": "6a048f582e0a9f056807cbf4",
-      "name": "Twitch Icebreaker 2026 case (Common)",
+      "name": "Twitch Icebreaker 2026 ケース (コモン)",
       "shortName": "Twitch Icebreaker 2026",
       "normalizedName": "twitch-icebreaker-2026-case-common-11",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -75264,7 +75264,7 @@
     },
     {
       "id": "6a048f679c9c0cdeb201c0ac",
-      "name": "Twitch Icebreaker 2026 case (Common)",
+      "name": "Twitch Icebreaker 2026 ケース (コモン)",
       "shortName": "Twitch Icebreaker 2026",
       "normalizedName": "twitch-icebreaker-2026-case-common-12",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -75279,7 +75279,7 @@
     },
     {
       "id": "6a048f73a16e58e80e08f18c",
-      "name": "Twitch Icebreaker 2026 case (Common)",
+      "name": "Twitch Icebreaker 2026 ケース (コモン)",
       "shortName": "Twitch Icebreaker 2026",
       "normalizedName": "twitch-icebreaker-2026-case-common-13",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -75294,7 +75294,7 @@
     },
     {
       "id": "6a048f7fa16e58e80e08f193",
-      "name": "Twitch Icebreaker 2026 case (Common)",
+      "name": "Twitch Icebreaker 2026 ケース (コモン)",
       "shortName": "Twitch Icebreaker 2026",
       "normalizedName": "twitch-icebreaker-2026-case-common-14",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -75309,7 +75309,7 @@
     },
     {
       "id": "6a048f8ca16e58e80e08f19b",
-      "name": "Twitch Icebreaker 2026 case (Common)",
+      "name": "Twitch Icebreaker 2026 ケース (コモン)",
       "shortName": "Twitch Icebreaker 2026",
       "normalizedName": "twitch-icebreaker-2026-case-common-15",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -75324,7 +75324,7 @@
     },
     {
       "id": "6a048fa8063edec9790b1609",
-      "name": "Twitch Icebreaker 2026 case (Common)",
+      "name": "Twitch Icebreaker 2026 ケース (コモン)",
       "shortName": "Twitch Icebreaker 2026",
       "normalizedName": "twitch-icebreaker-2026-case-common-16",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -75339,7 +75339,7 @@
     },
     {
       "id": "6a048fb681f341c29403a4af",
-      "name": "Twitch Icebreaker 2026 case (Common)",
+      "name": "Twitch Icebreaker 2026 ケース (コモン)",
       "shortName": "Twitch Icebreaker 2026",
       "normalizedName": "twitch-icebreaker-2026-case-common-17",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -75354,7 +75354,7 @@
     },
     {
       "id": "6a048fc7063edec9790b1613",
-      "name": "Twitch Icebreaker 2026 case (Common)",
+      "name": "Twitch Icebreaker 2026 ケース (コモン)",
       "shortName": "Twitch Icebreaker 2026",
       "normalizedName": "twitch-icebreaker-2026-case-common-18",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -75369,7 +75369,7 @@
     },
     {
       "id": "6a048fd95d7b7baeae0ab045",
-      "name": "Twitch Icebreaker 2026 case (Common)",
+      "name": "Twitch Icebreaker 2026 ケース (コモン)",
       "shortName": "Twitch Icebreaker 2026",
       "normalizedName": "twitch-icebreaker-2026-case-common-19",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -75384,7 +75384,7 @@
     },
     {
       "id": "6a048ff3063edec9790b161f",
-      "name": "Twitch Icebreaker 2026 case (Common)",
+      "name": "Twitch Icebreaker 2026 ケース (コモン)",
       "shortName": "Twitch Icebreaker 2026",
       "normalizedName": "twitch-icebreaker-2026-case-common-20",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -75399,7 +75399,7 @@
     },
     {
       "id": "6a049007063edec9790b1627",
-      "name": "Twitch Icebreaker 2026 case (Common)",
+      "name": "Twitch Icebreaker 2026 ケース (コモン)",
       "shortName": "Twitch Icebreaker 2026",
       "normalizedName": "twitch-icebreaker-2026-case-common-21",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -75414,7 +75414,7 @@
     },
     {
       "id": "6a0490149c9c0cdeb201c0c1",
-      "name": "Twitch Icebreaker 2026 case (Common)",
+      "name": "Twitch Icebreaker 2026 ケース (コモン)",
       "shortName": "Twitch Icebreaker 2026",
       "normalizedName": "twitch-icebreaker-2026-case-common-22",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -75429,7 +75429,7 @@
     },
     {
       "id": "6a049024e014561af205b128",
-      "name": "Twitch Icebreaker 2026 case (Common)",
+      "name": "Twitch Icebreaker 2026 ケース (コモン)",
       "shortName": "Twitch Icebreaker 2026",
       "normalizedName": "twitch-icebreaker-2026-case-common-23",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -75444,7 +75444,7 @@
     },
     {
       "id": "6a0490385d7b7baeae0ab056",
-      "name": "Twitch Icebreaker 2026 case (Common)",
+      "name": "Twitch Icebreaker 2026 ケース (コモン)",
       "shortName": "Twitch Icebreaker 2026",
       "normalizedName": "twitch-icebreaker-2026-case-common-24",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -75459,7 +75459,7 @@
     },
     {
       "id": "6a049044e014561af205b130",
-      "name": "Twitch Icebreaker 2026 case (Common)",
+      "name": "Twitch Icebreaker 2026 ケース (コモン)",
       "shortName": "Twitch Icebreaker 2026",
       "normalizedName": "twitch-icebreaker-2026-case-common-25",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -75474,7 +75474,7 @@
     },
     {
       "id": "6a04905a56ad0c8cea019e47",
-      "name": "Twitch Icebreaker 2026 case (Common)",
+      "name": "Twitch Icebreaker 2026 ケース (コモン)",
       "shortName": "Twitch Icebreaker 2026",
       "normalizedName": "twitch-icebreaker-2026-case-common-26",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -75489,7 +75489,7 @@
     },
     {
       "id": "6a04906556ad0c8cea019e4e",
-      "name": "Twitch Icebreaker 2026 case (Common)",
+      "name": "Twitch Icebreaker 2026 ケース (コモン)",
       "shortName": "Twitch Icebreaker 2026",
       "normalizedName": "twitch-icebreaker-2026-case-common-27",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -75504,7 +75504,7 @@
     },
     {
       "id": "6a04907156ad0c8cea019e55",
-      "name": "Twitch Icebreaker 2026 case (Common)",
+      "name": "Twitch Icebreaker 2026 ケース (コモン)",
       "shortName": "Twitch Icebreaker 2026",
       "normalizedName": "twitch-icebreaker-2026-case-common-28",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -75519,7 +75519,7 @@
     },
     {
       "id": "6a0490a1e014561af205b13e",
-      "name": "Twitch Icebreaker 2026 case (Common)",
+      "name": "Twitch Icebreaker 2026 ケース (コモン)",
       "shortName": "Twitch Icebreaker 2026",
       "normalizedName": "twitch-icebreaker-2026-case-common-29",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -75534,7 +75534,7 @@
     },
     {
       "id": "6a0490bf063edec9790b163c",
-      "name": "Twitch Icebreaker 2026 case (Common)",
+      "name": "Twitch Icebreaker 2026 ケース (コモン)",
       "shortName": "Twitch Icebreaker 2026",
       "normalizedName": "twitch-icebreaker-2026-case-common-30",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -75549,7 +75549,7 @@
     },
     {
       "id": "6a0490cf063edec9790b1643",
-      "name": "Twitch Icebreaker 2026 case (Common)",
+      "name": "Twitch Icebreaker 2026 ケース (コモン)",
       "shortName": "Twitch Icebreaker 2026",
       "normalizedName": "twitch-icebreaker-2026-case-common-31",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -75564,9 +75564,9 @@
     },
     {
       "id": "6a0490fa5d7b7baeae0ab064",
-      "name": "Twitch Icebreaker 2026 case (Rar)",
+      "name": "Twitch Icebreaker 2026 ケース (レア)",
       "shortName": "Twitch Icebreaker 2026",
-      "normalizedName": "twitch-icebreaker-2026-case-rar",
+      "normalizedName": "twitch-icebreaker-2026-case-rare",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
       "wikiLink": "",
@@ -75579,9 +75579,9 @@
     },
     {
       "id": "6a04918c5d7b7baeae0ab06f",
-      "name": "Twitch Icebreaker 2026 case (Rar)",
+      "name": "Twitch Icebreaker 2026 ケース (レア)",
       "shortName": "Twitch Icebreaker 2026",
-      "normalizedName": "twitch-icebreaker-2026-case-rar-1",
+      "normalizedName": "twitch-icebreaker-2026-case-rare-1",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
       "wikiLink": "",
@@ -75594,9 +75594,9 @@
     },
     {
       "id": "6a04919956ad0c8cea019e6d",
-      "name": "Twitch Icebreaker 2026 case (Rar)",
+      "name": "Twitch Icebreaker 2026 ケース (レア)",
       "shortName": "Twitch Icebreaker 2026",
-      "normalizedName": "twitch-icebreaker-2026-case-rar-2",
+      "normalizedName": "twitch-icebreaker-2026-case-rare-2",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
       "wikiLink": "",
@@ -75609,9 +75609,9 @@
     },
     {
       "id": "6a0491a85d7b7baeae0ab078",
-      "name": "Twitch Icebreaker 2026 case (Rar)",
+      "name": "Twitch Icebreaker 2026 ケース (レア)",
       "shortName": "Twitch Icebreaker 2026",
-      "normalizedName": "twitch-icebreaker-2026-case-rar-3",
+      "normalizedName": "twitch-icebreaker-2026-case-rare-3",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
       "wikiLink": "",
@@ -75624,9 +75624,9 @@
     },
     {
       "id": "6a0493bde32850c6380b02ca",
-      "name": "Twitch Icebreaker 2026 case (Rar)",
+      "name": "Twitch Icebreaker 2026 ケース (レア)",
       "shortName": "Twitch Icebreaker 2026",
-      "normalizedName": "twitch-icebreaker-2026-case-rar-4",
+      "normalizedName": "twitch-icebreaker-2026-case-rare-4",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
       "wikiLink": "",
@@ -75639,9 +75639,9 @@
     },
     {
       "id": "6a0493cf5d7b7baeae0ab081",
-      "name": "Twitch Icebreaker 2026 case (Rar)",
+      "name": "Twitch Icebreaker 2026 ケース (レア)",
       "shortName": "Twitch Icebreaker 2026",
-      "normalizedName": "twitch-icebreaker-2026-case-rar-5",
+      "normalizedName": "twitch-icebreaker-2026-case-rare-5",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
       "wikiLink": "",
@@ -75654,9 +75654,9 @@
     },
     {
       "id": "6a0493da56ad0c8cea019e76",
-      "name": "Twitch Icebreaker 2026 case (Rar)",
+      "name": "Twitch Icebreaker 2026 ケース (レア)",
       "shortName": "Twitch Icebreaker 2026",
-      "normalizedName": "twitch-icebreaker-2026-case-rar-6",
+      "normalizedName": "twitch-icebreaker-2026-case-rare-6",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
       "wikiLink": "",
@@ -75669,9 +75669,9 @@
     },
     {
       "id": "6a0493ee5d7b7baeae0ab08a",
-      "name": "Twitch Icebreaker 2026 case (Rar)",
+      "name": "Twitch Icebreaker 2026 ケース (レア)",
       "shortName": "Twitch Icebreaker 2026",
-      "normalizedName": "twitch-icebreaker-2026-case-rar-7",
+      "normalizedName": "twitch-icebreaker-2026-case-rare-7",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
       "wikiLink": "",
@@ -75684,9 +75684,9 @@
     },
     {
       "id": "6a04943356ad0c8cea019e7e",
-      "name": "Twitch Icebreaker 2026 case (Rar)",
+      "name": "Twitch Icebreaker 2026 ケース (レア)",
       "shortName": "Twitch Icebreaker 2026",
-      "normalizedName": "twitch-icebreaker-2026-case-rar-8",
+      "normalizedName": "twitch-icebreaker-2026-case-rare-8",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
       "wikiLink": "",
@@ -75699,9 +75699,9 @@
     },
     {
       "id": "6a049442d545d8a01402feb6",
-      "name": "Twitch Icebreaker 2026 case (Rar)",
+      "name": "Twitch Icebreaker 2026 ケース (レア)",
       "shortName": "Twitch Icebreaker 2026",
-      "normalizedName": "twitch-icebreaker-2026-case-rar-9",
+      "normalizedName": "twitch-icebreaker-2026-case-rare-9",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
       "wikiLink": "",
@@ -75714,9 +75714,9 @@
     },
     {
       "id": "6a049450e32850c6380b02dd",
-      "name": "Twitch Icebreaker 2026 case (Rar)",
+      "name": "Twitch Icebreaker 2026 ケース (レア)",
       "shortName": "Twitch Icebreaker 2026",
-      "normalizedName": "twitch-icebreaker-2026-case-rar-10",
+      "normalizedName": "twitch-icebreaker-2026-case-rare-10",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
       "wikiLink": "",
@@ -75729,9 +75729,9 @@
     },
     {
       "id": "6a04945ee32850c6380b02e4",
-      "name": "Twitch Icebreaker 2026 case (Rar)",
+      "name": "Twitch Icebreaker 2026 ケース (レア)",
       "shortName": "Twitch Icebreaker 2026",
-      "normalizedName": "twitch-icebreaker-2026-case-rar-11",
+      "normalizedName": "twitch-icebreaker-2026-case-rare-11",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
       "wikiLink": "",
@@ -75744,9 +75744,9 @@
     },
     {
       "id": "6a04946be32850c6380b02eb",
-      "name": "Twitch Icebreaker 2026 case (Rar)",
+      "name": "Twitch Icebreaker 2026 ケース (レア)",
       "shortName": "Twitch Icebreaker 2026",
-      "normalizedName": "twitch-icebreaker-2026-case-rar-12",
+      "normalizedName": "twitch-icebreaker-2026-case-rare-12",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
       "wikiLink": "",
@@ -75759,9 +75759,9 @@
     },
     {
       "id": "6a049478e32850c6380b02f2",
-      "name": "Twitch Icebreaker 2026 case (Rar)",
+      "name": "Twitch Icebreaker 2026 ケース (レア)",
       "shortName": "Twitch Icebreaker 2026",
-      "normalizedName": "twitch-icebreaker-2026-case-rar-13",
+      "normalizedName": "twitch-icebreaker-2026-case-rare-13",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
       "wikiLink": "",
@@ -75774,9 +75774,9 @@
     },
     {
       "id": "6a049494e014561af205b160",
-      "name": "Twitch Icebreaker 2026 case (Rar)",
+      "name": "Twitch Icebreaker 2026 ケース (レア)",
       "shortName": "Twitch Icebreaker 2026",
-      "normalizedName": "twitch-icebreaker-2026-case-rar-14",
+      "normalizedName": "twitch-icebreaker-2026-case-rare-14",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
       "wikiLink": "",
@@ -75789,9 +75789,9 @@
     },
     {
       "id": "6a04949f56ad0c8cea019e8d",
-      "name": "Twitch Icebreaker 2026 case (Rar)",
+      "name": "Twitch Icebreaker 2026 ケース (レア)",
       "shortName": "Twitch Icebreaker 2026",
-      "normalizedName": "twitch-icebreaker-2026-case-rar-15",
+      "normalizedName": "twitch-icebreaker-2026-case-rare-15",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
       "wikiLink": "",
@@ -75804,9 +75804,9 @@
     },
     {
       "id": "6a0494bb56ad0c8cea019e95",
-      "name": "Twitch Icebreaker 2026 case (Rar)",
+      "name": "Twitch Icebreaker 2026 ケース (レア)",
       "shortName": "Twitch Icebreaker 2026",
-      "normalizedName": "twitch-icebreaker-2026-case-rar-16",
+      "normalizedName": "twitch-icebreaker-2026-case-rare-16",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
       "wikiLink": "",
@@ -75819,9 +75819,9 @@
     },
     {
       "id": "6a0494c6e32850c6380b02fe",
-      "name": "Twitch Icebreaker 2026 case (Rar)",
+      "name": "Twitch Icebreaker 2026 ケース (レア)",
       "shortName": "Twitch Icebreaker 2026",
-      "normalizedName": "twitch-icebreaker-2026-case-rar-17",
+      "normalizedName": "twitch-icebreaker-2026-case-rare-17",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
       "wikiLink": "",
@@ -75834,9 +75834,9 @@
     },
     {
       "id": "6a0494d4d545d8a01402fecc",
-      "name": "Twitch Icebreaker 2026 case (Rar)",
+      "name": "Twitch Icebreaker 2026 ケース (レア)",
       "shortName": "Twitch Icebreaker 2026",
-      "normalizedName": "twitch-icebreaker-2026-case-rar-18",
+      "normalizedName": "twitch-icebreaker-2026-case-rare-18",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
       "wikiLink": "",
@@ -75849,9 +75849,9 @@
     },
     {
       "id": "6a04950dd545d8a01402fed3",
-      "name": "Twitch Icebreaker 2026 case (Rar)",
+      "name": "Twitch Icebreaker 2026 ケース (レア)",
       "shortName": "Twitch Icebreaker 2026",
-      "normalizedName": "twitch-icebreaker-2026-case-rar-19",
+      "normalizedName": "twitch-icebreaker-2026-case-rare-19",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
       "wikiLink": "",
@@ -75864,7 +75864,7 @@
     },
     {
       "id": "6a04952956ad0c8cea019e9f",
-      "name": "Twitch Icebreaker 2026 case (epic)",
+      "name": "Twitch Icebreaker 2026 ケース (エピック)",
       "shortName": "Twitch Icebreaker 2026",
       "normalizedName": "twitch-icebreaker-2026-case-epic",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -75879,7 +75879,7 @@
     },
     {
       "id": "6a04975de014561af205b170",
-      "name": "Twitch Icebreaker 2026 case (epic)",
+      "name": "Twitch Icebreaker 2026 ケース (エピック)",
       "shortName": "Twitch Icebreaker 2026",
       "normalizedName": "twitch-icebreaker-2026-case-epic-1",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -75894,7 +75894,7 @@
     },
     {
       "id": "6a049768e014561af205b177",
-      "name": "Twitch Icebreaker 2026 case (epic)",
+      "name": "Twitch Icebreaker 2026 ケース (エピック)",
       "shortName": "Twitch Icebreaker 2026",
       "normalizedName": "twitch-icebreaker-2026-case-epic-2",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -75909,7 +75909,7 @@
     },
     {
       "id": "6a049774d545d8a01402fedf",
-      "name": "Twitch Icebreaker 2026 case (epic)",
+      "name": "Twitch Icebreaker 2026 ケース (エピック)",
       "shortName": "Twitch Icebreaker 2026",
       "normalizedName": "twitch-icebreaker-2026-case-epic-3",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -75924,7 +75924,7 @@
     },
     {
       "id": "6a04977ee32850c6380b0312",
-      "name": "Twitch Icebreaker 2026 case (epic)",
+      "name": "Twitch Icebreaker 2026 ケース (エピック)",
       "shortName": "Twitch Icebreaker 2026",
       "normalizedName": "twitch-icebreaker-2026-case-epic-4",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -75939,7 +75939,7 @@
     },
     {
       "id": "6a04978956ad0c8cea019eab",
-      "name": "Twitch Icebreaker 2026 case (epic)",
+      "name": "Twitch Icebreaker 2026 ケース (エピック)",
       "shortName": "Twitch Icebreaker 2026",
       "normalizedName": "twitch-icebreaker-2026-case-epic-5",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -75954,7 +75954,7 @@
     },
     {
       "id": "6a049799e014561af205b183",
-      "name": "Twitch Icebreaker 2026 case (epic)",
+      "name": "Twitch Icebreaker 2026 ケース (エピック)",
       "shortName": "Twitch Icebreaker 2026",
       "normalizedName": "twitch-icebreaker-2026-case-epic-6",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -75969,7 +75969,7 @@
     },
     {
       "id": "6a0497a2e014561af205b18a",
-      "name": "Twitch Icebreaker 2026 case (epic)",
+      "name": "Twitch Icebreaker 2026 ケース (エピック)",
       "shortName": "Twitch Icebreaker 2026",
       "normalizedName": "twitch-icebreaker-2026-case-epic-7",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -75984,7 +75984,7 @@
     },
     {
       "id": "6a0497ae56ad0c8cea019eb4",
-      "name": "Twitch Icebreaker 2026 case (epic)",
+      "name": "Twitch Icebreaker 2026 ケース (エピック)",
       "shortName": "Twitch Icebreaker 2026",
       "normalizedName": "twitch-icebreaker-2026-case-epic-8",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -75999,7 +75999,7 @@
     },
     {
       "id": "6a0497b7e32850c6380b031f",
-      "name": "Twitch Icebreaker 2026 case (epic)",
+      "name": "Twitch Icebreaker 2026 ケース (エピック)",
       "shortName": "Twitch Icebreaker 2026",
       "normalizedName": "twitch-icebreaker-2026-case-epic-9",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -76014,7 +76014,7 @@
     },
     {
       "id": "6a0497c9e014561af205b193",
-      "name": "Twitch Icebreaker 2026 case (epic)",
+      "name": "Twitch Icebreaker 2026 ケース (エピック)",
       "shortName": "Twitch Icebreaker 2026",
       "normalizedName": "twitch-icebreaker-2026-case-epic-10",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -76029,7 +76029,7 @@
     },
     {
       "id": "6a049985e32850c6380b0326",
-      "name": "Twitch Icebreaker 2026 case (epic)",
+      "name": "Twitch Icebreaker 2026 ケース (エピック)",
       "shortName": "Twitch Icebreaker 2026",
       "normalizedName": "twitch-icebreaker-2026-case-epic-11",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -76044,7 +76044,7 @@
     },
     {
       "id": "6a049993d545d8a01402fef0",
-      "name": "Twitch Icebreaker 2026 case (epic)",
+      "name": "Twitch Icebreaker 2026 ケース (エピック)",
       "shortName": "Twitch Icebreaker 2026",
       "normalizedName": "twitch-icebreaker-2026-case-epic-12",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -76059,7 +76059,7 @@
     },
     {
       "id": "6a0499fc56ad0c8cea019ec2",
-      "name": "Twitch Icebreaker 2026 case (epic)",
+      "name": "Twitch Icebreaker 2026 ケース (エピック)",
       "shortName": "Twitch Icebreaker 2026",
       "normalizedName": "twitch-icebreaker-2026-case-epic-13",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -76074,7 +76074,7 @@
     },
     {
       "id": "6a049a082232cf0a5108aed6",
-      "name": "Twitch Icebreaker 2026 case (epic)",
+      "name": "Twitch Icebreaker 2026 ケース (エピック)",
       "shortName": "Twitch Icebreaker 2026",
       "normalizedName": "twitch-icebreaker-2026-case-epic-14",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -76089,7 +76089,7 @@
     },
     {
       "id": "6a049a1a2232cf0a5108aedd",
-      "name": "Twitch Icebreaker 2026 case (epic)",
+      "name": "Twitch Icebreaker 2026 ケース (エピック)",
       "shortName": "Twitch Icebreaker 2026",
       "normalizedName": "twitch-icebreaker-2026-case-epic-15",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
@@ -76119,9 +76119,9 @@
     },
     {
       "id": "6a073d5fe3d3ac861e09c429",
-      "name": "Twitch Icebreaker 2026 case (Rar)",
+      "name": "Twitch Icebreaker 2026 ケース (レア)",
       "shortName": "Twitch Icebreaker 2026",
-      "normalizedName": "twitch-icebreaker-2026-case-rar-20",
+      "normalizedName": "twitch-icebreaker-2026-case-rare-20",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
       "wikiLink": "",

@@ -3130,7 +3130,7 @@
             },
             {
               "id": "5c0e722886f7740458316a57",
-              "name": "ANA Tactical M1 アーマーリグ (オリーブドラブ)"
+              "name": "ANA Tactical M1 アーマーリグ (オリーブドラブ グリーン)"
             },
             {
               "id": "6038b4ca92ec1c3103795a0d",
@@ -8307,11 +8307,11 @@
             },
             {
               "id": "56e0598dd2720bb5668b45a6",
-              "name": "PB 9x18PM 消音拳銃"
+              "name": "PB 9x18PM 消音ピストル"
             },
             {
               "id": "5a17f98cfcdbcb0980087290",
-              "name": "Stechkin APS 9x18PM 自動拳銃"
+              "name": "Stechkin APS 9x18PM マシンピストル"
             },
             {
               "id": "5448bd6b4bdc2dfc2f8b4569",
@@ -28575,7 +28575,7 @@
           {
             "item": {
               "id": "657089638db3adca1009f4ca",
-              "name": "Atomic Defense CQCM バリスティックマスク (Black)"
+              "name": "Atomic Defense CQCM バリスティックマスク (ブラック)"
             },
             "count": 3,
             "attributes": []
@@ -34192,7 +34192,7 @@
           {
             "item": {
               "id": "584149452459775992479702",
-              "name": "PB 9x18PM 消音拳銃 デフォルト"
+              "name": "PB 9x18PM 消音ピストル デフォルト"
             },
             "count": 1,
             "attributes": []
@@ -43456,7 +43456,7 @@
             },
             {
               "id": "5a17f98cfcdbcb0980087290",
-              "name": "Stechkin APS 9x18PM 自動拳銃"
+              "name": "Stechkin APS 9x18PM マシンピストル"
             },
             {
               "id": "56d59856d2720bd8418b456a",
@@ -43464,7 +43464,7 @@
             },
             {
               "id": "56e0598dd2720bb5668b45a6",
-              "name": "PB 9x18PM 消音拳銃"
+              "name": "PB 9x18PM 消音ピストル"
             },
             {
               "id": "59f98b4986f7746f546d2cef",
@@ -44232,7 +44232,7 @@
           {
             "item": {
               "id": "68ee0103b5db65191e0ec07c",
-              "name": "9.3x64mm 7N33 弾 弾薬パック ( 20 発)"
+              "name": "9.3x64mm 7N33 弾 弾薬パック (20 発)"
             },
             "count": 1,
             "attributes": []
@@ -62233,7 +62233,7 @@
             "level": 4,
             "item": {
               "id": "657089638db3adca1009f4ca",
-              "name": "Atomic Defense CQCM バリスティックマスク (Black)"
+              "name": "Atomic Defense CQCM バリスティックマスク (ブラック)"
             }
           }
         ],
@@ -67180,20 +67180,8 @@
           "optional": false,
           "maps": [
             {
-              "id": "56f40101d2720b2a4d8b45d6",
-              "name": "Customs"
-            },
-            {
-              "id": "5704e3c2d2720bac5b8b4567",
-              "name": "Woods"
-            },
-            {
               "id": "5704e4dad2720bb55b8b4567",
               "name": "Lighthouse"
-            },
-            {
-              "id": "5704e554d2720bac5b8b456e",
-              "name": "Shoreline"
             },
             {
               "id": "69af492a4819ea4ba10a69c5",
@@ -67223,20 +67211,8 @@
           "optional": false,
           "maps": [
             {
-              "id": "56f40101d2720b2a4d8b45d6",
-              "name": "Customs"
-            },
-            {
-              "id": "5704e3c2d2720bac5b8b4567",
-              "name": "Woods"
-            },
-            {
               "id": "5704e4dad2720bb55b8b4567",
               "name": "Lighthouse"
-            },
-            {
-              "id": "5704e554d2720bac5b8b456e",
-              "name": "Shoreline"
             }
           ],
           "target": "Big Pipe",
@@ -67262,20 +67238,8 @@
           "optional": false,
           "maps": [
             {
-              "id": "56f40101d2720b2a4d8b45d6",
-              "name": "Customs"
-            },
-            {
-              "id": "5704e3c2d2720bac5b8b4567",
-              "name": "Woods"
-            },
-            {
               "id": "5704e4dad2720bb55b8b4567",
               "name": "Lighthouse"
-            },
-            {
-              "id": "5704e554d2720bac5b8b456e",
-              "name": "Shoreline"
             }
           ],
           "target": "Birdeye",
@@ -68692,7 +68656,7 @@
             },
             {
               "id": "5c0e722886f7740458316a57",
-              "name": "ANA Tactical M1 アーマーリグ (オリーブドラブ)"
+              "name": "ANA Tactical M1 アーマーリグ (オリーブドラブ グリーン)"
             },
             {
               "id": "5b44cad286f77402a54ae7e5",
@@ -68776,7 +68740,7 @@
             },
             {
               "id": "657089638db3adca1009f4ca",
-              "name": "Atomic Defense CQCM バリスティックマスク (Black)"
+              "name": "Atomic Defense CQCM バリスティックマスク (ブラック)"
             },
             {
               "id": "68a9b873a4b28d56c80a1818",
@@ -75256,7 +75220,7 @@
             },
             {
               "id": "5c0e722886f7740458316a57",
-              "name": "ANA Tactical M1 アーマーリグ (オリーブドラブ)"
+              "name": "ANA Tactical M1 アーマーリグ (オリーブドラブ グリーン)"
             },
             {
               "id": "6038b4ca92ec1c3103795a0d",
@@ -75512,7 +75476,7 @@
             },
             {
               "id": "657089638db3adca1009f4ca",
-              "name": "Atomic Defense CQCM バリスティックマスク (Black)"
+              "name": "Atomic Defense CQCM バリスティックマスク (ブラック)"
             },
             {
               "id": "6570aead4d84f81fd002a033",
