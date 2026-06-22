@@ -1692,7 +1692,6 @@
       "finishRewards": {
         "skillLevelReward": [],
         "traderUnlock": [],
-        "craftUnlock": [],
         "traderStanding": [
           {
             "standing": 0.02,
@@ -1751,7 +1750,8 @@
               "name": "Mosin Rifle AIM Sports リコイルパッド"
             }
           }
-        ]
+        ],
+        "craftUnlock": []
       }
     },
     {
@@ -26976,7 +26976,7 @@
         ],
         "craftUnlock": [
           {
-            "id": "66509e8c9398c9c9e10a31bb",
+            "id": "6671d4fef3bee343f5000703",
             "level": 2,
             "station": {
               "id": "5d484fcd654e7668ec2ec322",
@@ -49101,6 +49101,166 @@
       }
     },
     {
+      "id": "6761f28a022f60bb320f3e95",
+      "name": "New Beginning",
+      "normalizedName": "new-beginning",
+      "experience": 10000,
+      "minPlayerLevel": 25,
+      "kappaRequired": false,
+      "lightkeeperRequired": false,
+      "taskRequirements": [],
+      "traderLevelRequirements": [],
+      "factionName": "Any",
+      "neededKeys": null,
+      "trader": {
+        "id": "5ac3b934156ae10c4430e83c",
+        "name": "Ragman"
+      },
+      "map": {
+        "id": "5b0fc42d86f7744a585f9105",
+        "name": "The Lab",
+        "normalizedName": "the-lab"
+      },
+      "startRewards": {
+        "traderStanding": [],
+        "items": [],
+        "offerUnlock": [],
+        "skillLevelReward": [],
+        "traderUnlock": [],
+        "craftUnlock": []
+      },
+      "objectives": [
+        {
+          "id": "6761f93bc757eb8c228fa754",
+          "type": "shoot",
+          "description": "Eliminate Scavs",
+          "optional": false,
+          "maps": [],
+          "target": "Scavs",
+          "count": 50,
+          "shotType": "kill",
+          "zoneNames": [],
+          "bodyParts": [],
+          "usingWeapon": [],
+          "usingWeaponMods": [],
+          "wearing": [],
+          "notWearing": [],
+          "distance": null,
+          "playerHealthEffect": null,
+          "enemyHealthEffect": null
+        },
+        {
+          "id": "6848100b00afffa81f09e36b",
+          "type": "extract",
+          "description": "The Lab から Streets of Tarkov に Transit する",
+          "optional": false,
+          "exitStatus": [
+            "生還"
+          ],
+          "exitName": null,
+          "maps": [
+            {
+              "id": "5b0fc42d86f7744a585f9105",
+              "name": "The Lab"
+            }
+          ]
+        },
+        {
+          "id": "6761f6f1bacf72169272e381",
+          "type": "giveItem",
+          "description": "Hand over the item: BEAR operative figurine",
+          "optional": false,
+          "maps": [],
+          "count": 1,
+          "foundInRaid": false,
+          "dogTagLevel": 0,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "item": {
+            "id": "655c652d60d0ac437100fed7",
+            "name": "BEAR operative figurine",
+            "shortName": "BEAR"
+          }
+        },
+        {
+          "id": "6761f7d086fd2d9c941b8aa3",
+          "type": "giveItem",
+          "description": "Hand over the item: Politician Mutkevich figurine",
+          "optional": false,
+          "maps": [],
+          "count": 1,
+          "foundInRaid": false,
+          "dogTagLevel": 0,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "item": {
+            "id": "655c673673a43e23e857aebd",
+            "name": "Scav figurine",
+            "shortName": "Scav"
+          }
+        },
+        {
+          "id": "6761f7f87b309912d6b5f2a9",
+          "type": "giveItem",
+          "description": "Hand over the item: Killa figurine",
+          "optional": false,
+          "maps": [],
+          "count": 1,
+          "foundInRaid": false,
+          "dogTagLevel": 0,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "item": {
+            "id": "66572c82ad599021091c6118",
+            "name": "Killa figurine",
+            "shortName": "Killa"
+          }
+        },
+        {
+          "id": "6761f87227aeff895cef62c5",
+          "type": "giveItem",
+          "description": "Hand over the item: Den figurine",
+          "optional": false,
+          "maps": [],
+          "count": 1,
+          "foundInRaid": false,
+          "dogTagLevel": 0,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "item": {
+            "id": "68f25c64b2b53abd200b954f",
+            "name": "Prapor figurine",
+            "shortName": "Prapor"
+          }
+        }
+      ],
+      "finishRewards": {
+        "offerUnlock": [],
+        "skillLevelReward": [],
+        "traderUnlock": [],
+        "craftUnlock": [],
+        "traderStanding": [
+          {
+            "standing": 0.01,
+            "trader": {
+              "id": "5ac3b934156ae10c4430e83c",
+              "name": "Ragman"
+            }
+          }
+        ],
+        "items": [
+          {
+            "count": 100000,
+            "attributes": [],
+            "item": {
+              "id": "5449016a4bdc2d6f028b456f",
+              "name": "ルーブル紙幣"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "5b4794cb86f774598100d5d4",
       "name": "Lend-Lease - Part 1",
       "normalizedName": "lend-lease-part-1",
@@ -56324,6 +56484,166 @@
       }
     },
     {
+      "id": "6761ff17cdc36bd66102e9d0",
+      "name": "New Beginning",
+      "normalizedName": "new-beginning-2",
+      "experience": 11000,
+      "minPlayerLevel": 30,
+      "kappaRequired": false,
+      "lightkeeperRequired": false,
+      "taskRequirements": [],
+      "traderLevelRequirements": [],
+      "factionName": "Any",
+      "neededKeys": null,
+      "trader": {
+        "id": "5ac3b934156ae10c4430e83c",
+        "name": "Ragman"
+      },
+      "map": {
+        "id": "5b0fc42d86f7744a585f9105",
+        "name": "The Lab",
+        "normalizedName": "the-lab"
+      },
+      "startRewards": {
+        "traderStanding": [],
+        "items": [],
+        "offerUnlock": [],
+        "skillLevelReward": [],
+        "traderUnlock": [],
+        "craftUnlock": []
+      },
+      "objectives": [
+        {
+          "id": "6762015739c53fca8ac51336",
+          "type": "shoot",
+          "description": "Eliminate PMC operatives",
+          "optional": false,
+          "maps": [],
+          "target": "任意のPMC",
+          "count": 10,
+          "shotType": "kill",
+          "zoneNames": [],
+          "bodyParts": [],
+          "usingWeapon": [],
+          "usingWeaponMods": [],
+          "wearing": [],
+          "notWearing": [],
+          "distance": null,
+          "playerHealthEffect": null,
+          "enemyHealthEffect": null
+        },
+        {
+          "id": "6761ff17cdc36bd66102e9d6",
+          "type": "extract",
+          "description": "Survive and extract from The Lab",
+          "optional": false,
+          "exitStatus": [
+            "生還"
+          ],
+          "exitName": null,
+          "maps": [
+            {
+              "id": "5b0fc42d86f7744a585f9105",
+              "name": "The Lab"
+            }
+          ]
+        },
+        {
+          "id": "6761ff17cdc36bd66102e9d8",
+          "type": "giveItem",
+          "description": "Hand over the found in raid item: BEAR operative figurine",
+          "optional": false,
+          "maps": [],
+          "count": 2,
+          "foundInRaid": true,
+          "dogTagLevel": 0,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "item": {
+            "id": "655c652d60d0ac437100fed7",
+            "name": "BEAR operative figurine",
+            "shortName": "BEAR"
+          }
+        },
+        {
+          "id": "6761ff17cdc36bd66102e9d9",
+          "type": "giveItem",
+          "description": "Hand over the found in raid item: Politician Mutkevich figurine",
+          "optional": false,
+          "maps": [],
+          "count": 2,
+          "foundInRaid": true,
+          "dogTagLevel": 0,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "item": {
+            "id": "655c673673a43e23e857aebd",
+            "name": "Scav figurine",
+            "shortName": "Scav"
+          }
+        },
+        {
+          "id": "6761ff17cdc36bd66102e9da",
+          "type": "giveItem",
+          "description": "Hand over the found in raid item: Killa figurine",
+          "optional": false,
+          "maps": [],
+          "count": 2,
+          "foundInRaid": true,
+          "dogTagLevel": 0,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "item": {
+            "id": "66572c82ad599021091c6118",
+            "name": "Killa figurine",
+            "shortName": "Killa"
+          }
+        },
+        {
+          "id": "6761ff17cdc36bd66102e9e1",
+          "type": "giveItem",
+          "description": "Hand over the found in raid item: Den figurine",
+          "optional": false,
+          "maps": [],
+          "count": 2,
+          "foundInRaid": true,
+          "dogTagLevel": 0,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "item": {
+            "id": "68f25c64b2b53abd200b954f",
+            "name": "Prapor figurine",
+            "shortName": "Prapor"
+          }
+        }
+      ],
+      "finishRewards": {
+        "offerUnlock": [],
+        "skillLevelReward": [],
+        "traderUnlock": [],
+        "craftUnlock": [],
+        "traderStanding": [
+          {
+            "standing": 0.01,
+            "trader": {
+              "id": "5ac3b934156ae10c4430e83c",
+              "name": "Ragman"
+            }
+          }
+        ],
+        "items": [
+          {
+            "count": 200000,
+            "attributes": [],
+            "item": {
+              "id": "5449016a4bdc2d6f028b456f",
+              "name": "ルーブル紙幣"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "6179b5eabca27a099552e052",
       "name": "Counteraction",
       "normalizedName": "counteraction-usec",
@@ -57278,39 +57598,6 @@
           }
         }
       ],
-      "finishRewards": {
-        "offerUnlock": [],
-        "skillLevelReward": [],
-        "traderUnlock": [],
-        "craftUnlock": [],
-        "traderStanding": [
-          {
-            "standing": 0.05,
-            "trader": {
-              "id": "58330581ace78e27b8b10cee",
-              "name": "Skier"
-            }
-          }
-        ],
-        "items": [
-          {
-            "count": 100000,
-            "attributes": [],
-            "item": {
-              "id": "5449016a4bdc2d6f028b456f",
-              "name": "ルーブル紙幣"
-            }
-          },
-          {
-            "count": 1,
-            "attributes": [],
-            "item": {
-              "id": "60b7c2bd95047637182d90a4",
-              "name": "MP-155 12ga セミオートショットガン Ultima"
-            }
-          }
-        ]
-      },
       "objectives": [
         {
           "id": "5c0bc95086f7746e784f39ec",
@@ -57472,7 +57759,40 @@
             ]
           ]
         }
-      ]
+      ],
+      "finishRewards": {
+        "offerUnlock": [],
+        "skillLevelReward": [],
+        "traderUnlock": [],
+        "traderStanding": [
+          {
+            "standing": 0.05,
+            "trader": {
+              "id": "58330581ace78e27b8b10cee",
+              "name": "Skier"
+            }
+          }
+        ],
+        "items": [
+          {
+            "count": 100000,
+            "attributes": [],
+            "item": {
+              "id": "5449016a4bdc2d6f028b456f",
+              "name": "ルーブル紙幣"
+            }
+          },
+          {
+            "count": 1,
+            "attributes": [],
+            "item": {
+              "id": "60b7c2bd95047637182d90a4",
+              "name": "MP-155 12ga セミオートショットガン Ultima"
+            }
+          }
+        ],
+        "craftUnlock": []
+      }
     },
     {
       "id": "5c0d0f1886f77457b8210226",
@@ -62031,7 +62351,6 @@
       "finishRewards": {
         "skillLevelReward": [],
         "traderUnlock": [],
-        "craftUnlock": [],
         "traderStanding": [
           {
             "standing": 0.01,
@@ -62063,7 +62382,8 @@
               "name": "マイコンボード"
             }
           }
-        ]
+        ],
+        "craftUnlock": []
       }
     },
     {
@@ -62568,7 +62888,6 @@
         "offerUnlock": [],
         "skillLevelReward": [],
         "traderUnlock": [],
-        "craftUnlock": [],
         "traderStanding": [
           {
             "standing": 0.03,
@@ -62587,7 +62906,8 @@
               "name": "シリコン光電子集積回路の教本"
             }
           }
-        ]
+        ],
+        "craftUnlock": []
       }
     },
     {
@@ -65022,6 +65342,205 @@
             "trader": {
               "id": "5a7c2eca46aef81a7ca2145d",
               "name": "Mechanic"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "6848100b00afffa81f09e365",
+      "name": "New Beginning",
+      "normalizedName": "new-beginning-3",
+      "map": null,
+      "experience": 11000,
+      "minPlayerLevel": 35,
+      "kappaRequired": false,
+      "lightkeeperRequired": false,
+      "taskRequirements": [],
+      "traderLevelRequirements": [],
+      "factionName": "Any",
+      "neededKeys": null,
+      "trader": {
+        "id": "5ac3b934156ae10c4430e83c",
+        "name": "Ragman"
+      },
+      "startRewards": {
+        "traderStanding": [],
+        "items": [],
+        "offerUnlock": [],
+        "skillLevelReward": [],
+        "traderUnlock": [],
+        "craftUnlock": []
+      },
+      "objectives": [
+        {
+          "id": "6848100b00afffa81f09e369",
+          "type": "shoot",
+          "description": "PMC をキルする",
+          "optional": false,
+          "maps": [],
+          "target": "任意のPMC",
+          "count": 15,
+          "shotType": "kill",
+          "zoneNames": [],
+          "bodyParts": [],
+          "usingWeapon": [],
+          "usingWeaponMods": [],
+          "wearing": [],
+          "notWearing": [],
+          "distance": null,
+          "playerHealthEffect": null,
+          "enemyHealthEffect": null
+        },
+        {
+          "id": "684812156189183883f13947",
+          "type": "shoot",
+          "description": "レイダー を殺す",
+          "optional": false,
+          "maps": [],
+          "target": "レイダー",
+          "count": 20,
+          "shotType": "kill",
+          "zoneNames": [],
+          "bodyParts": [],
+          "usingWeapon": [],
+          "usingWeaponMods": [],
+          "wearing": [],
+          "notWearing": [],
+          "distance": null,
+          "playerHealthEffect": null,
+          "enemyHealthEffect": null
+        },
+        {
+          "id": "6848100b00afffa81f09e36b",
+          "type": "extract",
+          "description": "The Lab から Streets of Tarkov に Transit する",
+          "optional": false,
+          "exitStatus": [],
+          "exitName": null,
+          "maps": [
+            {
+              "id": "5b0fc42d86f7744a585f9105",
+              "name": "The Lab"
+            },
+            {
+              "id": "5714dc692459777137212e12",
+              "name": "Streets of Tarkov"
+            }
+          ]
+        },
+        {
+          "id": "6848116061809d65b8503617",
+          "type": "extract",
+          "description": "Streets of Tarkov から生還する",
+          "optional": false,
+          "exitStatus": [],
+          "exitName": null,
+          "maps": [
+            {
+              "id": "5714dc692459777137212e12",
+              "name": "Streets of Tarkov"
+            }
+          ]
+        },
+        {
+          "id": "6848100b00afffa81f09e36d",
+          "type": "giveItem",
+          "description": "レイド中に見つけた BEAR operative figurine を渡す",
+          "optional": false,
+          "maps": [],
+          "count": 3,
+          "foundInRaid": true,
+          "dogTagLevel": 0,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "item": {
+            "id": "655c652d60d0ac437100fed7",
+            "name": "BEAR operative figurine",
+            "shortName": "BEAR"
+          }
+        },
+        {
+          "id": "6848100b00afffa81f09e36e",
+          "type": "giveItem",
+          "description": "レイド中に見つけた Politician Mutkevich figurine を渡す",
+          "optional": false,
+          "maps": [],
+          "count": 3,
+          "foundInRaid": true,
+          "dogTagLevel": 0,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "item": {
+            "id": "655c673673a43e23e857aebd",
+            "name": "Scav figurine",
+            "shortName": "Scav"
+          }
+        },
+        {
+          "id": "6848100b00afffa81f09e36f",
+          "type": "giveItem",
+          "description": "レイド中に見つけた Killa figurine を渡す",
+          "optional": false,
+          "maps": [],
+          "count": 3,
+          "foundInRaid": true,
+          "dogTagLevel": 0,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "item": {
+            "id": "66572c82ad599021091c6118",
+            "name": "Killa figurine",
+            "shortName": "Killa"
+          }
+        },
+        {
+          "id": "6848100b00afffa81f09e376",
+          "type": "giveItem",
+          "description": "レイド中に見つけた Den figurine を渡す",
+          "optional": false,
+          "maps": [],
+          "count": 3,
+          "foundInRaid": true,
+          "dogTagLevel": 0,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "item": {
+            "id": "68f25c64b2b53abd200b954f",
+            "name": "Prapor figurine",
+            "shortName": "Prapor"
+          }
+        }
+      ],
+      "finishRewards": {
+        "offerUnlock": [],
+        "skillLevelReward": [],
+        "traderUnlock": [],
+        "craftUnlock": [],
+        "traderStanding": [
+          {
+            "standing": 0.01,
+            "trader": {
+              "id": "5ac3b934156ae10c4430e83c",
+              "name": "Ragman"
+            }
+          }
+        ],
+        "items": [
+          {
+            "count": 2000000,
+            "attributes": [],
+            "item": {
+              "id": "5449016a4bdc2d6f028b456f",
+              "name": "ルーブル紙幣"
+            }
+          },
+          {
+            "count": 2,
+            "attributes": [],
+            "item": {
+              "id": "59faff1d86f7746c51718c9c",
+              "name": "ビットコインの金貨"
             }
           }
         ]
@@ -70211,6 +70730,223 @@
             "item": {
               "id": "64cbdff43ccb85468628d5fc",
               "name": "Kalashnikov PKM 7.62x54R マシンガン デフォルト"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "68481881f43abfdda2058369",
+      "name": "New Beginning",
+      "normalizedName": "new-beginning-4",
+      "map": null,
+      "experience": 11000,
+      "minPlayerLevel": 40,
+      "kappaRequired": false,
+      "lightkeeperRequired": false,
+      "taskRequirements": [],
+      "traderLevelRequirements": [],
+      "factionName": "Any",
+      "neededKeys": null,
+      "trader": {
+        "id": "5ac3b934156ae10c4430e83c",
+        "name": "Ragman"
+      },
+      "startRewards": {
+        "traderStanding": [],
+        "items": [],
+        "offerUnlock": [],
+        "skillLevelReward": [],
+        "traderUnlock": [],
+        "craftUnlock": []
+      },
+      "objectives": [
+        {
+          "id": "68481881f43abfdda205836d",
+          "type": "shoot",
+          "description": "PMC を殺す",
+          "optional": false,
+          "maps": [],
+          "target": "任意のPMC",
+          "count": 20,
+          "shotType": "kill",
+          "zoneNames": [],
+          "bodyParts": [],
+          "usingWeapon": [],
+          "usingWeaponMods": [],
+          "wearing": [],
+          "notWearing": [],
+          "distance": null,
+          "playerHealthEffect": null,
+          "enemyHealthEffect": null
+        },
+        {
+          "id": "68481a8eda10b760b3b1a73f",
+          "type": "shoot",
+          "description": "Rogues を殺す",
+          "optional": false,
+          "maps": [],
+          "target": "ローグ",
+          "count": 30,
+          "shotType": "kill",
+          "zoneNames": [],
+          "bodyParts": [],
+          "usingWeapon": [],
+          "usingWeaponMods": [],
+          "wearing": [],
+          "notWearing": [],
+          "distance": null,
+          "playerHealthEffect": null,
+          "enemyHealthEffect": null
+        },
+        {
+          "id": "68481881f43abfdda205836f",
+          "type": "extract",
+          "description": "The Lab から Streets of Tarkov へ Transit する",
+          "optional": false,
+          "exitStatus": [],
+          "exitName": null,
+          "maps": [
+            {
+              "id": "5b0fc42d86f7744a585f9105",
+              "name": "The Lab"
+            },
+            {
+              "id": "5714dc692459777137212e12",
+              "name": "Streets of Tarkov"
+            }
+          ]
+        },
+        {
+          "id": "68483a05801f8d9e40ac05b1",
+          "type": "extract",
+          "description": "Streets of Tarkov からInterchange への Transit を使用する",
+          "optional": false,
+          "exitStatus": [],
+          "exitName": null,
+          "maps": [
+            {
+              "id": "5714dc692459777137212e12",
+              "name": "Streets of Tarkov"
+            },
+            {
+              "id": "5714dbc024597771384a510d",
+              "name": "Interchange"
+            }
+          ]
+        },
+        {
+          "id": "68486a0eda4828c0772e337b",
+          "type": "extract",
+          "description": "いずれかの limited Labyrinth figurines を渡す",
+          "optional": false,
+          "exitStatus": [],
+          "exitName": null,
+          "maps": [
+            {
+              "id": "5714dbc024597771384a510d",
+              "name": "Interchange"
+            }
+          ]
+        },
+        {
+          "id": "68481881f43abfdda2058371",
+          "type": "giveItem",
+          "description": "レイド中に見つけた BEAR operative figurine を渡す",
+          "optional": false,
+          "maps": [],
+          "count": 3,
+          "foundInRaid": true,
+          "dogTagLevel": 0,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "item": {
+            "id": "655c652d60d0ac437100fed7",
+            "name": "BEAR operative figurine",
+            "shortName": "BEAR"
+          }
+        },
+        {
+          "id": "68481881f43abfdda2058372",
+          "type": "giveItem",
+          "description": "レイド中に見つけた Politician Mutkevich figurine を渡す",
+          "optional": false,
+          "maps": [],
+          "count": 3,
+          "foundInRaid": true,
+          "dogTagLevel": 0,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "item": {
+            "id": "655c673673a43e23e857aebd",
+            "name": "Scav figurine",
+            "shortName": "Scav"
+          }
+        },
+        {
+          "id": "68481881f43abfdda2058373",
+          "type": "giveItem",
+          "description": "レイド中に見つけた Killa figurine を渡す",
+          "optional": false,
+          "maps": [],
+          "count": 3,
+          "foundInRaid": true,
+          "dogTagLevel": 0,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "item": {
+            "id": "66572c82ad599021091c6118",
+            "name": "Killa figurine",
+            "shortName": "Killa"
+          }
+        },
+        {
+          "id": "68481881f43abfdda205837a",
+          "type": "giveItem",
+          "description": "レイド中に見つけた Den figurine を渡す",
+          "optional": false,
+          "maps": [],
+          "count": 3,
+          "foundInRaid": true,
+          "dogTagLevel": 0,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "item": {
+            "id": "68f25c64b2b53abd200b954f",
+            "name": "Prapor figurine",
+            "shortName": "Prapor"
+          }
+        }
+      ],
+      "finishRewards": {
+        "offerUnlock": [],
+        "skillLevelReward": [],
+        "traderUnlock": [],
+        "craftUnlock": [],
+        "traderStanding": [
+          {
+            "standing": 0.01,
+            "trader": {
+              "id": "5ac3b934156ae10c4430e83c",
+              "name": "Ragman"
+            }
+          }
+        ],
+        "items": [
+          {
+            "count": 3000000,
+            "attributes": [],
+            "item": {
+              "id": "5449016a4bdc2d6f028b456f",
+              "name": "ルーブル紙幣"
+            }
+          },
+          {
+            "count": 3,
+            "attributes": [],
+            "item": {
+              "id": "59faff1d86f7746c51718c9c",
+              "name": "ビットコインの金貨"
             }
           }
         ]
@@ -75938,1128 +76674,6 @@
       }
     },
     {
-      "id": "6761f28a022f60bb320f3e95",
-      "name": "New Beginning",
-      "normalizedName": "new-beginning",
-      "experience": 10000,
-      "minPlayerLevel": 55,
-      "kappaRequired": false,
-      "lightkeeperRequired": false,
-      "taskRequirements": [],
-      "traderLevelRequirements": [],
-      "factionName": "Any",
-      "neededKeys": null,
-      "trader": {
-        "id": "5ac3b934156ae10c4430e83c",
-        "name": "Ragman"
-      },
-      "map": {
-        "id": "5b0fc42d86f7744a585f9105",
-        "name": "The Lab",
-        "normalizedName": "the-lab"
-      },
-      "startRewards": {
-        "traderStanding": [],
-        "items": [],
-        "offerUnlock": [],
-        "skillLevelReward": [],
-        "traderUnlock": [],
-        "craftUnlock": []
-      },
-      "objectives": [
-        {
-          "id": "6848100b00afffa81f09e36b",
-          "type": "extract",
-          "description": "The Lab から Streets of Tarkov に Transit する",
-          "optional": false,
-          "exitStatus": [
-            "生還"
-          ],
-          "exitName": null,
-          "maps": [
-            {
-              "id": "5b0fc42d86f7744a585f9105",
-              "name": "The Lab"
-            }
-          ]
-        },
-        {
-          "id": "6761f93bc757eb8c228fa754",
-          "type": "shoot",
-          "description": "Eliminate Scavs",
-          "optional": false,
-          "maps": [],
-          "target": "Scavs",
-          "count": 50,
-          "shotType": "kill",
-          "zoneNames": [],
-          "bodyParts": [],
-          "usingWeapon": [],
-          "usingWeaponMods": [],
-          "wearing": [],
-          "notWearing": [],
-          "distance": null,
-          "playerHealthEffect": null,
-          "enemyHealthEffect": null
-        },
-        {
-          "id": "6761f6f1bacf72169272e381",
-          "type": "giveItem",
-          "description": "Hand over the item: BEAR operative figurine",
-          "optional": false,
-          "maps": [],
-          "count": 1,
-          "foundInRaid": false,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "item": {
-            "id": "655c652d60d0ac437100fed7",
-            "name": "BEAR operative figurine",
-            "shortName": "BEAR"
-          }
-        },
-        {
-          "id": "6761f7d086fd2d9c941b8aa3",
-          "type": "giveItem",
-          "description": "Hand over the item: Politician Mutkevich figurine",
-          "optional": false,
-          "maps": [],
-          "count": 1,
-          "foundInRaid": false,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "item": {
-            "id": "655c66e40b2de553b618d4b8",
-            "name": "Politician Mutkevich figurine",
-            "shortName": "Mutkevich"
-          }
-        },
-        {
-          "id": "6761f7f87b309912d6b5f2a9",
-          "type": "giveItem",
-          "description": "Hand over the item: Killa figurine",
-          "optional": false,
-          "maps": [],
-          "count": 1,
-          "foundInRaid": false,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "item": {
-            "id": "66572c82ad599021091c6118",
-            "name": "Killa figurine",
-            "shortName": "Killa"
-          }
-        },
-        {
-          "id": "6761f80838201b0588f39a07",
-          "type": "giveItem",
-          "description": "Hand over the item: Reshala figurine",
-          "optional": false,
-          "maps": [],
-          "count": 1,
-          "foundInRaid": false,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "item": {
-            "id": "66572be36a723f7f005a066e",
-            "name": "Reshala figurine",
-            "shortName": "Reshala"
-          }
-        },
-        {
-          "id": "6761f817d42b2f3a242de658",
-          "type": "giveItem",
-          "description": "Hand over the item: Ryzhy figurine",
-          "optional": false,
-          "maps": [],
-          "count": 1,
-          "foundInRaid": false,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "item": {
-            "id": "655c67782a1356436041c9c5",
-            "name": "Ryzhy figurine",
-            "shortName": "Ryzhy"
-          }
-        },
-        {
-          "id": "6761f826d5b89d2d15b53eca",
-          "type": "giveItem",
-          "description": "Hand over the item: Scav figurine",
-          "optional": false,
-          "maps": [],
-          "count": 1,
-          "foundInRaid": false,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "item": {
-            "id": "655c673673a43e23e857aebd",
-            "name": "Scav figurine",
-            "shortName": "Scav"
-          }
-        },
-        {
-          "id": "6761f838d641d60f18a45e1f",
-          "type": "giveItem",
-          "description": "Hand over the item: Tagilla figurine",
-          "optional": false,
-          "maps": [],
-          "count": 1,
-          "foundInRaid": false,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "item": {
-            "id": "66572cbdad599021091c611a",
-            "name": "Tagilla figurine",
-            "shortName": "Tagilla"
-          }
-        },
-        {
-          "id": "6761f85183d342080d39ca98",
-          "type": "giveItem",
-          "description": "Hand over the item: USEC operative figurine",
-          "optional": false,
-          "maps": [],
-          "count": 1,
-          "foundInRaid": false,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "item": {
-            "id": "655c663a6689c676ce57af85",
-            "name": "USEC operative figurine",
-            "shortName": "USEC"
-          }
-        },
-        {
-          "id": "6761f862c1ba6ee8e161d3d6",
-          "type": "giveItem",
-          "description": "Hand over the item: Cultist figurine",
-          "optional": false,
-          "maps": [],
-          "count": 1,
-          "foundInRaid": false,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "item": {
-            "id": "655c669103999d3c810c025b",
-            "name": "Cultist figurine",
-            "shortName": "Cultist"
-          }
-        },
-        {
-          "id": "6761f87227aeff895cef62c5",
-          "type": "giveItem",
-          "description": "Hand over the item: Den figurine",
-          "optional": false,
-          "maps": [],
-          "count": 1,
-          "foundInRaid": false,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "item": {
-            "id": "66572b8d80b1cd4b6a67847f",
-            "name": "Den figurine",
-            "shortName": "Den"
-          }
-        }
-      ],
-      "finishRewards": {
-        "offerUnlock": [],
-        "skillLevelReward": [],
-        "traderUnlock": [],
-        "craftUnlock": [],
-        "traderStanding": [
-          {
-            "standing": 0.01,
-            "trader": {
-              "id": "5ac3b934156ae10c4430e83c",
-              "name": "Ragman"
-            }
-          }
-        ],
-        "items": [
-          {
-            "count": 100000,
-            "attributes": [],
-            "item": {
-              "id": "5449016a4bdc2d6f028b456f",
-              "name": "ルーブル紙幣"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "6761ff17cdc36bd66102e9d0",
-      "name": "New Beginning",
-      "normalizedName": "new-beginning-2",
-      "experience": 11000,
-      "minPlayerLevel": 55,
-      "kappaRequired": false,
-      "lightkeeperRequired": false,
-      "taskRequirements": [],
-      "traderLevelRequirements": [],
-      "factionName": "Any",
-      "neededKeys": null,
-      "trader": {
-        "id": "5ac3b934156ae10c4430e83c",
-        "name": "Ragman"
-      },
-      "map": {
-        "id": "5b0fc42d86f7744a585f9105",
-        "name": "The Lab",
-        "normalizedName": "the-lab"
-      },
-      "startRewards": {
-        "traderStanding": [],
-        "items": [],
-        "offerUnlock": [],
-        "skillLevelReward": [],
-        "traderUnlock": [],
-        "craftUnlock": []
-      },
-      "objectives": [
-        {
-          "id": "6761f9d718fa62aac3264ff2",
-          "type": "extract",
-          "description": "Survive and extract from The Lab",
-          "optional": false,
-          "exitStatus": [
-            "生還"
-          ],
-          "exitName": null,
-          "maps": [
-            {
-              "id": "5b0fc42d86f7744a585f9105",
-              "name": "The Lab"
-            }
-          ]
-        },
-        {
-          "id": "6762015739c53fca8ac51336",
-          "type": "shoot",
-          "description": "Eliminate PMC operatives",
-          "optional": false,
-          "maps": [],
-          "target": "任意のPMC",
-          "count": 15,
-          "shotType": "kill",
-          "zoneNames": [],
-          "bodyParts": [],
-          "usingWeapon": [],
-          "usingWeaponMods": [],
-          "wearing": [],
-          "notWearing": [],
-          "distance": null,
-          "playerHealthEffect": null,
-          "enemyHealthEffect": null
-        },
-        {
-          "id": "6761ff17cdc36bd66102e9d8",
-          "type": "giveItem",
-          "description": "Hand over the found in raid item: BEAR operative figurine",
-          "optional": false,
-          "maps": [],
-          "count": 1,
-          "foundInRaid": true,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "item": {
-            "id": "655c652d60d0ac437100fed7",
-            "name": "BEAR operative figurine",
-            "shortName": "BEAR"
-          }
-        },
-        {
-          "id": "6761ff17cdc36bd66102e9d9",
-          "type": "giveItem",
-          "description": "Hand over the found in raid item: Politician Mutkevich figurine",
-          "optional": false,
-          "maps": [],
-          "count": 1,
-          "foundInRaid": true,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "item": {
-            "id": "655c66e40b2de553b618d4b8",
-            "name": "Politician Mutkevich figurine",
-            "shortName": "Mutkevich"
-          }
-        },
-        {
-          "id": "6761ff17cdc36bd66102e9da",
-          "type": "giveItem",
-          "description": "Hand over the found in raid item: Killa figurine",
-          "optional": false,
-          "maps": [],
-          "count": 1,
-          "foundInRaid": true,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "item": {
-            "id": "66572c82ad599021091c6118",
-            "name": "Killa figurine",
-            "shortName": "Killa"
-          }
-        },
-        {
-          "id": "6761ff17cdc36bd66102e9db",
-          "type": "giveItem",
-          "description": "Hand over the found in raid item: Reshala figurine",
-          "optional": false,
-          "maps": [],
-          "count": 1,
-          "foundInRaid": true,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "item": {
-            "id": "66572be36a723f7f005a066e",
-            "name": "Reshala figurine",
-            "shortName": "Reshala"
-          }
-        },
-        {
-          "id": "6761ff17cdc36bd66102e9dc",
-          "type": "giveItem",
-          "description": "Hand over the found in raid item: Ryzhy figurine",
-          "optional": false,
-          "maps": [],
-          "count": 1,
-          "foundInRaid": true,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "item": {
-            "id": "655c67782a1356436041c9c5",
-            "name": "Ryzhy figurine",
-            "shortName": "Ryzhy"
-          }
-        },
-        {
-          "id": "6761ff17cdc36bd66102e9dd",
-          "type": "giveItem",
-          "description": "Hand over the found in raid item: Scav figurine",
-          "optional": false,
-          "maps": [],
-          "count": 1,
-          "foundInRaid": true,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "item": {
-            "id": "655c673673a43e23e857aebd",
-            "name": "Scav figurine",
-            "shortName": "Scav"
-          }
-        },
-        {
-          "id": "6761ff17cdc36bd66102e9de",
-          "type": "giveItem",
-          "description": "Hand over the found in raid item: Tagilla figurine",
-          "optional": false,
-          "maps": [],
-          "count": 1,
-          "foundInRaid": true,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "item": {
-            "id": "66572cbdad599021091c611a",
-            "name": "Tagilla figurine",
-            "shortName": "Tagilla"
-          }
-        },
-        {
-          "id": "6761ff17cdc36bd66102e9df",
-          "type": "giveItem",
-          "description": "Hand over the found in raid item: USEC operative figurine",
-          "optional": false,
-          "maps": [],
-          "count": 1,
-          "foundInRaid": true,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "item": {
-            "id": "655c663a6689c676ce57af85",
-            "name": "USEC operative figurine",
-            "shortName": "USEC"
-          }
-        },
-        {
-          "id": "6761ff17cdc36bd66102e9e0",
-          "type": "giveItem",
-          "description": "Hand over the found in raid item: Cultist figurine",
-          "optional": false,
-          "maps": [],
-          "count": 1,
-          "foundInRaid": true,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "item": {
-            "id": "655c669103999d3c810c025b",
-            "name": "Cultist figurine",
-            "shortName": "Cultist"
-          }
-        },
-        {
-          "id": "6761ff17cdc36bd66102e9e1",
-          "type": "giveItem",
-          "description": "Hand over the found in raid item: Den figurine",
-          "optional": false,
-          "maps": [],
-          "count": 1,
-          "foundInRaid": true,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "item": {
-            "id": "66572b8d80b1cd4b6a67847f",
-            "name": "Den figurine",
-            "shortName": "Den"
-          }
-        }
-      ],
-      "finishRewards": {
-        "offerUnlock": [],
-        "skillLevelReward": [],
-        "traderUnlock": [],
-        "craftUnlock": [],
-        "traderStanding": [
-          {
-            "standing": 0.01,
-            "trader": {
-              "id": "5ac3b934156ae10c4430e83c",
-              "name": "Ragman"
-            }
-          }
-        ],
-        "items": [
-          {
-            "count": 200000,
-            "attributes": [],
-            "item": {
-              "id": "5449016a4bdc2d6f028b456f",
-              "name": "ルーブル紙幣"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "6848100b00afffa81f09e365",
-      "name": "New Beginning",
-      "normalizedName": "new-beginning-3",
-      "map": null,
-      "experience": 11000,
-      "minPlayerLevel": 55,
-      "kappaRequired": false,
-      "lightkeeperRequired": false,
-      "taskRequirements": [],
-      "traderLevelRequirements": [],
-      "factionName": "Any",
-      "neededKeys": null,
-      "trader": {
-        "id": "5ac3b934156ae10c4430e83c",
-        "name": "Ragman"
-      },
-      "startRewards": {
-        "traderStanding": [],
-        "items": [],
-        "offerUnlock": [],
-        "skillLevelReward": [],
-        "traderUnlock": [],
-        "craftUnlock": []
-      },
-      "objectives": [
-        {
-          "id": "6848100b00afffa81f09e369",
-          "type": "shoot",
-          "description": "PMC をキルする",
-          "optional": false,
-          "maps": [],
-          "target": "任意のPMC",
-          "count": 25,
-          "shotType": "kill",
-          "zoneNames": [],
-          "bodyParts": [],
-          "usingWeapon": [],
-          "usingWeaponMods": [],
-          "wearing": [],
-          "notWearing": [],
-          "distance": null,
-          "playerHealthEffect": null,
-          "enemyHealthEffect": null
-        },
-        {
-          "id": "684812156189183883f13947",
-          "type": "shoot",
-          "description": "レイダー を殺す",
-          "optional": false,
-          "maps": [],
-          "target": "レイダー",
-          "count": 50,
-          "shotType": "kill",
-          "zoneNames": [],
-          "bodyParts": [],
-          "usingWeapon": [],
-          "usingWeaponMods": [],
-          "wearing": [],
-          "notWearing": [],
-          "distance": null,
-          "playerHealthEffect": null,
-          "enemyHealthEffect": null
-        },
-        {
-          "id": "6848116061809d65b8503617",
-          "type": "extract",
-          "description": "Streets of Tarkov から生還する",
-          "optional": false,
-          "exitStatus": [
-            "ExpBonusmarathon Name"
-          ],
-          "exitName": null,
-          "maps": [
-            {
-              "id": "5714dc692459777137212e12",
-              "name": "Streets of Tarkov"
-            },
-            {
-              "id": "5714dc692459777137212e12",
-              "name": "Streets of Tarkov"
-            }
-          ]
-        },
-        {
-          "id": "6848100b00afffa81f09e36d",
-          "type": "giveItem",
-          "description": "レイド中に見つけた BEAR operative figurine を渡す",
-          "optional": false,
-          "maps": [],
-          "count": 1,
-          "foundInRaid": true,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "item": {
-            "id": "655c652d60d0ac437100fed7",
-            "name": "BEAR operative figurine",
-            "shortName": "BEAR"
-          }
-        },
-        {
-          "id": "6848100b00afffa81f09e36e",
-          "type": "giveItem",
-          "description": "レイド中に見つけた Politician Mutkevich figurine を渡す",
-          "optional": false,
-          "maps": [],
-          "count": 1,
-          "foundInRaid": true,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "item": {
-            "id": "655c66e40b2de553b618d4b8",
-            "name": "Politician Mutkevich figurine",
-            "shortName": "Mutkevich"
-          }
-        },
-        {
-          "id": "6848100b00afffa81f09e36f",
-          "type": "giveItem",
-          "description": "レイド中に見つけた Killa figurine を渡す",
-          "optional": false,
-          "maps": [],
-          "count": 1,
-          "foundInRaid": true,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "item": {
-            "id": "66572c82ad599021091c6118",
-            "name": "Killa figurine",
-            "shortName": "Killa"
-          }
-        },
-        {
-          "id": "6848100b00afffa81f09e370",
-          "type": "giveItem",
-          "description": "レイド中に見つけた Reshala figurine を渡す",
-          "optional": false,
-          "maps": [],
-          "count": 1,
-          "foundInRaid": true,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "item": {
-            "id": "66572be36a723f7f005a066e",
-            "name": "Reshala figurine",
-            "shortName": "Reshala"
-          }
-        },
-        {
-          "id": "6848100b00afffa81f09e371",
-          "type": "giveItem",
-          "description": "レイド中に見つけた Ryzhy figurine を渡す",
-          "optional": false,
-          "maps": [],
-          "count": 1,
-          "foundInRaid": true,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "item": {
-            "id": "655c67782a1356436041c9c5",
-            "name": "Ryzhy figurine",
-            "shortName": "Ryzhy"
-          }
-        },
-        {
-          "id": "6848100b00afffa81f09e372",
-          "type": "giveItem",
-          "description": "レイド中に見つけた Scav figurine を渡す",
-          "optional": false,
-          "maps": [],
-          "count": 1,
-          "foundInRaid": true,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "item": {
-            "id": "655c673673a43e23e857aebd",
-            "name": "Scav figurine",
-            "shortName": "Scav"
-          }
-        },
-        {
-          "id": "6848100b00afffa81f09e373",
-          "type": "giveItem",
-          "description": "レイド中に見つけた Tagilla figurine を渡す",
-          "optional": false,
-          "maps": [],
-          "count": 1,
-          "foundInRaid": true,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "item": {
-            "id": "66572cbdad599021091c611a",
-            "name": "Tagilla figurine",
-            "shortName": "Tagilla"
-          }
-        },
-        {
-          "id": "6848100b00afffa81f09e374",
-          "type": "giveItem",
-          "description": "レイド中に見つけた USEC operative figurine を渡す",
-          "optional": false,
-          "maps": [],
-          "count": 1,
-          "foundInRaid": true,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "item": {
-            "id": "655c663a6689c676ce57af85",
-            "name": "USEC operative figurine",
-            "shortName": "USEC"
-          }
-        },
-        {
-          "id": "6848100b00afffa81f09e375",
-          "type": "giveItem",
-          "description": "レイド中に見つけた Cultist figurine を渡す",
-          "optional": false,
-          "maps": [],
-          "count": 1,
-          "foundInRaid": true,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "item": {
-            "id": "655c669103999d3c810c025b",
-            "name": "Cultist figurine",
-            "shortName": "Cultist"
-          }
-        },
-        {
-          "id": "6848100b00afffa81f09e376",
-          "type": "giveItem",
-          "description": "レイド中に見つけた Den figurine を渡す",
-          "optional": false,
-          "maps": [],
-          "count": 1,
-          "foundInRaid": true,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "item": {
-            "id": "66572b8d80b1cd4b6a67847f",
-            "name": "Den figurine",
-            "shortName": "Den"
-          }
-        }
-      ],
-      "finishRewards": {
-        "offerUnlock": [],
-        "skillLevelReward": [],
-        "traderUnlock": [],
-        "craftUnlock": [],
-        "traderStanding": [
-          {
-            "standing": 0.01,
-            "trader": {
-              "id": "5ac3b934156ae10c4430e83c",
-              "name": "Ragman"
-            }
-          }
-        ],
-        "items": [
-          {
-            "count": 2000000,
-            "attributes": [],
-            "item": {
-              "id": "5449016a4bdc2d6f028b456f",
-              "name": "ルーブル紙幣"
-            }
-          },
-          {
-            "count": 2,
-            "attributes": [],
-            "item": {
-              "id": "59faff1d86f7746c51718c9c",
-              "name": "ビットコインの金貨"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "68481881f43abfdda2058369",
-      "name": "New Beginning",
-      "normalizedName": "new-beginning-4",
-      "map": null,
-      "experience": 11000,
-      "minPlayerLevel": 55,
-      "kappaRequired": false,
-      "lightkeeperRequired": false,
-      "taskRequirements": [],
-      "traderLevelRequirements": [],
-      "factionName": "Any",
-      "neededKeys": null,
-      "trader": {
-        "id": "5ac3b934156ae10c4430e83c",
-        "name": "Ragman"
-      },
-      "startRewards": {
-        "traderStanding": [],
-        "items": [],
-        "offerUnlock": [],
-        "skillLevelReward": [],
-        "traderUnlock": [],
-        "craftUnlock": []
-      },
-      "objectives": [
-        {
-          "id": "68481881f43abfdda205836d",
-          "type": "shoot",
-          "description": "PMC を殺す",
-          "optional": false,
-          "maps": [],
-          "target": "任意のPMC",
-          "count": 40,
-          "shotType": "kill",
-          "zoneNames": [],
-          "bodyParts": [],
-          "usingWeapon": [],
-          "usingWeaponMods": [],
-          "wearing": [],
-          "notWearing": [],
-          "distance": null,
-          "playerHealthEffect": null,
-          "enemyHealthEffect": null
-        },
-        {
-          "id": "68481a8eda10b760b3b1a73f",
-          "type": "shoot",
-          "description": "Rogues を殺す",
-          "optional": false,
-          "maps": [],
-          "target": "ローグ",
-          "count": 100,
-          "shotType": "kill",
-          "zoneNames": [],
-          "bodyParts": [],
-          "usingWeapon": [],
-          "usingWeaponMods": [],
-          "wearing": [],
-          "notWearing": [],
-          "distance": null,
-          "playerHealthEffect": null,
-          "enemyHealthEffect": null
-        },
-        {
-          "id": "68481881f43abfdda205836f",
-          "type": "extract",
-          "description": "The Lab から Streets of Tarkov へ Transit する",
-          "optional": false,
-          "exitStatus": [
-            "ExpBonusmarathon Name"
-          ],
-          "exitName": null,
-          "maps": [
-            {
-              "id": "5714dc692459777137212e12",
-              "name": "Streets of Tarkov"
-            },
-            {
-              "id": "5714dc692459777137212e12",
-              "name": "Streets of Tarkov"
-            }
-          ]
-        },
-        {
-          "id": "68483a05801f8d9e40ac05b1",
-          "type": "extract",
-          "description": "Streets of Tarkov からInterchange への Transit を使用する",
-          "optional": false,
-          "exitStatus": [
-            "ExpBonusmarathon Name"
-          ],
-          "exitName": null,
-          "maps": [
-            {
-              "id": "5714dc692459777137212e12",
-              "name": "Streets of Tarkov"
-            },
-            {
-              "id": "5714dbc024597771384a510d",
-              "name": "Interchange"
-            }
-          ]
-        },
-        {
-          "id": "68481881f43abfdda2058371",
-          "type": "giveItem",
-          "description": "レイド中に見つけた BEAR operative figurine を渡す",
-          "optional": false,
-          "maps": [],
-          "count": 1,
-          "foundInRaid": true,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "item": {
-            "id": "655c652d60d0ac437100fed7",
-            "name": "BEAR operative figurine",
-            "shortName": "BEAR"
-          }
-        },
-        {
-          "id": "68481881f43abfdda2058372",
-          "type": "giveItem",
-          "description": "レイド中に見つけた Politician Mutkevich figurine を渡す",
-          "optional": false,
-          "maps": [],
-          "count": 1,
-          "foundInRaid": true,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "item": {
-            "id": "655c66e40b2de553b618d4b8",
-            "name": "Politician Mutkevich figurine",
-            "shortName": "Mutkevich"
-          }
-        },
-        {
-          "id": "68481881f43abfdda2058373",
-          "type": "giveItem",
-          "description": "レイド中に見つけた Killa figurine を渡す",
-          "optional": false,
-          "maps": [],
-          "count": 1,
-          "foundInRaid": true,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "item": {
-            "id": "66572c82ad599021091c6118",
-            "name": "Killa figurine",
-            "shortName": "Killa"
-          }
-        },
-        {
-          "id": "68481881f43abfdda2058374",
-          "type": "giveItem",
-          "description": "レイド中に見つけた Reshala figurine を渡す",
-          "optional": false,
-          "maps": [],
-          "count": 1,
-          "foundInRaid": true,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "item": {
-            "id": "66572be36a723f7f005a066e",
-            "name": "Reshala figurine",
-            "shortName": "Reshala"
-          }
-        },
-        {
-          "id": "68481881f43abfdda2058375",
-          "type": "giveItem",
-          "description": "レイド中に見つけた Ryzhy figurine を渡す",
-          "optional": false,
-          "maps": [],
-          "count": 1,
-          "foundInRaid": true,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "item": {
-            "id": "655c67782a1356436041c9c5",
-            "name": "Ryzhy figurine",
-            "shortName": "Ryzhy"
-          }
-        },
-        {
-          "id": "68481881f43abfdda2058376",
-          "type": "giveItem",
-          "description": "レイド中に見つけた Scav figurine を渡す",
-          "optional": false,
-          "maps": [],
-          "count": 1,
-          "foundInRaid": true,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "item": {
-            "id": "655c673673a43e23e857aebd",
-            "name": "Scav figurine",
-            "shortName": "Scav"
-          }
-        },
-        {
-          "id": "68481881f43abfdda2058377",
-          "type": "giveItem",
-          "description": "レイド中に見つけた Tagilla figurine を渡す",
-          "optional": false,
-          "maps": [],
-          "count": 1,
-          "foundInRaid": true,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "item": {
-            "id": "66572cbdad599021091c611a",
-            "name": "Tagilla figurine",
-            "shortName": "Tagilla"
-          }
-        },
-        {
-          "id": "68481881f43abfdda2058378",
-          "type": "giveItem",
-          "description": "レイド中に見つけた USEC operative figurine を渡す",
-          "optional": false,
-          "maps": [],
-          "count": 1,
-          "foundInRaid": true,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "item": {
-            "id": "655c663a6689c676ce57af85",
-            "name": "USEC operative figurine",
-            "shortName": "USEC"
-          }
-        },
-        {
-          "id": "68481881f43abfdda2058379",
-          "type": "giveItem",
-          "description": "レイド中に見つけた Cultist figurine を渡す",
-          "optional": false,
-          "maps": [],
-          "count": 1,
-          "foundInRaid": true,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "item": {
-            "id": "655c669103999d3c810c025b",
-            "name": "Cultist figurine",
-            "shortName": "Cultist"
-          }
-        },
-        {
-          "id": "68481881f43abfdda205837a",
-          "type": "giveItem",
-          "description": "レイド中に見つけた Den figurine を渡す",
-          "optional": false,
-          "maps": [],
-          "count": 1,
-          "foundInRaid": true,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "item": {
-            "id": "66572b8d80b1cd4b6a67847f",
-            "name": "Den figurine",
-            "shortName": "Den"
-          }
-        }
-      ],
-      "finishRewards": {
-        "offerUnlock": [],
-        "skillLevelReward": [],
-        "traderUnlock": [],
-        "craftUnlock": [],
-        "traderStanding": [
-          {
-            "standing": 0.01,
-            "trader": {
-              "id": "5ac3b934156ae10c4430e83c",
-              "name": "Ragman"
-            }
-          }
-        ],
-        "items": [
-          {
-            "count": 3000000,
-            "attributes": [],
-            "item": {
-              "id": "5449016a4bdc2d6f028b456f",
-              "name": "ルーブル紙幣"
-            }
-          },
-          {
-            "count": 3,
-            "attributes": [],
-            "item": {
-              "id": "59faff1d86f7746c51718c9c",
-              "name": "ビットコインの金貨"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "60e71ccb5688f6424c7bfec4",
       "name": "Trophies",
       "normalizedName": "trophies",
@@ -79941,7 +79555,7 @@
           "description": "Find the item in raid: AMG-10 hydraulic fluid",
           "optional": false,
           "maps": [],
-          "count": 2,
+          "count": 5,
           "foundInRaid": true,
           "dogTagLevel": 0,
           "maxDurability": 100,
@@ -80912,7 +80526,7 @@
           "id": "69c27909f96f171f6982c4c7",
           "type": "giveItem",
           "description": "Hand over the item: Rye croutons",
-          "optional": true,
+          "optional": false,
           "maps": [],
           "count": 4,
           "foundInRaid": false,
@@ -80923,23 +80537,6 @@
             "id": "57347d3d245977448f7b7f61",
             "name": "ライ麦クルトン",
             "shortName": "Croutons"
-          }
-        },
-        {
-          "id": "69c27909f96f171f6982c4c7",
-          "type": "giveItem",
-          "description": "Hand over the item: Rye croutons",
-          "optional": true,
-          "maps": [],
-          "count": 4,
-          "foundInRaid": false,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "item": {
-            "id": "5751487e245977207e26a315",
-            "name": "エメリャ ライ麦クルトン",
-            "shortName": "Emelya"
           }
         },
         {
@@ -80975,6 +80572,24 @@
             "name": "ソルティドッグ ビーフソーセージ",
             "shortName": "Sausage"
           }
+        },
+        {
+          "id": "6a102713a973fbe02db53bf1",
+          "type": "extract",
+          "description": "Survive and extract from the location",
+          "optional": false,
+          "exitStatus": [],
+          "exitName": null,
+          "maps": [
+            {
+              "id": "5704e3c2d2720bac5b8b4567",
+              "name": "Woods"
+            },
+            {
+              "id": "5714dc692459777137212e12",
+              "name": "Streets of Tarkov"
+            }
+          ]
         }
       ]
     },
