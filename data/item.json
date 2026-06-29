@@ -1844,21 +1844,6 @@
       "weight": 0.5
     },
     {
-      "id": "5671446a4bdc2d97058b4569",
-      "name": "Pistol case key",
-      "shortName": "PCase",
-      "normalizedName": "pistol-case-key",
-      "image512pxLink": "https://assets.tarkov.dev/5671446a4bdc2d97058b4569-512.webp",
-      "inspectImageLink": "https://assets.tarkov.dev/5671446a4bdc2d97058b4569-image.webp",
-      "wikiLink": "",
-      "types": [
-        "keys"
-      ],
-      "width": 1,
-      "height": 1,
-      "weight": 0.01
-    },
-    {
       "id": "5672c92d4bdc2d180f8b4567",
       "name": "社員寮118号室の鍵",
       "shortName": "Dorm 118",
@@ -7206,7 +7191,7 @@
       "normalizedName": "sig-gen1-handguard-2-inch-rail",
       "image512pxLink": "https://assets.tarkov.dev/58a56f8d86f774651579314c-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/58a56f8d86f774651579314c-image.webp",
-      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/MPX_GEN1_handguard_2_inch_rail",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SIG_GEN1_handguard_2_inch_rail",
       "types": [
         "mods"
       ],
@@ -7221,7 +7206,7 @@
       "normalizedName": "sig-gen1-handguard-4-inch-rail",
       "image512pxLink": "https://assets.tarkov.dev/58a5c12e86f7745d585a2b9e-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/58a5c12e86f7745d585a2b9e-image.webp",
-      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/MPX_GEN1_handguard_4_inch_rail",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SIG_GEN1_handguard_4_inch_rail",
       "types": [
         "mods"
       ],
@@ -16925,7 +16910,7 @@
       ],
       "width": 1,
       "height": 1,
-      "weight": 0.13
+      "weight": 0.082
     },
     {
       "id": "5b099bb25acfc400186331e8",
@@ -18007,7 +17992,7 @@
       ],
       "width": 4,
       "height": 2,
-      "weight": 3.951
+      "weight": 3.903
     },
     {
       "id": "5b44abe986f774283e2e3512",
@@ -24379,7 +24364,7 @@
       "normalizedName": "ar-15-surefire-sf3p-556x45-flash-hider",
       "image512pxLink": "https://assets.tarkov.dev/5c7fb51d2e2216001219ce11-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/5c7fb51d2e2216001219ce11-image.webp",
-      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_SureFire_SF3P_5.56x45_Flash_hider",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_SureFire_SF3P_5.56x45_flash_hider",
       "types": [
         "mods"
       ],
@@ -38683,7 +38668,7 @@
       ],
       "width": 4,
       "height": 2,
-      "weight": 4.726
+      "weight": 4.678
     },
     {
       "id": "618ab0c66bbeff39ad4acf2e",
@@ -59309,7 +59294,7 @@
       "normalizedName": "arena-advertisement-poster",
       "image512pxLink": "https://assets.tarkov.dev/675a0288c3102563bd01c9c3-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/675a0288c3102563bd01c9c3-image.webp",
-      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Arena_poster_1",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Arena_advertisement_poster",
       "types": [
         "poster"
       ],
@@ -59324,7 +59309,7 @@
       "normalizedName": "arena-poster",
       "image512pxLink": "https://assets.tarkov.dev/675a046b8f547d6cae01922e-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/675a046b8f547d6cae01922e-image.webp",
-      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Arena_poster_1",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Arena_poster",
       "types": [
         "poster"
       ],
@@ -59339,7 +59324,7 @@
       "normalizedName": "bison-vs-undertaker-poster",
       "image512pxLink": "https://assets.tarkov.dev/675a04c01474133a0d0bb212-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/675a04c01474133a0d0bb212-image.webp",
-      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Arena_poster_2",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Bison_vs_Undertaker_poster",
       "types": [
         "poster"
       ],
@@ -63742,7 +63727,7 @@
       "normalizedName": "mdr-762x51-20-inch-barrel",
       "image512pxLink": "https://assets.tarkov.dev/680f87196d09c2f0740dd527-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/680f87196d09c2f0740dd527-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/MDR_7.62x51_20_inch_barrel",
       "types": [
         "mods"
       ],
@@ -64138,7 +64123,7 @@
       ],
       "width": 2,
       "height": 1,
-      "weight": 1.12
+      "weight": 0.799
     },
     {
       "id": "6830606e84a12bb973021fd0",
@@ -64337,7 +64322,7 @@
       "normalizedName": "mp-155-12ga-660mm-barrel",
       "image512pxLink": "https://assets.tarkov.dev/68540a07961c6f351f04d917-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68540a07961c6f351f04d917-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/MP-155_12ga_660mm_barrel",
       "types": [
         "mods"
       ],
@@ -64352,7 +64337,7 @@
       "normalizedName": "mp-155-12ga-750mm-barrel",
       "image512pxLink": "https://assets.tarkov.dev/68540a100103119fd00e115a-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68540a100103119fd00e115a-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/MP-155_12ga_750mm_barrel",
       "types": [
         "mods"
       ],
@@ -64748,7 +64733,7 @@
       "normalizedName": "rus-post-audio-tape-1105-001",
       "image512pxLink": "https://assets.tarkov.dev/68889451ad1e91bfa40db8fd-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68889451ad1e91bfa40db8fd-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Rus_Post_audio_tape_11.05_/_001",
       "types": [
         "noFlea"
       ],
@@ -64778,7 +64763,7 @@
       "normalizedName": "rus-post-audio-tape-1105-003",
       "image512pxLink": "https://assets.tarkov.dev/68889504f6192726ac07c66c-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68889504f6192726ac07c66c-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Rus_Post_audio_tape_11.05_/_003",
       "types": [
         "noFlea"
       ],
@@ -64808,7 +64793,7 @@
       "normalizedName": "svt-40-addley-precision-smith-less-scope-mount",
       "image512pxLink": "https://assets.tarkov.dev/6888954ba66a069e0405a9aa-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/6888954ba66a069e0405a9aa-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SVT-40_Addley_Precision_Smith-less_Scope_Mount",
       "types": [
         "mods"
       ],
@@ -64928,7 +64913,7 @@
       "normalizedName": "svt-40-addley-precision-steel-scope-mount",
       "image512pxLink": "https://assets.tarkov.dev/68889c930b29b8032504f369-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68889c930b29b8032504f369-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SVT-40_Addley_Precision_Steel_Scope_Mount",
       "types": [
         "mods"
       ],
@@ -64943,7 +64928,7 @@
       "normalizedName": "svt-40-svd-style-stock",
       "image512pxLink": "https://assets.tarkov.dev/6888ac0f5978b35e90010b49-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/6888ac0f5978b35e90010b49-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SVT-40_SVD_style_stock",
       "types": [
         "mods"
       ],
@@ -65079,7 +65064,7 @@
       "normalizedName": "trijicon-sro-reflex-sight-fde",
       "image512pxLink": "https://assets.tarkov.dev/688b4bd81cef2a61d0052738-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/688b4bd81cef2a61d0052738-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Trijicon_SRO_reflex_sight",
       "types": [
         "mods"
       ],
@@ -65124,7 +65109,7 @@
       "normalizedName": "tts-system-handguard-top-rail",
       "image512pxLink": "https://assets.tarkov.dev/688b7b0d934c59b7bf0af0b7-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/688b7b0d934c59b7bf0af0b7-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/TTS_System_handguard_top_rail",
       "types": [
         "mods"
       ],
@@ -65139,7 +65124,7 @@
       "normalizedName": "tts-system-25-inch-rail",
       "image512pxLink": "https://assets.tarkov.dev/688b7c1b0e99e554a90c0fb7-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/688b7c1b0e99e554a90c0fb7-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/TTS_System_2.5_inch_rail",
       "types": [
         "mods"
       ],
@@ -65289,7 +65274,7 @@
       "normalizedName": "note-from-usecs-corpse",
       "image512pxLink": "https://assets.tarkov.dev/6891bb203bbad2a6230f9be8-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/6891bb203bbad2a6230f9be8-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Note_from_USEC%27s_corpse",
       "types": [
         "noFlea"
       ],
@@ -65304,7 +65289,7 @@
       "normalizedName": "escape-route-map-from-the-terragroup-office-area",
       "image512pxLink": "https://assets.tarkov.dev/6891bb67f674f551000a38d3-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/6891bb67f674f551000a38d3-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Escape_route_map_from_the_TerraGroup_office_area",
       "types": [
         "noFlea"
       ],
@@ -65319,7 +65304,7 @@
       "normalizedName": "tarkov-news-issue-142",
       "image512pxLink": "https://assets.tarkov.dev/6891bb83d7502d512502d160-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/6891bb83d7502d512502d160-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Tarkov_News_Issue_142",
       "types": [
         "noFlea"
       ],
@@ -65559,7 +65544,7 @@
       "normalizedName": "ar-15-radian-weapons-model-1-14-inch-handguard",
       "image512pxLink": "https://assets.tarkov.dev/6895bd19d55f0ebf6a0c0306-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/6895bd19d55f0ebf6a0c0306-image.webp",
-      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_Radian_Model_1_14_inch_handguard",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_Radian_Weapons_Model_1_14_inch_handguard",
       "types": [
         "mods"
       ],
@@ -65697,7 +65682,7 @@
       "normalizedName": "note-from-prapors-men",
       "image512pxLink": "https://assets.tarkov.dev/689b5093987b304021088e91-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/689b5093987b304021088e91-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Note_from_Prapor%27s_men",
       "types": [
         "noFlea"
       ],
@@ -65727,7 +65712,7 @@
       "normalizedName": "cargo-transport-fax",
       "image512pxLink": "https://assets.tarkov.dev/689b5108304455f61a0bc298-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/689b5108304455f61a0bc298-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Cargo_transport_fax",
       "types": [
         "noFlea"
       ],
@@ -65757,7 +65742,7 @@
       "normalizedName": "transport-log-with-notes",
       "image512pxLink": "https://assets.tarkov.dev/689b514c886e9848a4085915-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/689b514c886e9848a4085915-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Transport_log_with_notes",
       "types": [
         "noFlea"
       ],
@@ -65832,7 +65817,7 @@
       "normalizedName": "document-mentioning-a-protocol",
       "image512pxLink": "https://assets.tarkov.dev/689b5256147eeab4410ecd14-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/689b5256147eeab4410ecd14-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Document_mentioning_a_protocol",
       "types": [
         "noFlea"
       ],
@@ -65847,7 +65832,7 @@
       "normalizedName": "copy-of-report-for-tg-worldwide",
       "image512pxLink": "https://assets.tarkov.dev/689b52892c175da5bf083ba1-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/689b52892c175da5bf083ba1-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Copy_of_report_for_TG_Worldwide",
       "types": [
         "noFlea"
       ],
@@ -65922,7 +65907,7 @@
       "normalizedName": "victims-note",
       "image512pxLink": "https://assets.tarkov.dev/689b53952b1ac3b0810b7fe0-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/689b53952b1ac3b0810b7fe0-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Victim%27s_note",
       "types": [
         "noFlea"
       ],
@@ -66215,7 +66200,7 @@
       "normalizedName": "ar-15-strike-industries-gridlok-85-inch-handguard",
       "image512pxLink": "https://assets.tarkov.dev/68a5dc4eed35a7eac1048ff6-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68a5dc4eed35a7eac1048ff6-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_Strike_Industries_GRIDLOK_8.5_inch_handguard",
       "types": [
         "mods",
         "noFlea"
@@ -66671,7 +66656,7 @@
       "normalizedName": "ar-15-strike-industries-gridlok-extension-black",
       "image512pxLink": "https://assets.tarkov.dev/68a6e8fd4ac5b037cb0e9b86-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68a6e8fd4ac5b037cb0e9b86-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_Strike_Industries_GRIDLOK_Extension",
       "types": [
         "mods",
         "noFlea"
@@ -66687,7 +66672,7 @@
       "normalizedName": "ar-15-strike-industries-gridlok-11-inch-handguard",
       "image512pxLink": "https://assets.tarkov.dev/68a6f3b27279296357007cd7-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68a6f3b27279296357007cd7-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_Strike_Industries_GRIDLOK_11_inch_handguard",
       "types": [
         "mods",
         "noFlea"
@@ -66703,7 +66688,7 @@
       "normalizedName": "ar-15-strike-industries-gridlok-15-inch-handguard",
       "image512pxLink": "https://assets.tarkov.dev/68a6fbb07279296357007ce2-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68a6fbb07279296357007ce2-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_Strike_Industries_GRIDLOK_15_inch_handguard",
       "types": [
         "mods",
         "noFlea"
@@ -66719,7 +66704,7 @@
       "normalizedName": "ar-15-strike-industries-gridlok-17-inch-handguard",
       "image512pxLink": "https://assets.tarkov.dev/68a6fbfdd31595bb360c73bd-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68a6fbfdd31595bb360c73bd-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_Strike_Industries_GRIDLOK_17_inch_handguard",
       "types": [
         "mods",
         "noFlea"
@@ -66783,7 +66768,7 @@
       "normalizedName": "ar-15-strike-industries-gridlok-base-red",
       "image512pxLink": "https://assets.tarkov.dev/68a7000d7708ac5120060527-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68a7000d7708ac5120060527-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_Strike_Industries_GRIDLOK_base",
       "types": [
         "mods",
         "noFlea"
@@ -67484,7 +67469,7 @@
       "normalizedName": "vpo-215-366tkm-360mm-barrel",
       "image512pxLink": "https://assets.tarkov.dev/68b98415032fa71d2a000dab-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68b98415032fa71d2a000dab-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/VPO-215_.366TKM_360mm_barrel",
       "types": [
         "mods"
       ],
@@ -67499,7 +67484,7 @@
       "normalizedName": "vpo-215-tactical-thread-protector",
       "image512pxLink": "https://assets.tarkov.dev/68b985da5133d696f7032d37-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68b985da5133d696f7032d37-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/VPO-215_tactical_thread_protector",
       "types": [
         "mods"
       ],
@@ -67576,7 +67561,7 @@
       "normalizedName": "m590-precision-reflex-scope-mount",
       "image512pxLink": "https://assets.tarkov.dev/68badf5030572e90770cd688-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68badf5030572e90770cd688-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/M590_Precision_Reflex_Scope_Mount",
       "types": [
         "mods"
       ],
@@ -68861,7 +68846,7 @@
       "normalizedName": "note-from-the-repair-shop",
       "image512pxLink": "https://assets.tarkov.dev/68d2f1318c12620073059930-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68d2f1318c12620073059930-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Note_from_the_repair_shop",
       "types": [
         "noFlea"
       ],
@@ -68876,7 +68861,7 @@
       "normalizedName": "note-with-a-warning",
       "image512pxLink": "https://assets.tarkov.dev/68d2f302be7c1493b90cd3f5-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68d2f302be7c1493b90cd3f5-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Note_with_a_warning",
       "types": [
         "noFlea"
       ],
@@ -68891,7 +68876,7 @@
       "normalizedName": "note-with-an-address",
       "image512pxLink": "https://assets.tarkov.dev/68d2f3375f98276b7503c32e-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68d2f3375f98276b7503c32e-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Note_with_an_address",
       "types": [
         "noFlea"
       ],
@@ -68921,7 +68906,7 @@
       "normalizedName": "the-ninth-circle-issue-19",
       "image512pxLink": "https://assets.tarkov.dev/68d2f44df63f06b7590ce30e-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68d2f44df63f06b7590ce30e-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/The_Ninth_Circle_Issue_19",
       "types": [
         "noFlea"
       ],
@@ -68936,7 +68921,7 @@
       "normalizedName": "unsealed-envelope",
       "image512pxLink": "https://assets.tarkov.dev/68d2f4aff8817df4690db3d1-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68d2f4aff8817df4690db3d1-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Unsealed_envelope",
       "types": [
         "noFlea"
       ],
@@ -68996,7 +68981,7 @@
       "normalizedName": "first-piece-of-code-note",
       "image512pxLink": "https://assets.tarkov.dev/68d2f69e91c2fa84e2044a08-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68d2f69e91c2fa84e2044a08-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/First_piece_of_code_note",
       "types": [
         "noFlea"
       ],
@@ -69041,7 +69026,7 @@
       "normalizedName": "map-with-triangulated-signal",
       "image512pxLink": "https://assets.tarkov.dev/68d2f77e5f98276b7503c330-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68d2f77e5f98276b7503c330-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Map_with_triangulated_signal",
       "types": [
         "noFlea"
       ],
@@ -69071,7 +69056,7 @@
       "normalizedName": "voevodas-photo-with-a-cultist-mark",
       "image512pxLink": "https://assets.tarkov.dev/68d2f9164aae290cf704e36f-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68d2f9164aae290cf704e36f-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Voevoda%27s_photo_with_a_cultist_mark",
       "types": [
         "noFlea"
       ],
@@ -69086,7 +69071,7 @@
       "normalizedName": "note-mentioning-prapor",
       "image512pxLink": "https://assets.tarkov.dev/68d2f96e0c834c20c00a81d8-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68d2f96e0c834c20c00a81d8-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Note_mentioning_Prapor",
       "types": [
         "noFlea"
       ],
@@ -69101,7 +69086,7 @@
       "normalizedName": "note-mentioning-general",
       "image512pxLink": "https://assets.tarkov.dev/68d2f9bd2ca1a737d107b84d-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68d2f9bd2ca1a737d107b84d-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Note_mentioning_General",
       "types": [
         "noFlea"
       ],
@@ -69116,7 +69101,7 @@
       "normalizedName": "leshys-orders",
       "image512pxLink": "https://assets.tarkov.dev/68d2fa018c12620073059932-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68d2fa018c12620073059932-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Leshy%27s_orders",
       "types": [
         "noFlea"
       ],
@@ -69161,7 +69146,7 @@
       "normalizedName": "assistants-notes-on-group-8",
       "image512pxLink": "https://assets.tarkov.dev/68d2fa9b691b7c7b34046367-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68d2fa9b691b7c7b34046367-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Assistant%27s_notes_on_Group_8",
       "types": [
         "noFlea"
       ],
@@ -69176,7 +69161,7 @@
       "normalizedName": "assistants-notes-on-group-3-and-group-10",
       "image512pxLink": "https://assets.tarkov.dev/68d2fac7c8305ec7c900296c-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68d2fac7c8305ec7c900296c-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Assistant%27s_notes_on_Group_3_and_Group_10",
       "types": [
         "noFlea"
       ],
@@ -69191,7 +69176,7 @@
       "normalizedName": "assistants-notes-on-tg-vi-24-test-subjects",
       "image512pxLink": "https://assets.tarkov.dev/68d2faf191c2fa84e2044a0b-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68d2faf191c2fa84e2044a0b-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Assistant%27s_notes_on_TG-Vi-24_test_subjects",
       "types": [
         "noFlea"
       ],
@@ -69221,7 +69206,7 @@
       "normalizedName": "letter-from-kozlovs-room",
       "image512pxLink": "https://assets.tarkov.dev/68d2fd018c12620073059934-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68d2fd018c12620073059934-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Letter_from_Kozlov%27s_room",
       "types": [
         "noFlea"
       ],
@@ -69341,7 +69326,7 @@
       "normalizedName": "voevodas-personal-file",
       "image512pxLink": "https://assets.tarkov.dev/68d3059318d70f97e704ad7f-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68d3059318d70f97e704ad7f-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Voevoda%27s_personal_file",
       "types": [
         "noFlea"
       ],
@@ -69371,7 +69356,7 @@
       "normalizedName": "strelets-personal-file",
       "image512pxLink": "https://assets.tarkov.dev/68d305fc8c12620073059936-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68d305fc8c12620073059936-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Strelets%27_personal_file",
       "types": [
         "noFlea"
       ],
@@ -70185,7 +70170,7 @@
       "normalizedName": "note-by-item-1156",
       "image512pxLink": "https://assets.tarkov.dev/68e63e8d94fb983cb7098d32-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68e63e8d94fb983cb7098d32-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Note_by_Item_1156",
       "types": [
         "noFlea"
       ],
@@ -70247,7 +70232,7 @@
       "normalizedName": "308-me-lokt-ammo-pack-20-pcs",
       "image512pxLink": "https://assets.tarkov.dev/68e914c3a7bbc64c0702853f-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68e914c3a7bbc64c0702853f-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/.308_ME_LOKT_ammo_pack_(20_pcs)",
       "types": [
         "ammoBox"
       ],
@@ -70262,7 +70247,7 @@
       "normalizedName": "50-bmg-hp-ammo-pack-10-pcs",
       "image512pxLink": "https://assets.tarkov.dev/68e9156326fbff63b30106a0-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68e9156326fbff63b30106a0-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/.50_BMG_HP_ammo_pack_(10_pcs)",
       "types": [
         "ammoBox"
       ],
@@ -70277,7 +70262,7 @@
       "normalizedName": "50-bmg-m21-ammo-pack-10-pcs",
       "image512pxLink": "https://assets.tarkov.dev/68e915b76ccca06412020902-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68e915b76ccca06412020902-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/.50_BMG_M21_ammo_pack_(10_pcs)",
       "types": [
         "ammoBox"
       ],
@@ -70292,7 +70277,7 @@
       "normalizedName": "50-bmg-m33-ammo-pack-10-pcs",
       "image512pxLink": "https://assets.tarkov.dev/68e915cf55ba5bd1c6083a32-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68e915cf55ba5bd1c6083a32-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/.50_BMG_M33_ammo_pack_(10_pcs)",
       "types": [
         "ammoBox",
         "noFlea"
@@ -70308,7 +70293,7 @@
       "normalizedName": "50-bmg-m903-slap-ammo-pack-10-pcs",
       "image512pxLink": "https://assets.tarkov.dev/68e915dfd996b7754e0f25c9-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68e915dfd996b7754e0f25c9-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/.50_BMG_M903_SLAP_ammo_pack_(10_pcs)",
       "types": [
         "ammoBox",
         "noFlea"
@@ -70324,7 +70309,7 @@
       "normalizedName": "762x25mm-tt-m855a1-ammo-pack-25-pcs",
       "image512pxLink": "https://assets.tarkov.dev/68e9176da7bbc64c07028543-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68e9176da7bbc64c07028543-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/7.62x25mm_TT_M855A1_ammo_pack_(25_pcs)",
       "types": [
         "ammoBox"
       ],
@@ -70339,7 +70324,7 @@
       "normalizedName": "762x25mm-tt-m856a1-ammo-pack-25-pcs",
       "image512pxLink": "https://assets.tarkov.dev/68e9179c553e40054d06dd15-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68e9179c553e40054d06dd15-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/7.62x25mm_TT_M856A1_ammo_pack_(25_pcs)",
       "types": [
         "ammoBox"
       ],
@@ -70354,7 +70339,7 @@
       "normalizedName": "762x25mm-tt-m995-ammo-pack-25-pcs",
       "image512pxLink": "https://assets.tarkov.dev/68e917b207e1c8aa3304b8c9-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68e917b207e1c8aa3304b8c9-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/7.62x25mm_TT_M995_ammo_pack_(25_pcs)",
       "types": [
         "ammoBox"
       ],
@@ -70444,7 +70429,7 @@
       "normalizedName": "fragment-of-an-unknown-document",
       "image512pxLink": "https://assets.tarkov.dev/68ea979d5e6784cb2f0b4e74-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68ea979d5e6784cb2f0b4e74-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Fragment_of_an_unknown_document",
       "types": [
         "noFlea"
       ],
@@ -70459,7 +70444,7 @@
       "normalizedName": "note-at-the-seaport-door",
       "image512pxLink": "https://assets.tarkov.dev/68ea987a90ddcd52210da6bd-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68ea987a90ddcd52210da6bd-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Note_at_the_seaport_door",
       "types": [
         "noFlea"
       ],
@@ -70474,7 +70459,7 @@
       "normalizedName": "cultist-priests-note",
       "image512pxLink": "https://assets.tarkov.dev/68ea9b43b8469178710c158e-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68ea9b43b8469178710c158e-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Cultist_priest%27s_note",
       "types": [
         "noFlea"
       ],
@@ -70489,7 +70474,7 @@
       "normalizedName": "tarkov-herald-summary",
       "image512pxLink": "https://assets.tarkov.dev/68eaddac9b384b24740f91de-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68eaddac9b384b24740f91de-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Tarkov_Herald_summary",
       "types": [
         "noFlea"
       ],
@@ -70552,7 +70537,7 @@
       "normalizedName": "93x64mm-fmj-ammo-pack-20-pcs",
       "image512pxLink": "https://assets.tarkov.dev/68ee0114024fb2df16004f1c-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68ee0114024fb2df16004f1c-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/9.3x64mm_FMJ_ammo_pack_(20_pcs)",
       "types": [
         "ammoBox"
       ],
@@ -70567,7 +70552,7 @@
       "normalizedName": "93x64mm-sp-ammo-pack-20-pcs",
       "image512pxLink": "https://assets.tarkov.dev/68ee0125fdf770156c0da329-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/68ee0125fdf770156c0da329-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/9.3x64mm_SP_ammo_pack_(20_pcs)",
       "types": [
         "ammoBox"
       ],
@@ -71451,7 +71436,7 @@
       "normalizedName": "prapors-letter-for-the-port-checkpoint",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Prapor%27s_letter_for_the_port_checkpoint",
       "types": [
         "noFlea",
         "specialSlot"
@@ -72320,7 +72305,7 @@
       "normalizedName": "knights-armament-company-sr-25-762x51-marksman-rifle-taupe",
       "image512pxLink": "https://assets.tarkov.dev/6932abeb5403890d0c09c926-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/6932abeb5403890d0c09c926-image.webp",
-      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Knight's_Armament_Company_SR-25_7.62x51_marksman_rifle_(Taupe)",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Knight%27s_Armament_Company_SR-25_7.62x51_marksman_rifle_(Taupe)",
       "types": [
         "gun"
       ],
@@ -72350,7 +72335,7 @@
       "normalizedName": "ar-10-kac-charging-handle-taupe",
       "image512pxLink": "https://assets.tarkov.dev/6932ac762e27c68c800bd836-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/6932ac762e27c68c800bd836-image.webp",
-      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-10_KAC_charging_handle_(Taupe)",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-10_KAC_charging_handle",
       "types": [
         "mods"
       ],
@@ -72365,7 +72350,7 @@
       "normalizedName": "ar-15-kac-sass-stock-taupe",
       "image512pxLink": "https://assets.tarkov.dev/6932ac8fbccfa5c5a00b5a76-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/6932ac8fbccfa5c5a00b5a76-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_KAC_SASS_stock_(Taupe)",
       "types": [
         "mods"
       ],
@@ -72380,7 +72365,7 @@
       "normalizedName": "ar-10-kac-urx-2-125-inch-handguard",
       "image512pxLink": "https://assets.tarkov.dev/6932aec6cccd2b808a043856-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/6932aec6cccd2b808a043856-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-10_KAC_URX_2_12.5_inch_handguard",
       "types": [
         "mods"
       ],
@@ -72395,7 +72380,7 @@
       "normalizedName": "ar-10-kac-urx-31-135-inch-handguard",
       "image512pxLink": "https://assets.tarkov.dev/6932aed9be542622170428b0-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/6932aed9be542622170428b0-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-10_KAC_URX_3.1_13.5_inch_handguard",
       "types": [
         "mods"
       ],
@@ -72410,7 +72395,7 @@
       "normalizedName": "ar-10-kac-m110-double-high-picatinny-gas-block",
       "image512pxLink": "https://assets.tarkov.dev/6932aeebbe542622170428ba-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/6932aeebbe542622170428ba-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-10_KAC_M110_Double_High_Picatinny_Gas_Block",
       "types": [
         "mods"
       ],
@@ -72425,7 +72410,7 @@
       "normalizedName": "ar-10-potomac-armory-m110-762x51-flash-hider",
       "image512pxLink": "https://assets.tarkov.dev/6932af0bbe542622170428bd-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/6932af0bbe542622170428bd-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-10_Potomac_Armory_M110_7.62x51_flash_hider",
       "types": [
         "mods"
       ],
@@ -72440,7 +72425,7 @@
       "normalizedName": "ar-10-kac-sr-25mk11-762x51-sound-suppressor",
       "image512pxLink": "https://assets.tarkov.dev/6932af22cccd2b808a04385e-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/6932af22cccd2b808a04385e-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-10_KAC_SR-25/Mk.11_7.62x51_sound_suppressor",
       "types": [
         "mods",
         "suppressor"
@@ -72456,7 +72441,7 @@
       "normalizedName": "ar-10-kac-urx-2-125-inch-handguard-taupe",
       "image512pxLink": "https://assets.tarkov.dev/6936bd64b2b5b688e50cde36-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/6936bd64b2b5b688e50cde36-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-10_KAC_URX_2_12.5_inch_handguard",
       "types": [
         "mods"
       ],
@@ -72471,7 +72456,7 @@
       "normalizedName": "ar-10-kac-urx-31-135-inch-handguard-taupe",
       "image512pxLink": "https://assets.tarkov.dev/6936bd6f4737190b66053ba6-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/6936bd6f4737190b66053ba6-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-10_KAC_URX_3.1_13.5_inch_handguard",
       "types": [
         "mods"
       ],
@@ -72486,7 +72471,7 @@
       "normalizedName": "ar-10-kac-m110-double-high-picatinny-gas-block-taupe",
       "image512pxLink": "https://assets.tarkov.dev/6936bde84737190b66053bb1-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/6936bde84737190b66053bb1-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-10_KAC_M110_Double_High_Picatinny_Gas_Block",
       "types": [
         "mods"
       ],
@@ -72501,7 +72486,7 @@
       "normalizedName": "ar-10-kac-sr-25mk11-762x51-sound-suppressor-taupe",
       "image512pxLink": "https://assets.tarkov.dev/6936be064737190b66053bb4-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/6936be064737190b66053bb4-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-10_KAC_SR-25%2FMk.11_7.62x51_sound_suppressor",
       "types": [
         "mods",
         "suppressor"
@@ -72721,7 +72706,7 @@
       "normalizedName": "knights-armament-company-sr-25-762x51-marksman-rifle-taupe-default",
       "image512pxLink": "https://assets.tarkov.dev/693ae5b60a32abe2210c69d6-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/693ae5b60a32abe2210c69d6-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Knight%2527s_Armament_Company_SR-25_7.62x51_marksman_rifle",
       "types": [
         "preset"
       ],
@@ -72930,7 +72915,7 @@
       "normalizedName": "ana-tactical-m2-plate-carrier-multicam-alpine-default",
       "image512pxLink": "https://assets.tarkov.dev/69412e5573dcf473e50be464-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/69412e5573dcf473e50be464-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/ANA_Tactical_M2_plate_carrier_(MultiCam_Alpine)",
       "types": [
         "noFlea",
         "preset"
@@ -72962,7 +72947,7 @@
       "normalizedName": "crye-precision-jpc-plate-carrier-multicam-default",
       "image512pxLink": "https://assets.tarkov.dev/693fd0e9deee848f70054999-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/693fd0e9deee848f70054999-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Crye_Precision_JPC_Plate_Carrier_(MultiCam)",
       "types": [
         "noFlea",
         "preset"
@@ -72978,7 +72963,7 @@
       "normalizedName": "tac-kek-jaypc-plate-carrier-black-default",
       "image512pxLink": "https://assets.tarkov.dev/693fd1200ec97e98040bd3f9-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/693fd1200ec97e98040bd3f9-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Tac-Kek_JayPC_plate_carrier_(Black)",
       "types": [
         "preset"
       ],
@@ -72993,7 +72978,7 @@
       "normalizedName": "tac-kek-jaypc-plate-carrier-od-green-default",
       "image512pxLink": "https://assets.tarkov.dev/693fd13aa490096a05028cc8-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/693fd13aa490096a05028cc8-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Tac-Kek_JayPC_plate_carrier_(OD_Green)",
       "types": [
         "preset"
       ],
@@ -73008,7 +72993,7 @@
       "normalizedName": "can-of-duck-pate",
       "image512pxLink": "https://assets.tarkov.dev/69774bb0a247161ff1068335-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/69774bb0a247161ff1068335-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Can_of_duck_pate",
       "types": [
         "provisions"
       ],
@@ -73023,7 +73008,7 @@
       "normalizedName": "poster-tube",
       "image512pxLink": "https://assets.tarkov.dev/697883474afb9f7de10380ba-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/697883474afb9f7de10380ba-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Poster_tube",
       "types": [
         "container"
       ],
@@ -73038,7 +73023,7 @@
       "normalizedName": "maska-1sch-bulletproof-helmet-vida-edition",
       "image512pxLink": "https://assets.tarkov.dev/697c79b1daf4828686033fcb-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/697c79b1daf4828686033fcb-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Maska-1SCh_bulletproof_helmet_(Vida_Edition)",
       "types": [
         "wearable"
       ],
@@ -73053,7 +73038,7 @@
       "normalizedName": "maska-1sch-face-shield-vida-edition",
       "image512pxLink": "https://assets.tarkov.dev/697c7a457c3b0223c30d16e6-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/697c7a457c3b0223c30d16e6-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Maska-1SCh_face_shield_(Vida_Edition)",
       "types": [
         "wearable"
       ],
@@ -73068,7 +73053,7 @@
       "normalizedName": "escape-from-duckov-poster",
       "image512pxLink": "https://assets.tarkov.dev/697cdbfd14e9320980057487-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/697cdbfd14e9320980057487-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Escape_from_Duckov_poster",
       "types": [
         "noFlea",
         "poster"
@@ -73084,7 +73069,7 @@
       "normalizedName": "duck-figurine",
       "image512pxLink": "https://assets.tarkov.dev/697cddb414e932098005748d-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/697cddb414e932098005748d-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Duck_figurine",
       "types": [
         "barter",
         "noFlea"
@@ -73100,7 +73085,7 @@
       "normalizedName": "saiga-12k-12ga-automatic-shotgun-redline",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Saiga-12K_12ga_automatic_shotgun_(Redline)",
       "types": [
         "gun",
         "noFlea"
@@ -73116,7 +73101,7 @@
       "normalizedName": "ak-74m-armacon-monolit-3-gen2-buffer-tube-adapter-redline",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AK-74M_Armacon_Monolit_3_Gen.2_buffer_tube_adapter_(Redline)",
       "types": [
         "mods",
         "noFlea"
@@ -73132,7 +73117,7 @@
       "normalizedName": "ar-15-fab-defense-gl-core-s-buttstock-redline",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_FAB_Defense_GL-CORE_S_buttstock_(Redline)",
       "types": [
         "mods",
         "noFlea"
@@ -73148,7 +73133,7 @@
       "normalizedName": "ak-custom-arms-ags-74-pro-sniper-kit-pistol-grip-redline",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AK_Custom_Arms_AGS-74_PRO_%2B_Sniper_Kit_pistol_grip_(Redline)",
       "types": [
         "mods",
         "noFlea",
@@ -73165,7 +73150,7 @@
       "normalizedName": "saiga-12-custom-guns-hedon-s-handguard-redline",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Saiga-12_Custom_Guns_Hedon_S_handguard_(Redline)",
       "types": [
         "mods",
         "noFlea"
@@ -73181,7 +73166,7 @@
       "normalizedName": "sok-12-dust-cover-redline",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SOK-12_dust_cover_(Redline)",
       "types": [
         "mods",
         "noFlea"
@@ -73197,7 +73182,7 @@
       "normalizedName": "irbis-gun-30al-foregrip",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/IRBIS-GUN_30AL_Foregrip",
       "types": [
         "mods",
         "noFlea"
@@ -73213,7 +73198,7 @@
       "normalizedName": "irbis-gun-45al-foregrip",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/IRBIS-GUN_45AL_Foregrip",
       "types": [
         "mods",
         "noFlea"
@@ -73229,7 +73214,7 @@
       "normalizedName": "ak-gladman-skeleton-pistol-grip",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AK_Gladman_Skeleton_pistol_grip",
       "types": [
         "mods",
         "noFlea",
@@ -73246,7 +73231,7 @@
       "normalizedName": "ar-15-tyrant-designs-mod-chevron-pistol-grip-black",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_Tyrant_Designs_MOD_Chevron_pistol_grip",
       "types": [
         "mods",
         "noFlea",
@@ -73279,7 +73264,7 @@
       "normalizedName": "steiner-r1x-reflex-sight",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Steiner_R1X_reflex_sight",
       "types": [
         "mods",
         "noFlea"
@@ -73295,7 +73280,7 @@
       "normalizedName": "di-optical-fc1-reflex-sight",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/DI_Optical_FC1_reflex_sight",
       "types": [
         "mods",
         "noFlea"
@@ -73311,7 +73296,7 @@
       "normalizedName": "di-optical-fc1-sight-mount",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/DI_Optical_FC1_sight_mount",
       "types": [
         "mods",
         "noFlea"
@@ -73327,7 +73312,7 @@
       "normalizedName": "di-optical-fc1-spacer",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/DI_Optical_FC1_Spacer",
       "types": [
         "mods",
         "noFlea"
@@ -73343,7 +73328,7 @@
       "normalizedName": "ar-15-tyrant-designs-mod-chevron-pistol-grip-red",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_Tyrant_Designs_MOD_Chevron_pistol_grip",
       "types": [
         "mods",
         "noFlea",
@@ -73392,7 +73377,7 @@
       "normalizedName": "ar-15-phase5-hexone-buffer-tube",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_Phase5_Hexone_buffer_tube",
       "types": [
         "mods",
         "noFlea"
@@ -73408,7 +73393,7 @@
       "normalizedName": "ar-15-phase5-universal-mini-stock",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_Phase5_Universal_Mini_Stock",
       "types": [
         "mods",
         "noFlea"
@@ -73424,7 +73409,7 @@
       "normalizedName": "ar-15-phase5-universal-mini-stock-red",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_Phase5_Universal_Mini_Stock",
       "types": [
         "mods",
         "noFlea"
@@ -73440,7 +73425,7 @@
       "normalizedName": "ar-15-phase5-universal-mini-stock-yellow",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_Phase5_Universal_Mini_Stock",
       "types": [
         "mods",
         "noFlea"
@@ -73456,7 +73441,7 @@
       "normalizedName": "ar-15-tyrant-designs-mod-chevron-pistol-grip-yellow",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_Tyrant_Designs_MOD_Chevron_pistol_grip",
       "types": [
         "mods",
         "noFlea",
@@ -73473,7 +73458,7 @@
       "normalizedName": "fab-defense-fx-kpos-ars-stock",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/FAB_Defense_FX-KPOS_ARS_stock",
       "types": [
         "mods"
       ],
@@ -73488,7 +73473,7 @@
       "normalizedName": "hk-mp7-fab-defense-ars-stock-adapter",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/HK_MP7_FAB_Defense_ARS_stock_adapter",
       "types": [
         "mods"
       ],
@@ -73503,7 +73488,7 @@
       "normalizedName": "hk-mp7-surefire-sf3p-46x30-flash-hider",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/HK_MP7_SureFire_SF3P_4.6x30_flash_hider",
       "types": [
         "mods"
       ],
@@ -73518,7 +73503,7 @@
       "normalizedName": "amg-10-hydraulic-fluid",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AMG-10_hydraulic_fluid",
       "types": [
         "barter"
       ],
@@ -73533,7 +73518,7 @@
       "normalizedName": "paradigm-shipping-poster",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Paradigm_Shipping_poster",
       "types": [
         "poster"
       ],
@@ -73548,7 +73533,7 @@
       "normalizedName": "sz-1-explosive-charge-1",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SZ-1_explosive_charge_(Icebreaker)",
       "types": [
         "specialSlot"
       ],
@@ -73563,7 +73548,7 @@
       "normalizedName": "saiga-12k-12ga-automatic-shotgun-redline-default",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Saiga-12K_12ga_automatic_shotgun_(Redline)",
       "types": [
         "noFlea",
         "preset"
@@ -73579,7 +73564,7 @@
       "normalizedName": "wartech-tv-115-plate-carrier-black",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/WARTECH_TV-115_plate_carrier_(Black)",
       "types": [
         "noFlea",
         "rig",
@@ -73596,7 +73581,7 @@
       "normalizedName": "fort-defender-2-body-armor-flecktarn",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/FORT_Defender-2_body_armor_(Flecktarn)",
       "types": [
         "armor",
         "noFlea",
@@ -73613,7 +73598,7 @@
       "normalizedName": "direct-action-thunderbolt-compact-chest-rig-ranger-green",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Direct_Action_Thunderbolt_compact_chest_rig_(Ranger_Green)",
       "types": [
         "noFlea",
         "rig",
@@ -73630,7 +73615,7 @@
       "normalizedName": "lbt-1961a-load-bearing-chest-rig-dnc",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/LBT-1961A_Load_Bearing_Chest_Rig_(DNC)",
       "types": [
         "noFlea",
         "rig",
@@ -73647,7 +73632,7 @@
       "normalizedName": "boreas-engine-room-keycard",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Boreas_engine_room_keycard",
       "types": [
         "keys"
       ],
@@ -73662,7 +73647,7 @@
       "normalizedName": "boreas-crew-quarters-keycard",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Boreas_crew_quarters_keycard",
       "types": [
         "keys"
       ],
@@ -73677,7 +73662,7 @@
       "normalizedName": "compartment-c-1-keycard",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Compartment_C-1_keycard",
       "types": [
         "keys"
       ],
@@ -73692,7 +73677,7 @@
       "normalizedName": "compartment-c-3-keycard",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Compartment_C-3_keycard",
       "types": [
         "keys"
       ],
@@ -73707,7 +73692,7 @@
       "normalizedName": "ultralink-satellite-communication-module",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Ultralink_satellite_communication_module",
       "types": [
         "barter"
       ],
@@ -73722,7 +73707,7 @@
       "normalizedName": "ibx-gigachad-cryptographic-processor",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/IBX_Gigachad_cryptographic_processor",
       "types": [
         "barter"
       ],
@@ -73737,7 +73722,7 @@
       "normalizedName": "memento-server-ram-module",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Memento_Server_RAM_Module",
       "types": [
         "barter"
       ],
@@ -73752,7 +73737,7 @@
       "normalizedName": "aceso-xpress-semi-automatic-biochemical-analyzer",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Aceso_Xpress_semi-automatic_biochemical_analyzer",
       "types": [
         "barter"
       ],
@@ -73767,7 +73752,7 @@
       "normalizedName": "nooby-shield-potassium-iodide-tablets",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Nooby_Shield_potassium_iodide_tablets",
       "types": [
         "barter"
       ],
@@ -73782,7 +73767,7 @@
       "normalizedName": "paradigm-shipping-directive",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Paradigm_Shipping_directive",
       "types": [
         "noFlea"
       ],
@@ -73797,7 +73782,7 @@
       "normalizedName": "compartment-c-1-access-log",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Compartment_C-1_access_log",
       "types": [
         "noFlea"
       ],
@@ -73812,7 +73797,7 @@
       "normalizedName": "sailors-diary",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Sailor%27s_diary",
       "types": [
         "noFlea"
       ],
@@ -73827,7 +73812,7 @@
       "normalizedName": "icebreaker-archive-data",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Icebreaker_archive_data",
       "types": [
         "noFlea"
       ],
@@ -73842,7 +73827,7 @@
       "normalizedName": "boreas-scientist-audio-tape",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Boreas_scientist_audio_tape",
       "types": [
         "noFlea"
       ],
@@ -73857,7 +73842,7 @@
       "normalizedName": "cold-fear-infrared-balaclava-blue-moss",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Cold_Fear_infrared_balaclava_(Blue_Moss)",
       "types": [
         "noFlea",
         "wearable"
@@ -73873,7 +73858,7 @@
       "normalizedName": "cold-fear-infrared-balaclava-dnc",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Cold_Fear_infrared_balaclava_(DNC)",
       "types": [
         "noFlea",
         "wearable"
@@ -73889,7 +73874,7 @@
       "normalizedName": "cold-fear-infrared-balaclava-kukla",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Cold_Fear_infrared_balaclava_(Kukla)",
       "types": [
         "noFlea",
         "wearable"
@@ -73905,7 +73890,7 @@
       "normalizedName": "safariland-liberator-hp-20-hearing-protection-headset-multicam",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Safariland_Liberator_HP_2.0_Hearing_Protection_Headset_(MultiCam)",
       "types": [
         "headphones",
         "noFlea",
@@ -73922,7 +73907,7 @@
       "normalizedName": "fort-defender-2-body-armor-flecktarn-default",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/FORT_Defender-2_body_armor_(Flecktarn)",
       "types": [
         "noFlea",
         "preset"
@@ -73938,7 +73923,7 @@
       "normalizedName": "wartech-tv-115-plate-carrier-black-default",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/WARTECH_TV-115_plate_carrier_(Black)",
       "types": [
         "noFlea",
         "preset"
@@ -73954,7 +73939,7 @@
       "normalizedName": "safariland-liberator-hp-20-hearing-protection-headset-black",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Safariland_Liberator_HP_2.0_Hearing_Protection_Headset_(Black)",
       "types": [
         "headphones",
         "noFlea",
@@ -73971,7 +73956,7 @@
       "normalizedName": "safariland-liberator-hp-20-hearing-protection-headset-multicam-black",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Safariland_Liberator_HP_2.0_Hearing_Protection_Headset_(MultiCam_Black)",
       "types": [
         "headphones",
         "noFlea",
@@ -73988,7 +73973,7 @@
       "normalizedName": "peltor-comtac-vi-headset-black",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Peltor_ComTac_VI_headset_(Black)",
       "types": [
         "headphones",
         "noFlea",
@@ -74005,7 +73990,7 @@
       "normalizedName": "peltor-comtac-vi-headset-ranger-green",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Peltor_ComTac_VI_headset_(Ranger_Green)",
       "types": [
         "headphones",
         "noFlea",
@@ -74022,7 +74007,7 @@
       "normalizedName": "tw-exfil-peltor-comtac-vi-headset-black",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/TW_EXFIL_Peltor_ComTac_VI_headset_(Black)",
       "types": [
         "headphones",
         "noFlea",
@@ -74039,7 +74024,7 @@
       "normalizedName": "tw-exfil-peltor-comtac-vi-headset-ranger-green",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/TW_EXFIL_Peltor_ComTac_VI_headset_(Ranger_Green)",
       "types": [
         "headphones",
         "noFlea",
@@ -74056,7 +74041,7 @@
       "normalizedName": "team-wendy-exfil-ballistic-helmet-multicam",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Team_Wendy_EXFIL_Ballistic_Helmet_(MultiCam)",
       "types": [
         "noFlea",
         "wearable"
@@ -74072,7 +74057,7 @@
       "normalizedName": "highcom-striker-achhc-iiia-helmet-coyote-brown",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/HighCom_Striker_ACHHC_IIIA_helmet_(Coyote_Brown)",
       "types": [
         "noFlea",
         "wearable"
@@ -74088,7 +74073,7 @@
       "normalizedName": "crye-precision-airframe-chops-black",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Crye_Precision_AirFrame_Chops_(Black)",
       "types": [
         "noFlea",
         "wearable"
@@ -74104,7 +74089,7 @@
       "normalizedName": "crye-precision-airframe-ears-black",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Crye_Precision_AirFrame_Ears_(Black)",
       "types": [
         "noFlea",
         "wearable"
@@ -74120,7 +74105,7 @@
       "normalizedName": "crye-precision-airframe-chops-multicam",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Crye_Precision_AirFrame_Chops_(MultiCam)",
       "types": [
         "noFlea",
         "wearable"
@@ -74136,7 +74121,7 @@
       "normalizedName": "crye-precision-airframe-ears-multicam",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Crye_Precision_AirFrame_Ears_(MultiCam)",
       "types": [
         "noFlea",
         "wearable"
@@ -74152,7 +74137,7 @@
       "normalizedName": "crye-precision-airframe-chops-od-green",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Crye_Precision_AirFrame_Chops_(OD_Green)",
       "types": [
         "wearable"
       ],
@@ -74167,7 +74152,7 @@
       "normalizedName": "crye-precision-airframe-ears-od-green",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Crye_Precision_AirFrame_Ears_(OD_Green)",
       "types": [
         "wearable"
       ],
@@ -74182,7 +74167,7 @@
       "normalizedName": "crye-precision-airframe-chops-shark",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Crye_Precision_AirFrame_Chops_(Shark)",
       "types": [
         "noFlea",
         "wearable"
@@ -74198,7 +74183,7 @@
       "normalizedName": "crye-precision-airframe-ears-coyote",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Crye_Precision_AirFrame_Ears_(Coyote)",
       "types": [
         "noFlea",
         "wearable"
@@ -74230,7 +74215,7 @@
       "normalizedName": "crye-precision-airframe-helmet-od-green",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Crye_Precision_AirFrame_helmet_(OD_Green)",
       "types": [
         "noFlea",
         "wearable"
@@ -74246,7 +74231,7 @@
       "normalizedName": "crye-precision-airframe-helmet-shark",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Crye_Precision_AirFrame_helmet_(Shark)",
       "types": [
         "noFlea",
         "wearable"
@@ -74262,7 +74247,7 @@
       "normalizedName": "crye-precision-airframe-helmet-tan-1",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Crye_Precision_AirFrame_helmet_(Tan)",
       "types": [
         "noFlea",
         "wearable"
@@ -74278,7 +74263,7 @@
       "normalizedName": "crye-precision-airframe-m-lok-helmet-black",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Crye_Precision_AirFrame_M-LOK_helmet_(Black)",
       "types": [
         "noFlea",
         "wearable"
@@ -74294,7 +74279,7 @@
       "normalizedName": "crye-precision-airframe-m-lok-helmet-bull",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Crye_Precision_AirFrame_M-LOK_helmet_(Bull)",
       "types": [
         "noFlea",
         "wearable"
@@ -74310,7 +74295,7 @@
       "normalizedName": "crye-precision-airframe-helmet-old-school",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Crye_Precision_AirFrame_helmet_(Old_School)",
       "types": [
         "noFlea",
         "wearable"
@@ -74326,7 +74311,7 @@
       "normalizedName": "anavs-69-nvg-mount",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AN/AVS-6%269_NVG_mount",
       "types": [
         "mods",
         "noFlea"
@@ -74342,7 +74327,7 @@
       "normalizedName": "atlant-armour-titan-aramid-helmet-od-green",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Atlant_Armour_Titan_Aramid_helmet_(OD_Green)",
       "types": [
         "noFlea",
         "wearable"
@@ -74358,7 +74343,7 @@
       "normalizedName": "atlant-armour-titan-aramid-helmet-multicam",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Atlant_Armour_Titan_Aramid_helmet_(MultiCam)",
       "types": [
         "noFlea",
         "wearable"
@@ -74374,7 +74359,7 @@
       "normalizedName": "atlant-armour-titan-aramid-helmet-rudiarius",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Atlant_Armour_Titan_Aramid_helmet_(Rudiarius)",
       "types": [
         "noFlea",
         "wearable"
@@ -74390,7 +74375,7 @@
       "normalizedName": "baseball-cap-zaebtsa-berezka",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Baseball_cap_(Zaebtsa_Berezka)",
       "types": [
         "noFlea",
         "wearable"
@@ -74406,7 +74391,7 @@
       "normalizedName": "baseball-cap-zaebtsa-flecktarn",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Baseball_cap_(Zaebtsa_Flecktarn)",
       "types": [
         "noFlea",
         "wearable"
@@ -74422,7 +74407,7 @@
       "normalizedName": "baseball-cap-boston",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Baseball_cap_(Boston)",
       "types": [
         "noFlea",
         "wearable"
@@ -74438,7 +74423,7 @@
       "normalizedName": "baseball-cap-multicam-black",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Baseball_cap_(MultiCam_Black)",
       "types": [
         "noFlea",
         "wearable"
@@ -74454,7 +74439,7 @@
       "normalizedName": "crye-precision-airframe-helmet-old-school-default",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Crye_Precision_AirFrame_helmet_(Old_School)",
       "types": [
         "noFlea",
         "preset"
@@ -74470,7 +74455,7 @@
       "normalizedName": "fort-redut-m-body-armor-prisoner-of-the-arena",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/FORT_Redut-M_body_armor_(Prisoner_of_the_Arena)",
       "types": [
         "armor",
         "noFlea",
@@ -74487,7 +74472,7 @@
       "normalizedName": "stich-profi-chest-rig-mk2-recon-emr",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Stich_Profi_Chest_Rig_MK2_(Recon,_EMR)",
       "types": [
         "noFlea",
         "rig",
@@ -74504,7 +74489,7 @@
       "normalizedName": "lbt-1961a-load-bearing-chest-rig-multicam",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/LBT-1961A_Load_Bearing_Chest_Rig_(MultiCam)",
       "types": [
         "noFlea",
         "rig",
@@ -74521,7 +74506,7 @@
       "normalizedName": "revision-shadowstrike-tactical-glasses-tan",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Revision_ShadowStrike_tactical_glasses_(Tan)",
       "types": [
         "glasses",
         "noFlea",
@@ -74538,7 +74523,7 @@
       "normalizedName": "revision-shadowstrike-tactical-glasses-gray",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Revision_ShadowStrike_tactical_glasses_(Gray)",
       "types": [
         "glasses",
         "noFlea",
@@ -74555,7 +74540,7 @@
       "normalizedName": "wiley-x-spear-ballistic-goggles-black",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Wiley_X_SPEAR_ballistic_goggles_(Black)",
       "types": [
         "glasses",
         "noFlea",
@@ -74572,7 +74557,7 @@
       "normalizedName": "wiley-x-spear-ballistic-goggles-tan",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Wiley_X_SPEAR_ballistic_goggles_(Tan)",
       "types": [
         "glasses",
         "noFlea",
@@ -74589,7 +74574,7 @@
       "normalizedName": "fort-redut-m-body-armor-black",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/FORT_Redut-M_body_armor_(Black)",
       "types": [
         "armor",
         "noFlea",
@@ -74606,7 +74591,7 @@
       "normalizedName": "stich-profi-plate-carrier-v2-a-tacs-fg",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Stich_Profi_Plate_Carrier_V2_(A-TACS_FG)",
       "types": [
         "noFlea",
         "rig",
@@ -74623,7 +74608,7 @@
       "normalizedName": "stich-profi-plate-carrier-v2-coyote",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Stich_Profi_Plate_Carrier_V2_(Coyote)",
       "types": [
         "noFlea",
         "rig",
@@ -74640,7 +74625,7 @@
       "normalizedName": "stich-profi-plate-carrier-v2-coyote-default",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Stich_Profi_Plate_Carrier_V2_(Coyote)",
       "types": [
         "noFlea",
         "preset"
@@ -74656,7 +74641,7 @@
       "normalizedName": "stich-profi-plate-carrier-v2-a-tacs-fg-default",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Stich_Profi_Plate_Carrier_V2_(A-TACS_FG)",
       "types": [
         "noFlea",
         "preset"
@@ -74672,7 +74657,7 @@
       "normalizedName": "fort-gladiator-s-plate-carrier-death-is-inevitable",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/FORT_Gladiator-S_plate_carrier_(Death_is_Inevitable)",
       "types": [
         "noFlea",
         "rig",
@@ -74689,7 +74674,7 @@
       "normalizedName": "fort-gladiator-s-plate-carrier-viking",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/FORT_Gladiator-S_plate_carrier_(Viking)",
       "types": [
         "noFlea",
         "rig",
@@ -74706,7 +74691,7 @@
       "normalizedName": "fort-gladiator-s-plate-carrier-lightweight-multicam",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/FORT_Gladiator-S_plate_carrier_(Lightweight,_MultiCam)",
       "types": [
         "noFlea",
         "rig",
@@ -74723,7 +74708,7 @@
       "normalizedName": "fort-gladiator-s-plate-carrier-multicam",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/FORT_Gladiator-S_plate_carrier_(MultiCam)",
       "types": [
         "noFlea",
         "rig",
@@ -74740,7 +74725,7 @@
       "normalizedName": "first-spear-strandhogg-plate-carrier-multicam-black",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/First_Spear_Strandhogg_plate_carrier_(MultiCam_Black)",
       "types": [
         "noFlea",
         "rig",
@@ -74757,7 +74742,7 @@
       "normalizedName": "haley-strategic-d3crx-chest-harness-black",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Haley_Strategic_D3CRX_Chest_Harness_(Black)",
       "types": [
         "noFlea",
         "rig",
@@ -74774,7 +74759,7 @@
       "normalizedName": "fort-gladiator-s-plate-carrier-gray",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/FORT_Gladiator-S_plate_carrier_(Gray)",
       "types": [
         "armor",
         "noFlea",
@@ -74791,7 +74776,7 @@
       "normalizedName": "echo-belli-crate",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Echo_Belli_crate",
       "types": [
         "barter",
         "noFlea"
@@ -74807,7 +74792,7 @@
       "normalizedName": "first-spear-strandhogg-plate-carrier-multicam-black-default",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/First_Spear_Strandhogg_plate_carrier_(MultiCam_Black)",
       "types": [
         "noFlea",
         "preset"
@@ -74823,7 +74808,7 @@
       "normalizedName": "fort-redut-m-body-armor-prisoner-of-the-arena-default",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/FORT_Redut-M_body_armor_(Prisoner_of_the_Arena)",
       "types": [
         "noFlea",
         "preset"
@@ -74839,7 +74824,7 @@
       "normalizedName": "walkers-razor-digital-headset-molon-labe",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Walker%27s_Razor_Digital_headset_(Molon_Labe)",
       "types": [
         "headphones",
         "noFlea",
@@ -74856,7 +74841,7 @@
       "normalizedName": "fort-redut-m-body-armor-black-default",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/FORT_Redut-M_body_armor_(Black)",
       "types": [
         "noFlea",
         "preset"
@@ -74872,7 +74857,7 @@
       "normalizedName": "fort-gladiator-s-plate-carrier-lightweight-multicam-default",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/FORT_Gladiator-S_plate_carrier_(Lightweight,_MultiCam)",
       "types": [
         "noFlea",
         "preset"
@@ -74888,7 +74873,7 @@
       "normalizedName": "fort-gladiator-s-plate-carrier-viking-default",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/FORT_Gladiator-S_plate_carrier_(Viking)",
       "types": [
         "noFlea",
         "preset"
@@ -74904,7 +74889,7 @@
       "normalizedName": "fort-gladiator-s-plate-carrier-death-is-inevitable-default",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/FORT_Gladiator-S_plate_carrier_(Death_is_Inevitable)",
       "types": [
         "noFlea",
         "preset"
@@ -74920,7 +74905,7 @@
       "normalizedName": "fort-gladiator-s-plate-carrier-gray-default",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/FORT_Gladiator-S_plate_carrier_(Gray)",
       "types": [
         "noFlea",
         "preset"
@@ -74936,7 +74921,7 @@
       "normalizedName": "cold-fear-infrared-balaclava-m90",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Cold_Fear_infrared_balaclava_(M90)",
       "types": [
         "noFlea",
         "wearable"
@@ -74952,7 +74937,7 @@
       "normalizedName": "fort-gladiator-s-plate-carrier-multicam-default",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/FORT_Gladiator-S_plate_carrier_(MultiCam)",
       "types": [
         "noFlea",
         "preset"
@@ -74968,7 +74953,7 @@
       "normalizedName": "tarcoin",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/TarCoin",
       "types": [],
       "width": 1,
       "height": 1,
@@ -74981,7 +74966,7 @@
       "normalizedName": "spiritus-systems-lv-119-plate-carrier-multicam-black",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Spiritus_Systems_LV-119_Plate_Carrier_(MultiCam_Black)",
       "types": [
         "noFlea",
         "rig",
@@ -74998,7 +74983,7 @@
       "normalizedName": "team-wendy-exfil-helmet-cover-multicam-black",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Team_Wendy_EXFIL_helmet_cover_(MultiCam_Black)",
       "types": [
         "wearable"
       ],
@@ -75013,7 +74998,7 @@
       "normalizedName": "hk-mp7a1-46x30-submachine-gun-wedge",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/HK_MP7A1_4.6x30_submachine_gun",
       "types": [
         "noFlea",
         "preset"
@@ -75029,7 +75014,7 @@
       "normalizedName": "model-8230-cs-gas-grenade",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Model_8230_CS_gas_grenade",
       "types": [
         "grenade"
       ],
@@ -75044,7 +75029,7 @@
       "normalizedName": "sheefgg-piggy-bank",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SheefGG_piggy_bank",
       "types": [
         "container"
       ],
@@ -75059,7 +75044,7 @@
       "normalizedName": "desmondpilak-cd",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/DesmondPilak_CD",
       "types": [
         "barter"
       ],
@@ -75074,7 +75059,7 @@
       "normalizedName": "dunduk-floppy-disk",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Dunduk_floppy_disk",
       "types": [],
       "width": 1,
       "height": 1,
@@ -75087,7 +75072,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-common",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Common)",
       "types": [
         "noFlea"
       ],
@@ -75102,7 +75087,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-common-1",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Common)",
       "types": [
         "noFlea"
       ],
@@ -75117,7 +75102,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-common-2",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Common)",
       "types": [
         "noFlea"
       ],
@@ -75132,7 +75117,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-common-3",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Common)",
       "types": [
         "noFlea"
       ],
@@ -75147,7 +75132,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-common-4",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Common)",
       "types": [
         "noFlea"
       ],
@@ -75162,7 +75147,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-common-5",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Common)",
       "types": [
         "noFlea"
       ],
@@ -75177,7 +75162,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-common-6",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Common)",
       "types": [
         "noFlea"
       ],
@@ -75192,7 +75177,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-common-7",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Common)",
       "types": [
         "noFlea"
       ],
@@ -75207,7 +75192,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-common-8",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Common)",
       "types": [
         "noFlea"
       ],
@@ -75222,7 +75207,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-common-9",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Common)",
       "types": [
         "noFlea"
       ],
@@ -75237,7 +75222,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-common-10",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Common)",
       "types": [
         "noFlea"
       ],
@@ -75252,7 +75237,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-common-11",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Common)",
       "types": [
         "noFlea"
       ],
@@ -75267,7 +75252,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-common-12",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Common)",
       "types": [
         "noFlea"
       ],
@@ -75282,7 +75267,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-common-13",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Common)",
       "types": [
         "noFlea"
       ],
@@ -75297,7 +75282,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-common-14",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Common)",
       "types": [
         "noFlea"
       ],
@@ -75312,7 +75297,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-common-15",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Common)",
       "types": [
         "noFlea"
       ],
@@ -75327,7 +75312,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-common-16",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Common)",
       "types": [
         "noFlea"
       ],
@@ -75342,7 +75327,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-common-17",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Common)",
       "types": [
         "noFlea"
       ],
@@ -75357,7 +75342,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-common-18",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Common)",
       "types": [
         "noFlea"
       ],
@@ -75372,7 +75357,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-common-19",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Common)",
       "types": [
         "noFlea"
       ],
@@ -75387,7 +75372,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-common-20",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Common)",
       "types": [
         "noFlea"
       ],
@@ -75402,7 +75387,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-common-21",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Common)",
       "types": [
         "noFlea"
       ],
@@ -75417,7 +75402,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-common-22",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Common)",
       "types": [
         "noFlea"
       ],
@@ -75432,7 +75417,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-common-23",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Common)",
       "types": [
         "noFlea"
       ],
@@ -75447,7 +75432,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-common-24",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Common)",
       "types": [
         "noFlea"
       ],
@@ -75462,7 +75447,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-common-25",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Common)",
       "types": [
         "noFlea"
       ],
@@ -75477,7 +75462,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-common-26",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Common)",
       "types": [
         "noFlea"
       ],
@@ -75492,7 +75477,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-common-27",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Common)",
       "types": [
         "noFlea"
       ],
@@ -75507,7 +75492,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-common-28",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Common)",
       "types": [
         "noFlea"
       ],
@@ -75522,7 +75507,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-common-29",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Common)",
       "types": [
         "noFlea"
       ],
@@ -75537,7 +75522,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-common-30",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Common)",
       "types": [
         "noFlea"
       ],
@@ -75552,7 +75537,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-common-31",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Common)",
       "types": [
         "noFlea"
       ],
@@ -75567,7 +75552,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-rare",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Rare)",
       "types": [
         "noFlea"
       ],
@@ -75582,7 +75567,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-rare-1",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Rare)",
       "types": [
         "noFlea"
       ],
@@ -75597,7 +75582,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-rare-2",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Rare)",
       "types": [
         "noFlea"
       ],
@@ -75612,7 +75597,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-rare-3",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Rare)",
       "types": [
         "noFlea"
       ],
@@ -75627,7 +75612,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-rare-4",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Rare)",
       "types": [
         "noFlea"
       ],
@@ -75642,7 +75627,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-rare-5",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Rare)",
       "types": [
         "noFlea"
       ],
@@ -75657,7 +75642,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-rare-6",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Rare)",
       "types": [
         "noFlea"
       ],
@@ -75672,7 +75657,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-rare-7",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Rare)",
       "types": [
         "noFlea"
       ],
@@ -75687,7 +75672,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-rare-8",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Rare)",
       "types": [
         "noFlea"
       ],
@@ -75702,7 +75687,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-rare-9",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Rare)",
       "types": [
         "noFlea"
       ],
@@ -75717,7 +75702,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-rare-10",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Rare)",
       "types": [
         "noFlea"
       ],
@@ -75732,7 +75717,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-rare-11",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Rare)",
       "types": [
         "noFlea"
       ],
@@ -75747,7 +75732,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-rare-12",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Rare)",
       "types": [
         "noFlea"
       ],
@@ -75762,7 +75747,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-rare-13",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Rare)",
       "types": [
         "noFlea"
       ],
@@ -75777,7 +75762,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-rare-14",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Rare)",
       "types": [
         "noFlea"
       ],
@@ -75792,7 +75777,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-rare-15",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Rare)",
       "types": [
         "noFlea"
       ],
@@ -75807,7 +75792,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-rare-16",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Rare)",
       "types": [
         "noFlea"
       ],
@@ -75822,7 +75807,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-rare-17",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Rare)",
       "types": [
         "noFlea"
       ],
@@ -75837,7 +75822,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-rare-18",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Rare)",
       "types": [
         "noFlea"
       ],
@@ -75852,7 +75837,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-rare-19",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Rare)",
       "types": [
         "noFlea"
       ],
@@ -75867,7 +75852,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-epic",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Epic)",
       "types": [
         "noFlea"
       ],
@@ -75882,7 +75867,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-epic-1",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Epic)",
       "types": [
         "noFlea"
       ],
@@ -75897,7 +75882,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-epic-2",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Epic)",
       "types": [
         "noFlea"
       ],
@@ -75912,7 +75897,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-epic-3",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Epic)",
       "types": [
         "noFlea"
       ],
@@ -75927,7 +75912,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-epic-4",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Epic)",
       "types": [
         "noFlea"
       ],
@@ -75942,7 +75927,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-epic-5",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Epic)",
       "types": [
         "noFlea"
       ],
@@ -75957,7 +75942,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-epic-6",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Epic)",
       "types": [
         "noFlea"
       ],
@@ -75972,7 +75957,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-epic-7",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Epic)",
       "types": [
         "noFlea"
       ],
@@ -75987,7 +75972,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-epic-8",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Epic)",
       "types": [
         "noFlea"
       ],
@@ -76002,7 +75987,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-epic-9",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Epic)",
       "types": [
         "noFlea"
       ],
@@ -76017,7 +76002,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-epic-10",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Epic)",
       "types": [
         "noFlea"
       ],
@@ -76032,7 +76017,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-epic-11",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Epic)",
       "types": [
         "noFlea"
       ],
@@ -76047,7 +76032,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-epic-12",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Epic)",
       "types": [
         "noFlea"
       ],
@@ -76062,7 +76047,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-epic-13",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Epic)",
       "types": [
         "noFlea"
       ],
@@ -76077,7 +76062,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-epic-14",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Epic)",
       "types": [
         "noFlea"
       ],
@@ -76092,7 +76077,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-epic-15",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Epic)",
       "types": [
         "noFlea"
       ],
@@ -76107,7 +76092,7 @@
       "normalizedName": "rogue-intel-maps",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Rogue_intel_maps",
       "types": [
         "noFlea"
       ],
@@ -76122,7 +76107,7 @@
       "normalizedName": "twitch-icebreaker-2026-case-rare-20",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Twitch_Icebreaker_2026_case_(Rare)",
       "types": [
         "noFlea"
       ],
@@ -76405,7 +76390,7 @@
       ],
       "width": 6,
       "height": 2,
-      "weight": 4.277
+      "weight": 4.229
     },
     {
       "id": "707265736574000000000012",
@@ -76642,7 +76627,7 @@
       "normalizedName": "kalashnikov-ak-308-762x51-assault-rifle-rmr",
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Kalashnikov_AK-308_7.62x51_assault_rifle",
       "types": [
         "preset"
       ],
@@ -76657,7 +76642,7 @@
       "normalizedName": "rpk-16-545x39-light-machine-gun-drum",
       "image512pxLink": "https://assets.tarkov.dev/707265736574000000000036-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/707265736574000000000036-image.webp",
-      "wikiLink": "",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/RPK-16_5.45x39_light_machine_gun",
       "types": [
         "preset"
       ],

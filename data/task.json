@@ -1692,6 +1692,7 @@
       "finishRewards": {
         "skillLevelReward": [],
         "traderUnlock": [],
+        "craftUnlock": [],
         "traderStanding": [
           {
             "standing": 0.02,
@@ -1750,8 +1751,7 @@
               "name": "Mosin Rifle AIM Sports リコイルパッド"
             }
           }
-        ],
-        "craftUnlock": []
+        ]
       }
     },
     {
@@ -11367,7 +11367,7 @@
         ],
         "offerUnlock": [
           {
-            "level": 2,
+            "level": 1,
             "trader": {
               "id": "54cb57776803fa99248b456e",
               "name": "Therapist"
@@ -14463,8 +14463,8 @@
       "traderLevelRequirements": [],
       "factionName": "Any",
       "trader": {
-        "id": "6617beeaa9cfa777ca915b7c",
-        "name": "Ref"
+        "id": "579dc571d53a0658a154fbec",
+        "name": "Fence"
       },
       "map": {
         "id": "56f40101d2720b2a4d8b45d6",
@@ -26976,7 +26976,7 @@
         ],
         "craftUnlock": [
           {
-            "id": "6671d4fef3bee343f5000703",
+            "id": "66509e8c9398c9c9e10a31bb",
             "level": 2,
             "station": {
               "id": "5d484fcd654e7668ec2ec322",
@@ -49150,9 +49150,9 @@
           "enemyHealthEffect": null
         },
         {
-          "id": "6848100b00afffa81f09e36b",
+          "id": "6761f9d718fa62aac3264ff2",
           "type": "extract",
-          "description": "The Lab から Streets of Tarkov に Transit する",
+          "description": "Survive and extract from The Lab",
           "optional": false,
           "exitStatus": [
             "生還"
@@ -57598,6 +57598,39 @@
           }
         }
       ],
+      "finishRewards": {
+        "offerUnlock": [],
+        "skillLevelReward": [],
+        "traderUnlock": [],
+        "craftUnlock": [],
+        "traderStanding": [
+          {
+            "standing": 0.05,
+            "trader": {
+              "id": "58330581ace78e27b8b10cee",
+              "name": "Skier"
+            }
+          }
+        ],
+        "items": [
+          {
+            "count": 100000,
+            "attributes": [],
+            "item": {
+              "id": "5449016a4bdc2d6f028b456f",
+              "name": "ルーブル紙幣"
+            }
+          },
+          {
+            "count": 1,
+            "attributes": [],
+            "item": {
+              "id": "60b7c2bd95047637182d90a4",
+              "name": "MP-155 12ga セミオートショットガン Ultima"
+            }
+          }
+        ]
+      },
       "objectives": [
         {
           "id": "5c0bc95086f7746e784f39ec",
@@ -57759,40 +57792,7 @@
             ]
           ]
         }
-      ],
-      "finishRewards": {
-        "offerUnlock": [],
-        "skillLevelReward": [],
-        "traderUnlock": [],
-        "traderStanding": [
-          {
-            "standing": 0.05,
-            "trader": {
-              "id": "58330581ace78e27b8b10cee",
-              "name": "Skier"
-            }
-          }
-        ],
-        "items": [
-          {
-            "count": 100000,
-            "attributes": [],
-            "item": {
-              "id": "5449016a4bdc2d6f028b456f",
-              "name": "ルーブル紙幣"
-            }
-          },
-          {
-            "count": 1,
-            "attributes": [],
-            "item": {
-              "id": "60b7c2bd95047637182d90a4",
-              "name": "MP-155 12ga セミオートショットガン Ultima"
-            }
-          }
-        ],
-        "craftUnlock": []
-      }
+      ]
     },
     {
       "id": "5c0d0f1886f77457b8210226",
@@ -62351,6 +62351,7 @@
       "finishRewards": {
         "skillLevelReward": [],
         "traderUnlock": [],
+        "craftUnlock": [],
         "traderStanding": [
           {
             "standing": 0.01,
@@ -62382,8 +62383,7 @@
               "name": "マイコンボード"
             }
           }
-        ],
-        "craftUnlock": []
+        ]
       }
     },
     {
@@ -62888,6 +62888,7 @@
         "offerUnlock": [],
         "skillLevelReward": [],
         "traderUnlock": [],
+        "craftUnlock": [],
         "traderStanding": [
           {
             "standing": 0.03,
@@ -62906,8 +62907,7 @@
               "name": "シリコン光電子集積回路の教本"
             }
           }
-        ],
-        "craftUnlock": []
+        ]
       }
     },
     {
@@ -67728,10 +67728,6 @@
               "name": "Customs"
             },
             {
-              "id": "5704e3c2d2720bac5b8b4567",
-              "name": "Woods"
-            },
-            {
               "id": "5704e4dad2720bb55b8b4567",
               "name": "Lighthouse"
             },
@@ -67771,10 +67767,6 @@
               "name": "Customs"
             },
             {
-              "id": "5704e3c2d2720bac5b8b4567",
-              "name": "Woods"
-            },
-            {
               "id": "5704e4dad2720bb55b8b4567",
               "name": "Lighthouse"
             },
@@ -67808,10 +67800,6 @@
             {
               "id": "56f40101d2720b2a4d8b45d6",
               "name": "Customs"
-            },
-            {
-              "id": "5704e3c2d2720bac5b8b4567",
-              "name": "Woods"
             },
             {
               "id": "5704e4dad2720bb55b8b4567",
@@ -79713,7 +79701,7 @@
           "id": "69ce21e990144e437802b1e2",
           "type": "giveItem",
           "description": "Find the item in raid: Black Division plate carrier",
-          "optional": true,
+          "optional": false,
           "maps": [],
           "count": 5,
           "foundInRaid": true,
@@ -79724,57 +79712,6 @@
             "id": "689479cb47e5acd1e10be986",
             "name": "Ferro Concepts FCPC V5 プレートキャリア (Black Division)",
             "shortName": "FCPC V5"
-          }
-        },
-        {
-          "id": "69ce21e990144e437802b1e2",
-          "type": "giveItem",
-          "description": "Find the item in raid: Black Division plate carrier",
-          "optional": true,
-          "maps": [],
-          "count": 5,
-          "foundInRaid": true,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "item": {
-            "id": "689479eb30cc5ba7be00f5ff",
-            "name": "Spiritus Systems LV-119 プレートキャリア (Black Division V2)",
-            "shortName": "LV-119"
-          }
-        },
-        {
-          "id": "69ce21e990144e437802b1e2",
-          "type": "giveItem",
-          "description": "Find the item in raid: Black Division plate carrier",
-          "optional": true,
-          "maps": [],
-          "count": 5,
-          "foundInRaid": true,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "item": {
-            "id": "69e2441a18cb3157560855ec",
-            "name": "Spiritus Systems LV-119 Plate Carrier (MultiCam Black)",
-            "shortName": "LV-119"
-          }
-        },
-        {
-          "id": "69ce21e990144e437802b1e2",
-          "type": "giveItem",
-          "description": "Find the item in raid: Black Division plate carrier",
-          "optional": true,
-          "maps": [],
-          "count": 5,
-          "foundInRaid": true,
-          "dogTagLevel": 0,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "item": {
-            "id": "68947a4be4bf255d1b0ca746",
-            "name": "First Spear Siege-R Optimized M.A.S.S. プレートキャリア (Black Division)",
-            "shortName": "Siege-R"
           }
         }
       ],
