@@ -72305,7 +72305,7 @@
       "normalizedName": "knights-armament-company-sr-25-762x51-marksman-rifle-taupe",
       "image512pxLink": "https://assets.tarkov.dev/6932abeb5403890d0c09c926-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/6932abeb5403890d0c09c926-image.webp",
-      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Knight%27s_Armament_Company_SR-25_7.62x51_marksman_rifle_(Taupe)",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Knight%2527s_Armament_Company_SR-25_7.62x51_marksman_rifle",
       "types": [
         "gun"
       ],
@@ -72706,7 +72706,7 @@
       "normalizedName": "knights-armament-company-sr-25-762x51-marksman-rifle-taupe-default",
       "image512pxLink": "https://assets.tarkov.dev/693ae5b60a32abe2210c69d6-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/693ae5b60a32abe2210c69d6-image.webp",
-      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Knight%2527s_Armament_Company_SR-25_7.62x51_marksman_rifle",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Knight%27s_Armament_Company_SR-25_7.62x51_marksman_rifle_(Taupe)",
       "types": [
         "preset"
       ],
@@ -76634,6 +76634,177 @@
       "width": 6,
       "height": 2,
       "weight": 5.338
+    },
+    {
+      "id": "707265736574000000000022",
+      "name": "Knight's Armament Company SR-25 7.62x51 マークスマンライフル PM II 1-8",
+      "shortName": "SR-25 PM II 1-8",
+      "normalizedName": "knights-armament-company-sr-25-762x51-marksman-rifle-pm-ii-1-8",
+      "image512pxLink": "https://assets.tarkov.dev/707265736574000000000022-512.webp",
+      "inspectImageLink": "https://assets.tarkov.dev/707265736574000000000022-image.webp",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Knight%27s_Armament_Company_SR-25_7.62x51_marksman_rifle",
+      "types": [
+        "preset"
+      ],
+      "width": 6,
+      "height": 2,
+      "weight": 6.477
+    },
+    {
+      "id": "707265736574000000000023",
+      "name": "HK MP5 9x19 サブマシンガン (Navy 3 Round Burst) PRO",
+      "shortName": "MP5 PRO",
+      "normalizedName": "hk-mp5-9x19-submachine-gun-navy-3-round-burst-pro",
+      "image512pxLink": "https://assets.tarkov.dev/707265736574000000000023-512.webp",
+      "inspectImageLink": "https://assets.tarkov.dev/707265736574000000000023-image.webp",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/HK_MP5_9x19_submachine_gun_(Navy_3_Round_Burst)",
+      "types": [
+        "preset"
+      ],
+      "width": 4,
+      "height": 2,
+      "weight": 4.281
+    },
+    {
+      "id": "707265736574000000000024",
+      "name": "Degtyarev RPDN 7.62x39 マシンガン EKP-1S-03",
+      "shortName": "RPDN EKP-1S-03",
+      "normalizedName": "degtyarev-rpdn-762x39-machine-gun-ekp-1s-03",
+      "image512pxLink": "https://assets.tarkov.dev/707265736574000000000024-512.webp",
+      "inspectImageLink": "https://assets.tarkov.dev/707265736574000000000024-image.webp",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Degtyarev_RPDN_7.62x39_machine_gun",
+      "types": [
+        "noFlea",
+        "preset"
+      ],
+      "width": 5,
+      "height": 2,
+      "weight": 8.825
+    },
+    {
+      "id": "707265736574000000000025",
+      "name": "SR-2M \"Veresk\" 9x21 サブマシンガン SV-1381",
+      "shortName": "SR-2M SV-1381",
+      "normalizedName": "sr-2m-veresk-9x21-submachine-gun-sv-1381",
+      "image512pxLink": "https://assets.tarkov.dev/707265736574000000000025-512.webp",
+      "inspectImageLink": "https://assets.tarkov.dev/707265736574000000000025-image.webp",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SR-2M_Veresk_9x21_submachine_gun",
+      "types": [
+        "preset"
+      ],
+      "width": 4,
+      "height": 2,
+      "weight": 3.28
+    },
+    {
+      "id": "707265736574000000000026",
+      "name": "MDR 5.56x45 アサルトライフル EXPS3-0",
+      "shortName": "MDR EXPS3-0",
+      "normalizedName": "desert-tech-mdr-556x45-assault-rifle-exps3-0",
+      "image512pxLink": "https://assets.tarkov.dev/707265736574000000000026-512.webp",
+      "inspectImageLink": "https://assets.tarkov.dev/707265736574000000000026-image.webp",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Desert_Tech_MDR_5.56x45_assault_rifle",
+      "types": [
+        "preset"
+      ],
+      "width": 4,
+      "height": 2,
+      "weight": 5.241
+    },
+    {
+      "id": "707265736574000000000027",
+      "name": "Kalashnikov AK-308 7.62x51 アサルトライフル 1-6x24",
+      "shortName": "AK-308 1-6x24",
+      "normalizedName": "kalashnikov-ak-308-762x51-assault-rifle-vudu-1-6",
+      "image512pxLink": "https://assets.tarkov.dev/707265736574000000000027-512.webp",
+      "inspectImageLink": "https://assets.tarkov.dev/707265736574000000000027-image.webp",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Kalashnikov_AK-308_7.62x51_assault_rifle",
+      "types": [
+        "preset"
+      ],
+      "width": 6,
+      "height": 2,
+      "weight": 5.908
+    },
+    {
+      "id": "707265736574000000000028",
+      "name": "AS VAL MOD.4 9x39 スペシャルアサルトライフル BOSS Xe",
+      "shortName": "AS VAL MOD.4 BOSS Xe",
+      "normalizedName": "as-val-mod4-9x39-special-assault-rifle-boss-xe",
+      "image512pxLink": "https://assets.tarkov.dev/707265736574000000000028-512.webp",
+      "inspectImageLink": "https://assets.tarkov.dev/707265736574000000000028-image.webp",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AS_VAL_MOD.4_9x39_special_assault_rifle",
+      "types": [
+        "noFlea",
+        "preset"
+      ],
+      "width": 4,
+      "height": 2,
+      "weight": 3.703
+    },
+    {
+      "id": "707265736574000000000029",
+      "name": "TKPD 9.3x64 カービン PM II 1-8",
+      "shortName": "TKPD PM II 1-8",
+      "normalizedName": "tkpd-93x64-carbine-pm-ii-1-8",
+      "image512pxLink": "https://assets.tarkov.dev/707265736574000000000029-512.webp",
+      "inspectImageLink": "https://assets.tarkov.dev/707265736574000000000029-image.webp",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/TKPD_9.3x64_carbine",
+      "types": [
+        "noFlea",
+        "preset"
+      ],
+      "width": 6,
+      "height": 2,
+      "weight": 6.663
+    },
+    {
+      "id": "70726573657400000000002a",
+      "name": "SWORD International Mk-18 .338 LM マークスマンライフル Zeus-Pro 640",
+      "shortName": "Mk-18 Mjölnir Zeus-Pro 640",
+      "normalizedName": "sword-international-mk-18-338-lm-marksman-rifle-zeus-pro-640",
+      "image512pxLink": "https://assets.tarkov.dev/70726573657400000000002a-512.webp",
+      "inspectImageLink": "https://assets.tarkov.dev/70726573657400000000002a-image.webp",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SWORD_International_Mk-18_.338_LM_marksman_rifle",
+      "types": [
+        "noFlea",
+        "preset"
+      ],
+      "width": 7,
+      "height": 2,
+      "weight": 8.984
+    },
+    {
+      "id": "70726573657400000000002b",
+      "name": "M32A1 MSGL 40mm grenade launcher M2A1",
+      "shortName": "MSGL M2A1",
+      "normalizedName": "milkor-m32a1-msgl-40mm-grenade-launcher-m2a1",
+      "image512pxLink": "https://assets.tarkov.dev/70726573657400000000002b-512.webp",
+      "inspectImageLink": "https://assets.tarkov.dev/70726573657400000000002b-image.webp",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Milkor_M32A1_MSGL_40mm_grenade_launcher",
+      "types": [
+        "noFlea",
+        "preset"
+      ],
+      "width": 4,
+      "height": 2,
+      "weight": 5.243
+    },
+    {
+      "id": "70726573657400000000002c",
+      "name": "Kalashnikov PKP 7.62x54R ライトマシンガン PT-2",
+      "shortName": "PKP PT-2",
+      "normalizedName": "kalashnikov-pkp-762x54r-infantry-machine-gun-pt-2",
+      "image512pxLink": "https://assets.tarkov.dev/70726573657400000000002c-512.webp",
+      "inspectImageLink": "https://assets.tarkov.dev/70726573657400000000002c-image.webp",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Kalashnikov_PKP_7.62x54R_infantry_machine_gun",
+      "types": [
+        "noFlea",
+        "preset"
+      ],
+      "width": 6,
+      "height": 3,
+      "weight": 10.795
     },
     {
       "id": "707265736574000000000036",
