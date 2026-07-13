@@ -72305,7 +72305,7 @@
       "normalizedName": "knights-armament-company-sr-25-762x51-marksman-rifle-taupe",
       "image512pxLink": "https://assets.tarkov.dev/6932abeb5403890d0c09c926-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/6932abeb5403890d0c09c926-image.webp",
-      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Knight%2527s_Armament_Company_SR-25_7.62x51_marksman_rifle",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Knight%27s_Armament_Company_SR-25_7.62x51_marksman_rifle_(Taupe)",
       "types": [
         "gun"
       ],
@@ -72706,7 +72706,7 @@
       "normalizedName": "knights-armament-company-sr-25-762x51-marksman-rifle-taupe-default",
       "image512pxLink": "https://assets.tarkov.dev/693ae5b60a32abe2210c69d6-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/693ae5b60a32abe2210c69d6-image.webp",
-      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Knight%27s_Armament_Company_SR-25_7.62x51_marksman_rifle_(Taupe)",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Knight%27s_Armament_Company_SR-25_7.62x51_marksman_rifle",
       "types": [
         "preset"
       ],
@@ -74954,7 +74954,9 @@
       "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
       "wikiLink": "https://escapefromtarkov.fandom.com/wiki/TarCoin",
-      "types": [],
+      "types": [
+        "noFlea"
+      ],
       "width": 1,
       "height": 1,
       "weight": 0.05

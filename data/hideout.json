@@ -3264,7 +3264,7 @@
           "id": "5d484fc0654e76006657e0ab-2",
           "level": 2,
           "constructionTime": 86400,
-          "description": "Medium stash",
+          "description": "中サイズのスタッシュ",
           "skillRequirements": [],
           "traderRequirements": [],
           "stationLevelRequirements": [
@@ -3375,7 +3375,7 @@
           "id": "5d484fc0654e76006657e0ab-3",
           "level": 3,
           "constructionTime": 172800,
-          "description": "Large stash",
+          "description": "大きなスタッシュ",
           "skillRequirements": [],
           "stationLevelRequirements": [
             {
@@ -3491,7 +3491,7 @@
           "id": "5d484fc0654e76006657e0ab-4",
           "level": 4,
           "constructionTime": 345600,
-          "description": "Maximum size stash",
+          "description": "最大サイズのスタッシュ",
           "skillRequirements": [],
           "stationLevelRequirements": [
             {
