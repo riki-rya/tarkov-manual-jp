@@ -42635,7 +42635,6 @@
       "inspectImageLink": "https://assets.tarkov.dev/62963c18dbc8ab5f0d382d0b-image.webp",
       "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Death_Knight_mask",
       "types": [
-        "noFlea",
         "wearable"
       ],
       "width": 2,
@@ -72305,7 +72304,7 @@
       "normalizedName": "knights-armament-company-sr-25-762x51-marksman-rifle-taupe",
       "image512pxLink": "https://assets.tarkov.dev/6932abeb5403890d0c09c926-512.webp",
       "inspectImageLink": "https://assets.tarkov.dev/6932abeb5403890d0c09c926-image.webp",
-      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Knight%27s_Armament_Company_SR-25_7.62x51_marksman_rifle_(Taupe)",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Knight%27s_Armament_Company_SR-25_7.62x51_marksman_rifle",
       "types": [
         "gun"
       ],
@@ -75018,7 +75017,8 @@
       "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
       "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Model_8230_CS_gas_grenade",
       "types": [
-        "grenade"
+        "grenade",
+        "noFlea"
       ],
       "width": 1,
       "height": 1,
@@ -76116,6 +76116,22 @@
       "width": 2,
       "height": 2,
       "weight": 4
+    },
+    {
+      "id": "6a33c17933cff6b88c08902e",
+      "name": "Admin's key",
+      "shortName": "Admin",
+      "normalizedName": "admins-key",
+      "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp",
+      "inspectImageLink": "https://assets.tarkov.dev/unknown-item-inspect.webp",
+      "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Admin%27s_key",
+      "types": [
+        "keys",
+        "noFlea"
+      ],
+      "width": 1,
+      "height": 1,
+      "weight": 0.01
     },
     {
       "id": "707265736574000000000000",
